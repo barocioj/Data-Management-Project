@@ -1,0 +1,1420 @@
+pokemon_id,team_id,regulation,game_name,pokemon_name,type1,type2,ability,teratype,nature,bst,hp,atk,def,sp_atk,sp_def,spd
+0,1,Regulation Set A,Baxcalibur (M),Baxcalibur,Dragon,Ice,Thermal Exchange,Water,Adamant,600,115,145,92,75,86,87
+1,1,Regulation Set A,Garganacl (M),Garganacl,Rock,,Purifying Salt,Poison,Careful,500,100,100,130,45,90,35
+2,1,Regulation Set A,Gholdengo,Gholdengo,Steel,Ghost,Good as Gold,Steel,Timid,550,87,60,95,133,91,84
+3,1,Regulation Set A,Meowscarada (M),Meowscarada,Grass,Dark,Overgrow,Grass,Adamant,530,76,110,70,81,70,123
+4,1,Regulation Set A,Mimikyu (F),Mimikyu,Ghost,Fairy,Disguise,Ghost,Adamant,476,55,90,80,50,105,96
+5,1,Regulation Set A,Tauros-Paldea-Water,Tauros (Aqua Breed),Fighting,Water,Intimidate,Water,Impish,490,75,110,105,30,70,100
+6,2,Regulation Set A,Arcanine,Arcanine,Fire,,Intimidate,Fairy,Adamant,555,90,110,80,100,80,95
+7,2,Regulation Set A,Pawmot,Pawmot,Electric,Fighting,Natural Cure,Electric,Jolly,490,70,115,70,70,60,105
+8,2,Regulation Set A,Gholdengo,Gholdengo,Steel,Ghost,Good as Gold,Steel,Timid,550,87,60,95,133,91,84
+9,2,Regulation Set A,Tatsugiri (Tatsugiri-Stretchy),Tatsugiri (Stretchy Form),Dragon,Water,Commander,Water,Timid,475,68,50,60,120,95,82
+10,2,Regulation Set A,Meowscarada,Meowscarada,Grass,Dark,Protean,Grass,Jolly,530,76,110,70,81,70,123
+11,2,Regulation Set A,Dondozo,Dondozo,Water,,Unaware,Dragon,Adamant,530,150,100,115,65,65,35
+12,3,Regulation Set A,Indeedee-F (F),Indeedee (Female),Psychic,Normal,Psychic Surge,Psychic,Bold,475,70,55,65,95,105,85
+13,3,Regulation Set A,Armarouge,Armarouge,Fire,Psychic,Flash Fire,Grass,Modest,525,85,60,100,125,80,75
+14,3,Regulation Set A,Maushold-Four,Maushold (Family of Four),Normal,,Technician,Ghost,Jolly,470,74,75,70,65,75,111
+15,3,Regulation Set A,Hydreigon,Hydreigon,Dark,Dragon,Levitate,Steel,Timid,600,92,105,90,125,90,98
+16,3,Regulation Set A,Meowscarada,Meowscarada,Grass,Dark,Overgrow,Grass,Adamant,530,76,110,70,81,70,123
+17,3,Regulation Set A,Murkrow,Murkrow,Dark,Flying,Insomnia,Dark,Impish,405,60,85,42,85,42,91
+18,4,Regulation Set A,Gholdengo,Gholdengo,Steel,Ghost,Good as Gold,None,Modest,550,87,60,95,133,91,84
+19,4,Regulation Set A,Murkrow (F),Murkrow,Dark,Flying,Prankster,Flying,Calm,405,60,85,42,85,42,91
+20,4,Regulation Set A,Hydreigon (F),Hydreigon,Dark,Dragon,Levitate,Steel,Timid,600,92,105,90,125,90,98
+21,4,Regulation Set A,Annihilape (M),Annihilape,Fighting,Ghost,Defiant,None,Adamant,535,110,115,80,50,90,90
+22,4,Regulation Set A,Armarouge (M),Armarouge,Fire,Psychic,Flash Fire,Grass,Modest,525,85,60,100,125,80,75
+23,4,Regulation Set A,Dragonite (M),Dragonite,Dragon,Flying,Inner Focus,Normal,Adamant,600,91,134,95,100,100,80
+24,5,Regulation Set A,Pelipper,Pelipper,Water,Flying,Drizzle,Grass,Modest,440,60,50,100,95,70,65
+25,5,Regulation Set A,Palafin,Palafin (Hero Form),Water,,Zero to Hero,Water,Adamant,650,100,160,97,106,87,100
+26,5,Regulation Set A,Kingambit,Kingambit,Dark,Steel,Defiant,Dark,Adamant,550,100,135,120,60,85,50
+27,5,Regulation Set A,Gallade,Gallade,Psychic,Fighting,Sharpness,Grass,Adamant,518,68,125,65,65,115,80
+28,5,Regulation Set A,Rotom-Mow,Rotom (Mow Rotom),Electric,Grass,Levitate,Electric,Modest,520,50,65,107,105,107,86
+29,5,Regulation Set A,Amoonguss,Amoonguss,Grass,Poison,Regenerator,Water,Bold,464,114,85,70,85,80,30
+30,6,Regulation Set A,Hariyama (M),Hariyama,Fighting,,Guts,Fighting,Adamant,474,144,120,60,40,60,50
+31,6,Regulation Set A,Amoonguss (F),Amoonguss,Grass,Poison,Regenerator,Water,Sassy,464,114,85,70,85,80,30
+32,6,Regulation Set A,Frosmoth (M),Frosmoth,Ice,Bug,Ice Scales,Electric,Modest,475,70,65,60,125,90,65
+33,6,Regulation Set A,Kingambit (M),Kingambit,Dark,Steel,Defiant,Flying,Adamant,550,100,135,120,60,85,50
+34,6,Regulation Set A,Farigiraf (M),Farigiraf,Normal,Psychic,Armor Tail,Normal,Quiet,520,120,90,70,110,70,60
+35,6,Regulation Set A,Sylveon (F),Sylveon,Fairy,,Pixilate,Fire,Quiet,525,95,65,65,110,130,60
+36,7,Regulation Set A,Murkrow (M),Murkrow,Dark,Flying,Prankster,Ghost,Calm,405,60,85,42,85,42,91
+37,7,Regulation Set A,Azumarill (F),Azumarill,Water,Fairy,Huge Power,Grass,Adamant,420,100,50,80,60,80,50
+38,7,Regulation Set A,Hydreigon (M),Hydreigon,Dark,Dragon,Levitate,Steel,Timid,600,92,105,90,125,90,98
+39,7,Regulation Set A,Gholdengo,Gholdengo,Steel,Ghost,Good as Gold,Flying,Modest,550,87,60,95,133,91,84
+40,7,Regulation Set A,Rotom-Heat,Rotom (Heat Rotom),Electric,Fire,Levitate,Electric,Modest,520,50,65,107,105,107,86
+41,7,Regulation Set A,Garchomp (M),Garchomp,Dragon,Ground,Rough Skin,Fire,Jolly,600,108,130,95,80,85,102
+42,8,Regulation Set A,Hydreigon,Hydreigon,Dark,Dragon,Levitate,Fire,Modest,600,92,105,90,125,90,98
+43,8,Regulation Set A,Garchomp,Garchomp,Dragon,Ground,Rough Skin,Fire,Jolly,600,108,130,95,80,85,102
+44,8,Regulation Set A,Gholdengo,Gholdengo,Steel,Ghost,Good as Gold,Flying,Modest,550,87,60,95,133,91,84
+45,8,Regulation Set A,Amoonguss,Amoonguss,Grass,Poison,Regenerator,Dark,Sassy,464,114,85,70,85,80,30
+46,8,Regulation Set A,Murkrow,Murkrow,Dark,Flying,Prankster,Ghost,Bold,405,60,85,42,85,42,91
+47,8,Regulation Set A,Maushold-Four,Maushold (Family of Four),Normal,,Technician,Ghost,Jolly,470,74,75,70,65,75,111
+48,9,Regulation Set A,Gothitelle (M),Gothitelle,Psychic,,Shadow Tag,Dark,Careful,490,70,55,95,95,110,65
+49,9,Regulation Set A,Gyarados (M),Gyarados,Water,Flying,Intimidate,Flying,Jolly,540,95,125,79,60,100,81
+50,9,Regulation Set A,Kingambit (M),Kingambit,Dark,Steel,Defiant,Fairy,Adamant,550,100,135,120,60,85,50
+51,9,Regulation Set A,Amoonguss (M),Amoonguss,Grass,Poison,Regenerator,Water,Calm,464,114,85,70,85,80,30
+52,9,Regulation Set A,Azumarill (F),Azumarill,Water,Fairy,Sap Sipper,Ground,Relaxed,420,100,50,80,60,80,50
+53,9,Regulation Set A,Meowscarada (M),Meowscarada,Grass,Dark,Protean,Grass,Adamant,530,76,110,70,81,70,123
+54,10,Regulation Set A,Talonflame (M),Talonflame,Fire,Flying,Gale Wings,Fire,Timid,499,78,81,71,74,69,126
+55,10,Regulation Set A,Skeledirge (M),Skeledirge,Fire,Ghost,Unaware,Grass,Modest,530,104,75,100,110,75,66
+56,10,Regulation Set A,Gholdengo,Gholdengo,Steel,Ghost,Good as Gold,Water,Timid,550,87,60,95,133,91,84
+57,10,Regulation Set A,Annihilape (F),Annihilape,Fighting,Ghost,Defiant,Fighting,Adamant,535,110,115,80,50,90,90
+58,10,Regulation Set A,Tyranitar (F),Tyranitar,Rock,Dark,Sand Stream,Fire,Adamant,600,100,134,110,95,100,61
+59,10,Regulation Set A,Canela (Houndstone) (M),Houndstone,Ghost,,Sand Rush,Dark,Adamant,488,72,101,100,50,97,68
+60,11,Regulation Set A,Baxcalibur (M),Baxcalibur,Dragon,Ice,Thermal Exchange,Ground,Adamant,600,115,145,92,75,86,87
+61,11,Regulation Set A,Azumarill (M),Azumarill,Water,Fairy,Sap Sipper,Fairy,Calm,420,100,50,80,60,80,50
+62,11,Regulation Set A,Salazzle,Salazzle,Poison,Fire,Oblivious,Flying,Timid,480,68,64,60,111,60,117
+63,11,Regulation Set A,Hydreigon (F),Hydreigon,Dark,Dragon,Levitate,Steel,Timid,600,92,105,90,125,90,98
+64,11,Regulation Set A,Gallade,Gallade,Psychic,Fighting,Sharpness,Psychic,Adamant,518,68,125,65,65,115,80
+65,11,Regulation Set A,Amoonguss (M),Amoonguss,Grass,Poison,Regenerator,Water,Bold,464,114,85,70,85,80,30
+66,12,Regulation Set A,Abomasnow,Abomasnow,Grass,Ice,Snow Warning,Water,Modest,494,90,92,75,92,85,60
+67,12,Regulation Set A,Cetitan,Cetitan,Ice,,Slush Rush,Water,Adamant,521,170,113,65,45,55,73
+68,12,Regulation Set A,Indeedee-F,Indeedee (Female),Psychic,Normal,Psychic Surge,Fairy,Bold,475,70,55,65,95,105,85
+69,12,Regulation Set A,Armarouge,Armarouge,Fire,Psychic,Flash Fire,Dark,Modest,525,85,60,100,125,80,75
+70,12,Regulation Set A,Hydreigon,Hydreigon,Dark,Dragon,Levitate,Poison,Timid,600,92,105,90,125,90,98
+71,12,Regulation Set A,Annihilape (M),Annihilape,Fighting,Ghost,Defiant,Water,Adamant,535,110,115,80,50,90,90
+72,13,Regulation Set A,Gholdengo,Gholdengo,Steel,Ghost,Good as Gold,None,Modest,550,87,60,95,133,91,84
+73,13,Regulation Set A,Murkrow,Murkrow,Dark,Flying,Prankster,Ghost,Bold,405,60,85,42,85,42,91
+74,13,Regulation Set A,Dragonite,Dragonite,Dragon,Flying,Inner Focus,Normal,Adamant,600,91,134,95,100,100,80
+75,13,Regulation Set A,Hydreigon,Hydreigon,Dark,Dragon,Levitate,Fire,Modest,600,92,105,90,125,90,98
+76,13,Regulation Set A,Ceruledge,Ceruledge,Fire,Ghost,Flash Fire,Grass,Adamant,525,75,125,80,60,100,85
+77,13,Regulation Set A,Gengar,Gengar,Ghost,Poison,Cursed Body,Flying,Timid,500,60,65,60,130,75,110
+79,14,Regulation Set A,Dondozo,Dondozo,Water,,Unaware,Grass,Adamant,530,150,100,115,65,65,35
+80,14,Regulation Set A,Sylveon,Sylveon,Fairy,,Pixilate,None,Modest,525,95,65,65,110,130,60
+81,14,Regulation Set A,Hydreigon,Hydreigon,Dark,Dragon,Levitate,Steel,Timid,600,92,105,90,125,90,98
+82,14,Regulation Set A,Armarouge,Armarouge,Fire,Psychic,Flash Fire,Dark,Modest,525,85,60,100,125,80,75
+83,14,Regulation Set A,Meowscarada,Meowscarada,Grass,Dark,Overgrow,None,Adamant,530,76,110,70,81,70,123
+84,15,Regulation Set A,Gholdengo,Gholdengo,Steel,Ghost,Good as Gold,None,Modest,550,87,60,95,133,91,84
+85,15,Regulation Set A,Garchomp (M),Garchomp,Dragon,Ground,Rough Skin,Fire,Adamant,600,108,130,95,80,85,102
+86,15,Regulation Set A,Maushold-Four,Maushold (Family of Four),Normal,,Technician,None,Jolly,470,74,75,70,65,75,111
+87,15,Regulation Set A,Annihilape (F),Annihilape,Fighting,Ghost,Defiant,Normal,Jolly,535,110,115,80,50,90,90
+88,15,Regulation Set A,Murkrow (F),Murkrow,Dark,Flying,Prankster,Ghost,Bold,405,60,85,42,85,42,91
+89,15,Regulation Set A,Hydreigon (F),Hydreigon,Dark,Dragon,Levitate,Steel,Timid,600,92,105,90,125,90,98
+90,16,Regulation Set A,Kilowattrel (M),Kilowattrel,Electric,Flying,Competitive,Steel,Timid,490,70,70,60,105,60,125
+91,16,Regulation Set A,Meowscarada (F),Meowscarada,Grass,Dark,Overgrow,Ghost,Jolly,530,76,110,70,81,70,123
+92,16,Regulation Set A,Pelipper (M),Pelipper,Water,Flying,Drizzle,Ground,Modest,440,60,50,100,95,70,65
+93,16,Regulation Set A,Amoonguss (F),Amoonguss,Grass,Poison,Regenerator,Water,Sassy,464,114,85,70,85,80,30
+94,16,Regulation Set A,Palafin (F),Palafin (Hero Form),Water,,Zero to Hero,None,Adamant,650,100,160,97,106,87,100
+95,16,Regulation Set A,Gholdengo,Gholdengo,Steel,Ghost,Good as Gold,None,Timid,550,87,60,95,133,91,84
+96,17,Regulation Set A,Tatsugiri-Stretchy (M),Tatsugiri (Stretchy Form),Dragon,Water,Commander,Dragon,Timid,475,68,50,60,120,95,82
+97,17,Regulation Set A,Dondozo (M),Dondozo,Water,,Unaware,Dragon,Adamant,530,150,100,115,65,65,35
+98,17,Regulation Set A,Meowscarada (M),Meowscarada,Grass,Dark,Overgrow,Grass,Jolly,530,76,110,70,81,70,123
+99,17,Regulation Set A,Gholdengo,Gholdengo,Steel,Ghost,Good as Gold,Steel,Modest,550,87,60,95,133,91,84
+100,17,Regulation Set A,Volcarona (M),Volcarona,Bug,Fire,Flame Body,Fire,Bold,550,85,60,65,135,105,100
+101,17,Regulation Set A,Baxcalibur (F),Baxcalibur,Dragon,Ice,Thermal Exchange,Steel,Adamant,600,115,145,92,75,86,87
+102,18,Regulation Set A,Armarouge (M),Armarouge,Fire,Psychic,Weak Armor,Dark,Modest,525,85,60,100,125,80,75
+103,18,Regulation Set A,Indeedee-F,Indeedee (Female),Psychic,Normal,Psychic Surge,Ghost,Calm,475,70,55,65,95,105,85
+104,18,Regulation Set A,Sylveon (M),Sylveon,Fairy,,Pixilate,Fire,Modest,525,95,65,65,110,130,60
+105,18,Regulation Set A,Salamence (M),Salamence,Dragon,Flying,Intimidate,Steel,Jolly,600,95,135,80,110,80,100
+106,18,Regulation Set A,Garchomp (M),Garchomp,Dragon,Ground,Rough Skin,Steel,Adamant,600,108,130,95,80,85,102
+107,18,Regulation Set A,Palafin (M),Palafin (Hero Form),Water,,Zero to Hero,Water,Jolly,650,100,160,97,106,87,100
+108,19,Regulation Set A,Dondozo (M),Dondozo,Water,,Unaware,Grass,Adamant,530,150,100,115,65,65,35
+109,19,Regulation Set A,Dragonite (F),Dragonite,Dragon,Flying,Multiscale,Flying,Adamant,600,91,134,95,100,100,80
+110,19,Regulation Set A,Meowscarada (F),Meowscarada,Grass,Dark,Overgrow,Grass,Jolly,530,76,110,70,81,70,123
+111,19,Regulation Set A,Tatsugiri-Stretchy (F),Tatsugiri (Stretchy Form),Dragon,Water,Commander,Water,Timid,475,68,50,60,120,95,82
+112,19,Regulation Set A,Kingambit (F),Kingambit,Dark,Steel,Defiant,Dark,Adamant,550,100,135,120,60,85,50
+113,19,Regulation Set A,Volcarona (M),Volcarona,Bug,Fire,Flame Body,Ghost,Bold,550,85,60,65,135,105,100
+115,20,Regulation Set A,Dondozo (F),Dondozo,Water,,Unaware,Grass,Relaxed,530,150,100,115,65,65,35
+116,20,Regulation Set A,Meowscarada (F),Meowscarada,Grass,Dark,Overgrow,Grass,Jolly,530,76,110,70,81,70,123
+117,20,Regulation Set A,Dragonite (M),Dragonite,Dragon,Flying,Multiscale,Normal,Adamant,600,91,134,95,100,100,80
+118,20,Regulation Set A,Gholdengo,Gholdengo,Steel,Ghost,Good as Gold,Steel,Timid,550,87,60,95,133,91,84
+119,20,Regulation Set A,Arcanine (M),Arcanine,Fire,,Intimidate,Normal,Adamant,555,90,110,80,100,80,95
+120,21,Regulation Set A,Tatsugiri-Droopy (F),Tatsugiri (Droopy Form),Dragon,Water,Commander,Dragon,Modest,475,68,50,60,120,95,82
+121,21,Regulation Set A,Dondozo (M),Dondozo,Water,,Unaware,Flying,Adamant,530,150,100,115,65,65,35
+122,21,Regulation Set A,Glimmora (F),Glimmora,Rock,Poison,Toxic Debris,Grass,Timid,525,83,55,90,130,81,86
+123,21,Regulation Set A,Volcarona (F),Volcarona,Bug,Fire,Flame Body,Dark,Modest,550,85,60,65,135,105,100
+124,21,Regulation Set A,Dragonite (F),Dragonite,Dragon,Flying,Multiscale,Flying,Adamant,600,91,134,95,100,100,80
+125,21,Regulation Set A,Mimikyu (F),Mimikyu,Ghost,Fairy,Disguise,Ghost,Adamant,476,55,90,80,50,105,96
+126,22,Regulation Set A,Dragonite (M),Dragonite,Dragon,Flying,Multiscale,Flying,Adamant,600,91,134,95,100,100,80
+127,22,Regulation Set A,Meowscarada (M),Meowscarada,Grass,Dark,Overgrow,Dark,Jolly,530,76,110,70,81,70,123
+128,22,Regulation Set A,Talonflame (F),Talonflame,Fire,Flying,Gale Wings,Ghost,Jolly,499,78,81,71,74,69,126
+129,22,Regulation Set A,Gholdengo,Gholdengo,Steel,Ghost,Good as Gold,Water,Modest,550,87,60,95,133,91,84
+130,22,Regulation Set A,Dondozo (F),Dondozo,Water,,Unaware,Flying,Jolly,530,150,100,115,65,65,35
+131,22,Regulation Set A,Tatsugiri-Stretchy (F),Tatsugiri (Stretchy Form),Dragon,Water,Storm Drain,Dragon,Timid,475,68,50,60,120,95,82
+132,23,Regulation Set A,Volcarona (F),Volcarona,Bug,Fire,Flame Body,Water,Bold,550,85,60,65,135,105,100
+133,23,Regulation Set A,Meowscarada (M),Meowscarada,Grass,Dark,Overgrow,Grass,Jolly,530,76,110,70,81,70,123
+134,23,Regulation Set A,Indeedee-F,Indeedee (Female),Psychic,Normal,Psychic Surge,Fairy,Modest,475,70,55,65,95,105,85
+135,23,Regulation Set A,Armarouge (F),Armarouge,Fire,Psychic,Weak Armor,Psychic,Modest,525,85,60,100,125,80,75
+136,23,Regulation Set A,Garchomp (M),Garchomp,Dragon,Ground,Rough Skin,Ground,Jolly,600,108,130,95,80,85,102
+137,23,Regulation Set A,Baxcalibur (F),Baxcalibur,Dragon,Ice,Thermal Exchange,Fairy,Adamant,600,115,145,92,75,86,87
+138,24,Regulation Set A,Pelipper,Pelipper,Water,Flying,Drizzle,Grass,Modest,440,60,50,100,95,70,65
+139,24,Regulation Set A,CAPTAIN GOLD (Gholdengo),Gholdengo,Steel,Ghost,Good as Gold,Steel,Timid,550,87,60,95,133,91,84
+140,24,Regulation Set A,E HERO CLAYMAN (Amoonguss),Amoonguss,Grass,Poison,Regenerator,Dark,Bold,464,114,85,70,85,80,30
+141,24,Regulation Set A,Kingambit,Kingambit,Dark,Steel,Defiant,Grass,Adamant,550,100,135,120,60,85,50
+142,24,Regulation Set A,E HERO NEOS (Palafin),Palafin (Hero Form),Water,,Zero to Hero,Grass,Adamant,650,100,160,97,106,87,100
+143,24,Regulation Set A,EHERO STRATOS (Salamence),Salamence,Dragon,Flying,Intimidate,Steel,Modest,600,95,135,80,110,80,100
+144,25,Regulation Set A,Intro Bonito (Talonflame) (M),Talonflame,Fire,Flying,Gale Wings,Ghost,Jolly,499,78,81,71,74,69,126
+145,25,Regulation Set A,Sick Beat (Sylveon) (M),Sylveon,Fairy,,Pixilate,Fire,Modest,525,95,65,65,110,130,60
+146,25,Regulation Set A,Trampoline (Meowscarada) (M),Meowscarada,Grass,Dark,Overgrow,Grass,Jolly,530,76,110,70,81,70,123
+147,25,Regulation Set A,Picture This (Glimmora) (M),Glimmora,Rock,Poison,Toxic Debris,Water,Timid,525,83,55,90,130,81,86
+148,25,Regulation Set A,Only Acting (Dondozo) (M),Dondozo,Water,,Unaware,Flying,Jolly,530,150,100,115,65,65,35
+150,26,Regulation Set A,Pelipper,Pelipper,Water,Flying,Drizzle,Grass,Bold,440,60,50,100,95,70,65
+151,26,Regulation Set A,Palafin,Palafin (Hero Form),Water,,Zero to Hero,Water,Adamant,650,100,160,97,106,87,100
+152,26,Regulation Set A,Amoonguss,Amoonguss,Grass,Poison,Regenerator,Ghost,Sassy,464,114,85,70,85,80,30
+153,26,Regulation Set A,Gholdengo,Gholdengo,Steel,Ghost,Good as Gold,Steel,Modest,550,87,60,95,133,91,84
+154,26,Regulation Set A,Kingambit,Kingambit,Dark,Steel,Defiant,Ghost,Adamant,550,100,135,120,60,85,50
+155,26,Regulation Set A,Dragonite,Dragonite,Dragon,Flying,Multiscale,Flying,Modest,600,91,134,95,100,100,80
+156,27,Regulation Set A,Baxcalibur (F),Baxcalibur,Dragon,Ice,Thermal Exchange,Water,Adamant,600,115,145,92,75,86,87
+157,27,Regulation Set A,Salazzle,Salazzle,Poison,Fire,Oblivious,Fire,Timid,480,68,64,60,111,60,117
+158,27,Regulation Set A,Tauros-Paldea-Water,Tauros (Aqua Breed),Fighting,Water,Intimidate,Fire,Jolly,490,75,110,105,30,70,100
+159,27,Regulation Set A,Gholdengo,Gholdengo,Steel,Ghost,Good as Gold,Flying,Modest,550,87,60,95,133,91,84
+160,27,Regulation Set A,Hydreigon (M),Hydreigon,Dark,Dragon,Levitate,Fire,Timid,600,92,105,90,125,90,98
+161,27,Regulation Set A,Amoonguss (M),Amoonguss,Grass,Poison,Regenerator,Dark,Relaxed,464,114,85,70,85,80,30
+162,28,Regulation Set A,Talonflame (F),Talonflame,Fire,Flying,Gale Wings,Ghost,Jolly,499,78,81,71,74,69,126
+163,28,Regulation Set A,Pawmot (M),Pawmot,Electric,Fighting,Natural Cure,Electric,Jolly,490,70,115,70,70,60,105
+164,28,Regulation Set A,Gholdengo,Gholdengo,Steel,Ghost,Good as Gold,Steel,Timid,550,87,60,95,133,91,84
+165,28,Regulation Set A,Tatsugiri-Stretchy (F),Tatsugiri (Stretchy Form),Dragon,Water,Commander,Water,Timid,475,68,50,60,120,95,82
+166,28,Regulation Set A,Meowscarada (M),Meowscarada,Grass,Dark,Protean,Grass,Jolly,530,76,110,70,81,70,123
+167,28,Regulation Set A,Dondozo (F),Dondozo,Water,,Unaware,Flying,Adamant,530,150,100,115,65,65,35
+168,29,Regulation Set A,Bigsharp (Kingambit) (M),Kingambit,Dark,Steel,Defiant,Water,Adamant,550,100,135,120,60,85,50
+169,29,Regulation Set A,Salazzle,Salazzle,Poison,Fire,Oblivious,Fire,Timid,480,68,64,60,111,60,117
+170,29,Regulation Set A,Amoonguss (M),Amoonguss,Grass,Poison,Regenerator,Dark,Calm,464,114,85,70,85,80,30
+171,29,Regulation Set A,Mimikyu (F),Mimikyu,Ghost,Fairy,Disguise,Ghost,Adamant,476,55,90,80,50,105,96
+172,29,Regulation Set A,Baxcalibur (F),Baxcalibur,Dragon,Ice,Thermal Exchange,Water,Adamant,600,115,145,92,75,86,87
+173,29,Regulation Set A,Robert (Tauros-Paldea-Water),Tauros (Aqua Breed),Fighting,Water,Intimidate,Steel,Jolly,490,75,110,105,30,70,100
+174,30,Regulation Set A,Hydreigon (F),Hydreigon,Dark,Dragon,Levitate,Fire,Timid,600,92,105,90,125,90,98
+175,30,Regulation Set A,Medicham (M),Medicham,Fighting,Psychic,Pure Power,Fighting,Adamant,410,60,60,75,60,75,80
+176,30,Regulation Set A,Gyarados (F),Gyarados,Water,Flying,Intimidate,Flying,Adamant,540,95,125,79,60,100,81
+177,30,Regulation Set A,Kingambit (M),Kingambit,Dark,Steel,Defiant,Water,Adamant,550,100,135,120,60,85,50
+178,30,Regulation Set A,Mimikyu (F),Mimikyu,Ghost,Fairy,Disguise,Ghost,Adamant,476,55,90,80,50,105,96
+179,30,Regulation Set A,Amoonguss (F),Amoonguss,Grass,Poison,Regenerator,Dark,Relaxed,464,114,85,70,85,80,30
+180,31,Regulation Set A,Talonflame (F),Talonflame,Fire,Flying,Gale Wings,Ground,Naive,499,78,81,71,74,69,126
+181,31,Regulation Set A,Maushold,Maushold (Family of Three),Normal,,Technician,Ghost,Jolly,470,74,75,70,65,75,111
+182,31,Regulation Set A,Sylveon (F),Sylveon,Fairy,,Pixilate,Water,Modest,525,95,65,65,110,130,60
+183,31,Regulation Set A,Annihilape (M),Annihilape,Fighting,Ghost,Defiant,Fire,Jolly,535,110,115,80,50,90,90
+184,31,Regulation Set A,Armarouge (F),Armarouge,Fire,Psychic,Flash Fire,Dark,Bold,525,85,60,100,125,80,75
+185,31,Regulation Set A,Meowscarada (F),Meowscarada,Grass,Dark,Overgrow,Ghost,Jolly,530,76,110,70,81,70,123
+186,32,Regulation Set A,Dragonite,Dragonite,Dragon,Flying,Multiscale,Normal,Adamant,600,91,134,95,100,100,80
+187,32,Regulation Set A,Gholdengo,Gholdengo,Steel,Ghost,Good as Gold,Steel,Modest,550,87,60,95,133,91,84
+188,32,Regulation Set A,Azumarill,Azumarill,Water,Fairy,Huge Power,Grass,Adamant,420,100,50,80,60,80,50
+189,32,Regulation Set A,Meowscarada,Meowscarada,Grass,Dark,Overgrow,Grass,Jolly,530,76,110,70,81,70,123
+190,32,Regulation Set A,Skeledirge,Skeledirge,Fire,Ghost,Unaware,Fairy,Modest,530,104,75,100,110,75,66
+191,32,Regulation Set A,Maushold-Four,Maushold (Family of Four),Normal,,Friend Guard,Ghost,Bold,470,74,75,70,65,75,111
+192,33,Regulation Set A,Tauros-Paldea-Water,Tauros (Aqua Breed),Fighting,Water,Intimidate,Water,Jolly,490,75,110,105,30,70,100
+193,33,Regulation Set A,Hydreigon,Hydreigon,Dark,Dragon,Levitate,Steel,Timid,600,92,105,90,125,90,98
+194,33,Regulation Set A,Amoonguss,Amoonguss,Grass,Poison,Regenerator,Dark,Bold,464,114,85,70,85,80,30
+195,33,Regulation Set A,Talonflame,Talonflame,Fire,Flying,Gale Wings,Flying,Jolly,499,78,81,71,74,69,126
+196,33,Regulation Set A,Gholdengo,Gholdengo,Steel,Ghost,Good as Gold,Steel,Modest,550,87,60,95,133,91,84
+197,33,Regulation Set A,Glimmora,Glimmora,Rock,Poison,Toxic Debris,Grass,Timid,525,83,55,90,130,81,86
+198,34,Regulation Set A,Rotom-Wash,Rotom (Wash Rotom),Electric,Water,Levitate,Electric,Modest,520,50,65,107,105,107,86
+199,34,Regulation Set A,Meowscarada,Meowscarada,Grass,Dark,Overgrow,Grass,Jolly,530,76,110,70,81,70,123
+200,34,Regulation Set A,Tauros-Paldea-Fire,Tauros (Blaze Breed),Fighting,Fire,Intimidate,Fire,Jolly,490,75,110,105,30,70,100
+201,34,Regulation Set A,Gholdengo,Gholdengo,Steel,Ghost,Good as Gold,Water,Modest,550,87,60,95,133,91,84
+202,34,Regulation Set A,Grimmsnarl,Grimmsnarl,Dark,Fairy,Prankster,Steel,Careful,510,95,120,65,95,75,60
+203,34,Regulation Set A,Dragonite,Dragonite,Dragon,Flying,Inner Focus,Normal,Adamant,600,91,134,95,100,100,80
+204,35,Regulation Set A,Garganacl,Garganacl,Rock,,Purifying Salt,Fire,Impish,500,100,100,130,45,90,35
+205,35,Regulation Set A,Espathra,Espathra,Psychic,,Opportunist,Fairy,Timid,481,95,60,60,101,60,105
+206,35,Regulation Set A,Tinkaton,Tinkaton,Fairy,Steel,Mold Breaker,Steel,Jolly,506,85,75,77,70,105,94
+207,35,Regulation Set A,Volcarona,Volcarona,Bug,Fire,Flame Body,Grass,Timid,550,85,60,65,135,105,100
+208,35,Regulation Set A,Quaquaval,Quaquaval,Water,Fighting,Moxie,Steel,Adamant,530,85,120,80,85,75,85
+209,35,Regulation Set A,Hydreigon,Hydreigon,Dark,Dragon,Levitate,Steel,Modest,600,92,105,90,125,90,98
+211,36,Regulation Set A,Tyranitar,Tyranitar,Rock,Dark,Sand Stream,Flying,Adamant,600,100,134,110,95,100,61
+212,36,Regulation Set A,Garchomp,Garchomp,Dragon,Ground,Rough Skin,Ground,Jolly,600,108,130,95,80,85,102
+213,36,Regulation Set A,Indeedee-F,Indeedee (Female),Psychic,Normal,Psychic Surge,Fairy,Bold,475,70,55,65,95,105,85
+214,36,Regulation Set A,Hydreigon,Hydreigon,Dark,Dragon,Levitate,Steel,Modest,600,92,105,90,125,90,98
+215,36,Regulation Set A,Talonflame,Talonflame,Fire,Flying,Gale Wings,Ground,Jolly,499,78,81,71,74,69,126
+216,37,Regulation Set A,Murkrow,Murkrow,Dark,Flying,Prankster,Dark,Bold,405,60,85,42,85,42,91
+217,37,Regulation Set A,Azumarill,Azumarill,Water,Fairy,Huge Power,Water,Adamant,420,100,50,80,60,80,50
+218,37,Regulation Set A,Amoonguss,Amoonguss,Grass,Poison,Regenerator,Water,Relaxed,464,114,85,70,85,80,30
+219,37,Regulation Set A,Hydreigon,Hydreigon,Dark,Dragon,Levitate,Fire,Modest,600,92,105,90,125,90,98
+220,37,Regulation Set A,Grimmsnarl,Grimmsnarl,Dark,Fairy,Prankster,Water,Careful,510,95,120,65,95,75,60
+221,37,Regulation Set A,Annihilape,Annihilape,Fighting,Ghost,Defiant,Fire,Adamant,535,110,115,80,50,90,90
+222,38,Regulation Set A,Gholdengo,Gholdengo,Steel,Ghost,Good as Gold,Water,Timid,550,87,60,95,133,91,84
+223,38,Regulation Set A,Pawmot,Pawmot,Electric,Fighting,Volt Absorb,Electric,Jolly,490,70,115,70,70,60,105
+224,38,Regulation Set A,Dragonite,Dragonite,Dragon,Flying,Multiscale,Flying,Adamant,600,91,134,95,100,100,80
+225,38,Regulation Set A,Talonflame,Talonflame,Fire,Flying,Gale Wings,Ghost,Jolly,499,78,81,71,74,69,126
+226,38,Regulation Set A,Dondozo,Dondozo,Water,,Unaware,Flying,Jolly,530,150,100,115,65,65,35
+228,39,Regulation Set A,Murkrow,Murkrow,Dark,Flying,Prankster,Steel,Bold,405,60,85,42,85,42,91
+229,39,Regulation Set A,Amoonguss,Amoonguss,Grass,Poison,Regenerator,Water,Bold,464,114,85,70,85,80,30
+230,39,Regulation Set A,Garchomp,Garchomp,Dragon,Ground,Rough Skin,Fire,Jolly,600,108,130,95,80,85,102
+231,39,Regulation Set A,Tauros-Paldea-Fire,Tauros (Blaze Breed),Fighting,Fire,Intimidate,Grass,Jolly,490,75,110,105,30,70,100
+232,39,Regulation Set A,Gholdengo,Gholdengo,Steel,Ghost,Good as Gold,Flying,Modest,550,87,60,95,133,91,84
+233,39,Regulation Set A,Hydreigon,Hydreigon,Dark,Dragon,Levitate,Fire,Modest,600,92,105,90,125,90,98
+234,40,Regulation Set A,Dragonite,Dragonite,Dragon,Flying,Inner Focus,Normal,Adamant,600,91,134,95,100,100,80
+235,40,Regulation Set A,Arcanine,Arcanine,Fire,,Intimidate,Normal,Adamant,555,90,110,80,100,80,95
+236,40,Regulation Set A,Gengar,Gengar,Ghost,Poison,Cursed Body,Grass,Timid,500,60,65,60,130,75,110
+237,40,Regulation Set A,Azumarill,Azumarill,Water,Fairy,Huge Power,Steel,Adamant,420,100,50,80,60,80,50
+238,40,Regulation Set A,Murkrow,Murkrow,Dark,Flying,Prankster,Dark,Calm,405,60,85,42,85,42,91
+239,40,Regulation Set A,Hydreigon,Hydreigon,Dark,Dragon,Levitate,Fire,Modest,600,92,105,90,125,90,98
+240,41,Regulation Set A,Amoonguss (M),Amoonguss,Grass,Poison,Regenerator,Dark,Calm,464,114,85,70,85,80,30
+241,41,Regulation Set A,Mimikyu (M),Mimikyu,Ghost,Fairy,Disguise,Ghost,Adamant,476,55,90,80,50,105,96
+242,41,Regulation Set A,Tauros-Paldea-Water,Tauros (Aqua Breed),Fighting,Water,Intimidate,Fire,Jolly,490,75,110,105,30,70,100
+243,41,Regulation Set A,Salazzle,Salazzle,Poison,Fire,Oblivious,Fire,Timid,480,68,64,60,111,60,117
+244,41,Regulation Set A,Baxcalibur (F),Baxcalibur,Dragon,Ice,Thermal Exchange,Fire,Adamant,600,115,145,92,75,86,87
+245,41,Regulation Set A,Kingambit (F),Kingambit,Dark,Steel,Defiant,Water,Adamant,550,100,135,120,60,85,50
+246,42,Regulation Set A,Indeedee-F,Indeedee (Female),Psychic,Normal,Psychic Surge,Steel,Bold,475,70,55,65,95,105,85
+247,42,Regulation Set A,Murkrow (F),Murkrow,Dark,Flying,Prankster,Steel,Careful,405,60,85,42,85,42,91
+248,42,Regulation Set A,Armarouge (M),Armarouge,Fire,Psychic,Flash Fire,Grass,Modest,525,85,60,100,125,80,75
+249,42,Regulation Set A,Meowscarada,Meowscarada,Grass,Dark,Protean,None,Adamant,530,76,110,70,81,70,123
+250,42,Regulation Set A,Annihilape (M),Annihilape,Fighting,Ghost,Vital Spirit,Fire,Careful,535,110,115,80,50,90,90
+251,42,Regulation Set A,Maushold-Four,Maushold (Family of Four),Normal,,Friend Guard,Ghost,Timid,470,74,75,70,65,75,111
+252,43,Regulation Set A,Grimmsnarl,Grimmsnarl,Dark,Fairy,Prankster,Water,Careful,510,95,120,65,95,75,60
+253,43,Regulation Set A,Amoonguss,Amoonguss,Grass,Poison,Regenerator,Water,Relaxed,464,114,85,70,85,80,30
+254,43,Regulation Set A,Azumarill,Azumarill,Water,Fairy,Huge Power,None,Adamant,420,100,50,80,60,80,50
+255,43,Regulation Set A,Hydreigon,Hydreigon,Dark,Dragon,Levitate,Fire,Modest,600,92,105,90,125,90,98
+256,43,Regulation Set A,Annihilape,Annihilape,Fighting,Ghost,Defiant,Fire,Adamant,535,110,115,80,50,90,90
+257,43,Regulation Set A,Murkrow,Murkrow,Dark,Flying,Prankster,None,Bold,405,60,85,42,85,42,91
+258,44,Regulation Set A,Corviknight,Corviknight,Flying,Steel,Mirror Armor,Fire,Adamant,495,98,87,105,53,85,67
+259,44,Regulation Set A,Grimmsnarl,Grimmsnarl,Dark,Fairy,Prankster,Ghost,Careful,510,95,120,65,95,75,60
+260,44,Regulation Set A,Garchomp,Garchomp,Dragon,Ground,Rough Skin,Fire,Jolly,600,108,130,95,80,85,102
+261,44,Regulation Set A,Rotom-Wash,Rotom (Wash Rotom),Electric,Water,Levitate,Grass,Modest,520,50,65,107,105,107,86
+262,44,Regulation Set A,Volcarona,Volcarona,Bug,Fire,Flame Body,Grass,Modest,550,85,60,65,135,105,100
+263,44,Regulation Set A,Amoonguss,Amoonguss,Grass,Poison,Regenerator,Fire,Bold,464,114,85,70,85,80,30
+264,45,Regulation Set A,Dondozo (F),Dondozo,Water,,Unaware,Grass,Adamant,530,150,100,115,65,65,35
+265,45,Regulation Set A,Arcanine (M),Arcanine,Fire,,Intimidate,Normal,Adamant,555,90,110,80,100,80,95
+266,45,Regulation Set A,Gholdengo,Gholdengo,Steel,Ghost,Good as Gold,None,Modest,550,87,60,95,133,91,84
+268,45,Regulation Set A,Sylveon (M),Sylveon,Fairy,,Pixilate,Fire,Quiet,525,95,65,65,110,130,60
+269,45,Regulation Set A,Meowscarada (M),Meowscarada,Grass,Dark,Overgrow,None,Jolly,530,76,110,70,81,70,123
+270,46,Regulation Set A,Dondozo,Dondozo,Water,,Unaware,Flying,Adamant,530,150,100,115,65,65,35
+272,46,Regulation Set A,Talonflame,Talonflame,Fire,Flying,Gale Wings,Flying,Jolly,499,78,81,71,74,69,126
+273,46,Regulation Set A,Hydreigon,Hydreigon,Dark,Dragon,Levitate,Fire,Timid,600,92,105,90,125,90,98
+274,46,Regulation Set A,Meowscarada,Meowscarada,Grass,Dark,Overgrow,None,Jolly,530,76,110,70,81,70,123
+275,46,Regulation Set A,Gholdengo,Gholdengo,Steel,Ghost,Good as Gold,Water,Modest,550,87,60,95,133,91,84
+276,47,Regulation Set A,Drednaw,Drednaw,Water,Rock,Swift Swim,None,Adamant,485,90,115,90,48,68,74
+277,47,Regulation Set A,Pelipper,Pelipper,Water,Flying,Drizzle,Flying,Timid,440,60,50,100,95,70,65
+278,47,Regulation Set A,Tsareena,Tsareena,Grass,,Queenly Majesty,Fairy,Jolly,510,72,120,98,50,98,72
+279,47,Regulation Set A,Kingambit,Kingambit,Dark,Steel,Defiant,Flying,Adamant,550,100,135,120,60,85,50
+281,47,Regulation Set A,Sableye,Sableye,Dark,Ghost,Prankster,None,Calm,380,50,75,75,65,65,50
+282,48,Regulation Set A,Garchomp (M),Garchomp,Dragon,Ground,Rough Skin,Ground,Adamant,600,108,130,95,80,85,102
+283,48,Regulation Set A,Hydreigon (M),Hydreigon,Dark,Dragon,Levitate,Poison,Timid,600,92,105,90,125,90,98
+284,48,Regulation Set A,Gholdengo,Gholdengo,Steel,Ghost,Good as Gold,Flying,Modest,550,87,60,95,133,91,84
+285,48,Regulation Set A,Murkrow (M),Murkrow,Dark,Flying,Prankster,Ghost,Calm,405,60,85,42,85,42,91
+286,48,Regulation Set A,Breloom (M),Breloom,Grass,Fighting,Technician,Ghost,Jolly,460,60,130,80,60,60,70
+287,48,Regulation Set A,Maushold,Maushold (Family of Three),Normal,,Technician,None,Jolly,470,74,75,70,65,75,111
+288,49,Regulation Set A,Kingambit (M),Kingambit,Dark,Steel,Defiant,Flying,Adamant,550,100,135,120,60,85,50
+289,49,Regulation Set A,Torkoal (M),Torkoal,Fire,,Drought,None,Quiet,470,70,85,140,85,70,20
+290,49,Regulation Set A,Lilligant,Lilligant,Grass,,Chlorophyll,Ground,Timid,480,70,60,75,110,75,90
+291,49,Regulation Set A,Oranguru (M),Oranguru,Normal,Psychic,Inner Focus,Dark,Calm,490,90,60,80,90,110,60
+292,49,Regulation Set A,Hariyama (M),Hariyama,Fighting,,Guts,Dark,Adamant,474,144,120,60,40,60,50
+293,49,Regulation Set A,Sylveon (F),Sylveon,Fairy,,Pixilate,Ghost,Modest,525,95,65,65,110,130,60
+294,50,Regulation Set A,Abomasnow (F),Abomasnow,Grass,Ice,Snow Warning,Ground,Timid,494,90,92,75,92,85,60
+295,50,Regulation Set A,Cetitan (F),Cetitan,Ice,,Slush Rush,Water,Adamant,521,170,113,65,45,55,73
+296,50,Regulation Set A,Kingambit (M),Kingambit,Dark,Steel,Defiant,Steel,Adamant,550,100,135,120,60,85,50
+297,50,Regulation Set A,Skeledirge (M),Skeledirge,Fire,Ghost,Unaware,Fairy,Bold,530,104,75,100,110,75,66
+298,50,Regulation Set A,Meowscarada (M),Meowscarada,Grass,Dark,Protean,None,Jolly,530,76,110,70,81,70,123
+299,50,Regulation Set A,Hariyama (F),Hariyama,Fighting,,Guts,Normal,Adamant,474,144,120,60,40,60,50
+300,51,Regulation Set A,Murkrow (F),Murkrow,Dark,Flying,Prankster,Ghost,Timid,405,60,85,42,85,42,91
+301,51,Regulation Set A,Gholdengo,Gholdengo,Steel,Ghost,Good as Gold,Water,Modest,550,87,60,95,133,91,84
+302,51,Regulation Set A,Meowscarada (F),Meowscarada,Grass,Dark,Overgrow,None,Jolly,530,76,110,70,81,70,123
+303,51,Regulation Set A,Hydreigon (M),Hydreigon,Dark,Dragon,Levitate,Fire,Modest,600,92,105,90,125,90,98
+304,51,Regulation Set A,Hariyama (M),Hariyama,Fighting,,Guts,Steel,Brave,474,144,120,60,40,60,50
+305,51,Regulation Set A,Armarouge (M),Armarouge,Fire,Psychic,Flash Fire,Dark,Modest,525,85,60,100,125,80,75
+306,52,Regulation Set A,Murkrow (M),Murkrow,Dark,Flying,Prankster,Flying,Bold,405,60,85,42,85,42,91
+307,52,Regulation Set A,Indeedee-F (F),Indeedee (Female),Psychic,Normal,Psychic Surge,None,Timid,475,70,55,65,95,105,85
+308,52,Regulation Set A,Maushold-Four,Maushold (Family of Four),Normal,,Technician,None,Jolly,470,74,75,70,65,75,111
+309,52,Regulation Set A,Hydreigon (F),Hydreigon,Dark,Dragon,Levitate,Fire,Timid,600,92,105,90,125,90,98
+310,52,Regulation Set A,Armarouge (M),Armarouge,Fire,Psychic,Flash Fire,Grass,Modest,525,85,60,100,125,80,75
+311,52,Regulation Set A,Gholdengo,Gholdengo,Steel,Ghost,Good as Gold,None,Modest,550,87,60,95,133,91,84
+312,53,Regulation Set A,Hydreigon (M),Hydreigon,Dark,Dragon,Levitate,Electric,Timid,600,92,105,90,125,90,98
+313,53,Regulation Set A,Farigiraf (F),Farigiraf,Normal,Psychic,Armor Tail,Fairy,Bold,520,120,90,70,110,70,60
+314,53,Regulation Set A,Kingambit (F),Kingambit,Dark,Steel,Defiant,Fire,Brave,550,100,135,120,60,85,50
+315,53,Regulation Set A,Annihilape (F),Annihilape,Fighting,Ghost,Vital Spirit,Steel,Adamant,535,110,115,80,50,90,90
+316,53,Regulation Set A,Maushold-Four,Maushold (Family of Four),Normal,,Friend Guard,Grass,Jolly,470,74,75,70,65,75,111
+317,53,Regulation Set A,Gengar (M),Gengar,Ghost,Poison,Cursed Body,Flying,Timid,500,60,65,60,130,75,110
+318,54,Regulation Set A,Grimmsnarl,Grimmsnarl,Dark,Fairy,Prankster,Steel,Careful,510,95,120,65,95,75,60
+319,54,Regulation Set A,Meowscarada (F),Meowscarada,Grass,Dark,Protean,None,Jolly,530,76,110,70,81,70,123
+320,54,Regulation Set A,Garchomp (F),Garchomp,Dragon,Ground,Rough Skin,Ground,Jolly,600,108,130,95,80,85,102
+321,54,Regulation Set A,Kilowattrel (F),Kilowattrel,Electric,Flying,Wind Power,None,Timid,490,70,70,60,105,60,125
+322,54,Regulation Set A,Skeledirge (M),Skeledirge,Fire,Ghost,Unaware,Grass,Modest,530,104,75,100,110,75,66
+323,54,Regulation Set A,Annihilape (F),Annihilape,Fighting,Ghost,Defiant,Fire,Adamant,535,110,115,80,50,90,90
+324,55,Regulation Set A,Annihilape (F),Annihilape,Fighting,Ghost,Defiant,Fire,Adamant,535,110,115,80,50,90,90
+325,55,Regulation Set A,Grimmsnarl,Grimmsnarl,Dark,Fairy,Prankster,Ghost,Impish,510,95,120,65,95,75,60
+326,55,Regulation Set A,Talonflame (F),Talonflame,Fire,Flying,Gale Wings,Flying,Jolly,499,78,81,71,74,69,126
+327,55,Regulation Set A,Garchomp (M),Garchomp,Dragon,Ground,Rough Skin,Ground,Jolly,600,108,130,95,80,85,102
+328,55,Regulation Set A,Hydreigon (M),Hydreigon,Dark,Dragon,Levitate,Fire,Timid,600,92,105,90,125,90,98
+329,55,Regulation Set A,Meowscarada (F),Meowscarada,Grass,Dark,Protean,None,Jolly,530,76,110,70,81,70,123
+330,56,Regulation Set A,Talonflame (F),Talonflame,Fire,Flying,Gale Wings,None,Jolly,499,78,81,71,74,69,126
+331,56,Regulation Set A,Sylveon (M),Sylveon,Fairy,,Pixilate,Fire,Modest,525,95,65,65,110,130,60
+332,56,Regulation Set A,Meowscarada (F),Meowscarada,Grass,Dark,Overgrow,None,Jolly,530,76,110,70,81,70,123
+333,56,Regulation Set A,Gholdengo,Gholdengo,Steel,Ghost,Good as Gold,Water,Modest,550,87,60,95,133,91,84
+334,56,Regulation Set A,Maushold-Four,Maushold (Family of Four),Normal,,Technician,None,Jolly,470,74,75,70,65,75,111
+335,56,Regulation Set A,Annihilape (M),Annihilape,Fighting,Ghost,Defiant,None,Jolly,535,110,115,80,50,90,90
+336,57,Regulation Set A,Rotom-Wash,Rotom (Wash Rotom),Electric,Water,Levitate,Grass,Bold,520,50,65,107,105,107,86
+337,57,Regulation Set A,Sylveon (M),Sylveon,Fairy,,Pixilate,Fire,Modest,525,95,65,65,110,130,60
+338,57,Regulation Set A,Hydreigon (F),Hydreigon,Dark,Dragon,Levitate,Steel,Timid,600,92,105,90,125,90,98
+339,57,Regulation Set A,Meowscarada (M),Meowscarada,Grass,Dark,Overgrow,Grass,Jolly,530,76,110,70,81,70,123
+340,57,Regulation Set A,Arcanine (M),Arcanine,Fire,,Intimidate,Normal,Jolly,555,90,110,80,100,80,95
+341,57,Regulation Set A,Amoonguss (F),Amoonguss,Grass,Poison,Regenerator,Water,Bold,464,114,85,70,85,80,30
+342,58,Regulation Set A,Tyranitar (M),Tyranitar,Rock,Dark,Sand Stream,Flying,Adamant,600,100,134,110,95,100,61
+343,58,Regulation Set A,Garchomp (M),Garchomp,Dragon,Ground,Sand Veil,Fire,Adamant,600,108,130,95,80,85,102
+344,58,Regulation Set A,Dondozo (M),Dondozo,Water,,Unaware,Steel,Adamant,530,150,100,115,65,65,35
+347,58,Regulation Set A,Rotom-Heat,Rotom (Heat Rotom),Electric,Fire,Levitate,Electric,Timid,520,50,65,107,105,107,86
+348,59,Regulation Set A,Annihilape (F),Annihilape,Fighting,Ghost,Vital Spirit,Fire,Adamant,535,110,115,80,50,90,90
+349,59,Regulation Set A,Arcanine (M),Arcanine,Fire,,Intimidate,Grass,Adamant,555,90,110,80,100,80,95
+350,59,Regulation Set A,Maushold,Maushold (Family of Three),Normal,,Friend Guard,Ghost,Impish,470,74,75,70,65,75,111
+351,59,Regulation Set A,Murkrow (M),Murkrow,Dark,Flying,Prankster,Dark,Bold,405,60,85,42,85,42,91
+352,59,Regulation Set A,Kingambit (F),Kingambit,Dark,Steel,Defiant,Dark,Adamant,550,100,135,120,60,85,50
+353,59,Regulation Set A,Hydreigon (M),Hydreigon,Dark,Dragon,Levitate,Fire,Modest,600,92,105,90,125,90,98
+354,60,Regulation Set A,Kingambit (M),Kingambit,Dark,Steel,Defiant,Dark,Adamant,550,100,135,120,60,85,50
+355,60,Regulation Set A,Hariyama (F),Hariyama,Fighting,,Guts,Dark,Brave,474,144,120,60,40,60,50
+356,60,Regulation Set A,Torkoal (M),Torkoal,Fire,,Drought,Fire,Quiet,470,70,85,140,85,70,20
+357,60,Regulation Set A,Meowscarada (F),Meowscarada,Grass,Dark,Overgrow,Grass,Jolly,530,76,110,70,81,70,123
+358,60,Regulation Set A,Dragonite (F),Dragonite,Dragon,Flying,Inner Focus,Normal,Adamant,600,91,134,95,100,100,80
+359,60,Regulation Set A,Farigiraf (F),Farigiraf,Normal,Psychic,Armor Tail,Normal,Modest,520,120,90,70,110,70,60
+360,61,Regulation Set A,Murkrow (M),Murkrow,Dark,Flying,Prankster,Ghost,Timid,405,60,85,42,85,42,91
+361,61,Regulation Set A,Meowscarada (M),Meowscarada,Grass,Dark,Overgrow,Dark,Adamant,530,76,110,70,81,70,123
+362,61,Regulation Set A,Gholdengo,Gholdengo,Steel,Ghost,Good as Gold,None,Modest,550,87,60,95,133,91,84
+363,61,Regulation Set A,Tyranitar (M),Tyranitar,Rock,Dark,Sand Stream,None,Adamant,600,100,134,110,95,100,61
+364,61,Regulation Set A,Arcanine (M),Arcanine,Fire,,Intimidate,Grass,Adamant,555,90,110,80,100,80,95
+365,61,Regulation Set A,Garchomp (M),Garchomp,Dragon,Ground,Sand Veil,Ground,Jolly,600,108,130,95,80,85,102
+366,1,Regulation Set B,TT (Lilligant),Lilligant,Grass,,Chlorophyll,Ghost,Timid,480,70,60,75,110,75,90
+367,1,Regulation Set B,Breakthrough (Torkoal) (F),Torkoal,Fire,,Drought,Fire,Quiet,470,70,85,140,85,70,20
+368,1,Regulation Set B,FANCY (Flutter Mane),Flutter Mane,Ghost,Fairy,Protosynthesis,Fairy,Modest,570,55,55,55,135,135,135
+369,1,Regulation Set B,HOT (Kingambit) (F),Kingambit,Dark,Steel,Defiant,Fire,Adamant,550,100,135,120,60,85,50
+370,1,Regulation Set B,Espresso (Dragonite) (F),Dragonite,Dragon,Flying,Multiscale,Flying,Adamant,600,91,134,95,100,100,80
+371,1,Regulation Set B,Trouble (Great Tusk),Great Tusk,Ground,Fighting,Protosynthesis,Steel,Jolly,570,115,131,131,53,53,87
+372,2,Regulation Set B,Santiago (Flutter Mane),Flutter Mane,Ghost,Fairy,Protosynthesis,Grass,Modest,570,55,55,55,135,135,135
+373,2,Regulation Set B,Peralta (Kingambit),Kingambit,Dark,Steel,Defiant,Flying,Adamant,550,100,135,120,60,85,50
+374,2,Regulation Set B,Boyle (Iron Bundle),Iron Bundle,Ice,Water,Quark Drive,Ghost,Timid,570,56,80,114,124,60,136
+375,2,Regulation Set B,Cheddar (Arcanine),Arcanine,Fire,,Intimidate,Water,Jolly,555,90,110,80,100,80,95
+376,2,Regulation Set B,Scully (Great Tusk),Great Tusk,Ground,Fighting,Protosynthesis,Ground,Jolly,570,115,131,131,53,53,87
+377,2,Regulation Set B,Captain Holt (Corviknight),Corviknight,Flying,Steel,Mirror Armor,Dragon,Careful,495,98,87,105,53,85,67
+378,3,Regulation Set B,Iron Jugulis,Iron Jugulis,Dark,Flying,Quark Drive,Steel,Timid,570,94,80,86,122,80,108
+379,3,Regulation Set B,Great Tusk,Great Tusk,Ground,Fighting,Protosynthesis,Ground,Jolly,570,115,131,131,53,53,87
+380,3,Regulation Set B,Iron Bundle,Iron Bundle,Ice,Water,Quark Drive,Flying,Timid,570,56,80,114,124,60,136
+381,3,Regulation Set B,Iron Hands,Iron Hands,Fighting,Electric,Quark Drive,Grass,Adamant,570,154,140,108,50,68,50
+382,3,Regulation Set B,Gholdengo,Gholdengo,Steel,Ghost,Good as Gold,Steel,Modest,550,87,60,95,133,91,84
+383,3,Regulation Set B,Gothitelle,Gothitelle,Psychic,,Shadow Tag,Steel,Calm,490,70,55,95,95,110,65
+384,4,Regulation Set B,Indeedee-F,Indeedee (Female),Psychic,Normal,Psychic Surge,Grass,Relaxed,475,70,55,65,95,105,85
+385,4,Regulation Set B,Armarouge,Armarouge,Fire,Psychic,Flash Fire,Dark,Quiet,525,85,60,100,125,80,75
+386,4,Regulation Set B,Torkoal (M),Torkoal,Fire,,Drought,Fire,Quiet,470,70,85,140,85,70,20
+387,4,Regulation Set B,Hatterene,Hatterene,Psychic,Fairy,Magic Bounce,Fire,Quiet,510,57,90,95,136,103,29
+388,4,Regulation Set B,Kingambit (M),Kingambit,Dark,Steel,Defiant,Dark,Brave,550,100,135,120,60,85,50
+389,4,Regulation Set B,Annihilape (M),Annihilape,Fighting,Ghost,Defiant,Grass,Jolly,535,110,115,80,50,90,90
+390,5,Regulation Set B,Maradona (Iron Hands),Iron Hands,Fighting,Electric,Quark Drive,Grass,Adamant,570,154,140,108,50,68,50
+391,5,Regulation Set B,Shrom41Mor (Amoonguss) (F),Amoonguss,Grass,Poison,Regenerator,Steel,Calm,464,114,85,70,85,80,30
+392,5,Regulation Set B,Beaker (Pelipper) (F),Pelipper,Water,Flying,Drizzle,Flying,Modest,440,60,50,100,95,70,65
+393,5,Regulation Set B,Torqoise (Palafin) (F),Palafin (Hero Form),Water,,Zero to Hero,Water,Adamant,650,100,160,97,106,87,100
+394,5,Regulation Set B,BlockBuster (Baxcalibur) (F),Baxcalibur,Dragon,Ice,Thermal Exchange,Poison,Adamant,600,115,145,92,75,86,87
+395,5,Regulation Set B,ShiningArmor (Dragonite) (F),Dragonite,Dragon,Flying,Multiscale,Flying,Adamant,600,91,134,95,100,100,80
+396,7,Regulation Set B,Abomasnow (F),Abomasnow,Grass,Ice,Snow Warning,Ghost,Modest,494,90,92,75,92,85,60
+397,7,Regulation Set B,Iron Bundle,Iron Bundle,Ice,Water,Quark Drive,Water,Timid,570,56,80,114,124,60,136
+398,7,Regulation Set B,Palafin (F),Palafin (Hero Form),Water,,Zero to Hero,Grass,Careful,650,100,160,97,106,87,100
+399,7,Regulation Set B,Flutter Mane,Flutter Mane,Ghost,Fairy,Protosynthesis,Fairy,Modest,570,55,55,55,135,135,135
+400,7,Regulation Set B,Iron Hands,Iron Hands,Fighting,Electric,Quark Drive,Grass,Adamant,570,154,140,108,50,68,50
+401,7,Regulation Set B,Garganacl (F),Garganacl,Rock,,Purifying Salt,Water,Impish,500,100,100,130,45,90,35
+402,8,Regulation Set B,Annihilape,Annihilape,Fighting,Ghost,Defiant,Steel,Adamant,535,110,115,80,50,90,90
+403,8,Regulation Set B,Maushold-Four,Maushold (Family of Four),Normal,,Friend Guard,Flying,Calm,470,74,75,70,65,75,111
+404,8,Regulation Set B,Iron Bundle,Iron Bundle,Ice,Water,Quark Drive,Ice,Timid,570,56,80,114,124,60,136
+405,8,Regulation Set B,Flutter Mane,Flutter Mane,Ghost,Fairy,Protosynthesis,Fairy,Timid,570,55,55,55,135,135,135
+406,8,Regulation Set B,Dondozo,Dondozo,Water,,Unaware,Steel,Adamant,530,150,100,115,65,65,35
+407,8,Regulation Set B,Great Tusk,Great Tusk,Ground,Fighting,Protosynthesis,Ground,Jolly,570,115,131,131,53,53,87
+408,9,Regulation Set B,Dragonite,Dragonite,Dragon,Flying,Inner Focus,Normal,Adamant,600,91,134,95,100,100,80
+409,9,Regulation Set B,Volcarona,Volcarona,Bug,Fire,Flame Body,Grass,Modest,550,85,60,65,135,105,100
+410,9,Regulation Set B,Iron Hands,Iron Hands,Fighting,Electric,Quark Drive,Electric,Adamant,570,154,140,108,50,68,50
+411,9,Regulation Set B,Amoonguss,Amoonguss,Grass,Poison,Regenerator,Dark,Relaxed,464,114,85,70,85,80,30
+412,9,Regulation Set B,Iron Bundle,Iron Bundle,Ice,Water,Quark Drive,Water,Timid,570,56,80,114,124,60,136
+413,9,Regulation Set B,Sableye,Sableye,Dark,Ghost,Prankster,Ghost,Careful,380,50,75,75,65,65,50
+414,10,Regulation Set B,Iron Bundle,Iron Bundle,Ice,Water,Quark Drive,Ice,Timid,570,56,80,114,124,60,136
+415,10,Regulation Set B,Iron Hands,Iron Hands,Fighting,Electric,Quark Drive,Grass,Adamant,570,154,140,108,50,68,50
+416,10,Regulation Set B,Flutter Mane,Flutter Mane,Ghost,Fairy,Protosynthesis,Fairy,Timid,570,55,55,55,135,135,135
+417,10,Regulation Set B,Baxcalibur,Baxcalibur,Dragon,Ice,Thermal Exchange,Water,Adamant,600,115,145,92,75,86,87
+418,10,Regulation Set B,Arcanine,Arcanine,Fire,,Intimidate,Dark,Jolly,555,90,110,80,100,80,95
+419,10,Regulation Set B,Garganacl,Garganacl,Rock,,Purifying Salt,Ghost,Relaxed,500,100,100,130,45,90,35
+420,11,Regulation Set B,Baxcalibur,Baxcalibur,Dragon,Ice,Thermal Exchange,Water,Adamant,600,115,145,92,75,86,87
+421,11,Regulation Set B,Tauros-Paldea-Aqua,Tauros (Aqua Breed),Fighting,Water,Intimidate,Steel,Jolly,490,75,110,105,30,70,100
+422,11,Regulation Set B,Flutter Mane,Flutter Mane,Ghost,Fairy,Protosynthesis,Fairy,Timid,570,55,55,55,135,135,135
+423,11,Regulation Set B,Skeledirge,Skeledirge,Fire,Ghost,Unaware,Grass,Modest,530,104,75,100,110,75,66
+424,11,Regulation Set B,Kingambit,Kingambit,Dark,Steel,Defiant,Flying,Adamant,550,100,135,120,60,85,50
+425,11,Regulation Set B,Amoonguss,Amoonguss,Grass,Poison,Regenerator,Water,Relaxed,464,114,85,70,85,80,30
+426,12,Regulation Set B,Flutter Mane,Flutter Mane,Ghost,Fairy,Protosynthesis,Grass,Timid,570,55,55,55,135,135,135
+427,12,Regulation Set B,Arcanine,Arcanine,Fire,,Intimidate,Normal,Careful,555,90,110,80,100,80,95
+428,12,Regulation Set B,Gothitelle,Gothitelle,Psychic,,Shadow Tag,Steel,Calm,490,70,55,95,95,110,65
+429,12,Regulation Set B,Amoonguss,Amoonguss,Grass,Poison,Regenerator,Dark,Calm,464,114,85,70,85,80,30
+430,12,Regulation Set B,Iron Hands,Iron Hands,Fighting,Electric,Quark Drive,Grass,Adamant,570,154,140,108,50,68,50
+431,12,Regulation Set B,Palafin,Palafin (Hero Form),Water,,Zero to Hero,Water,Adamant,650,100,160,97,106,87,100
+432,13,Regulation Set B,Baxcalibur (F),Baxcalibur,Dragon,Ice,Thermal Exchange,Water,Adamant,600,115,145,92,75,86,87
+433,13,Regulation Set B,Volcarona (F),Volcarona,Bug,Fire,Flame Body,Water,Timid,550,85,60,65,135,105,100
+434,13,Regulation Set B,Meowscarada (M),Meowscarada,Grass,Dark,Overgrow,Grass,Adamant,530,76,110,70,81,70,123
+435,13,Regulation Set B,Mimikyu (M),Mimikyu,Ghost,Fairy,Disguise,Fairy,Adamant,476,55,90,80,50,105,96
+436,13,Regulation Set B,Sandy Shocks,Sandy Shocks,Electric,Ground,Protosynthesis,Grass,Timid,570,85,81,97,121,85,101
+437,13,Regulation Set B,Garganacl (F),Garganacl,Rock,,Purifying Salt,Poison,Careful,500,100,100,130,45,90,35
+438,14,Regulation Set B,grime (Grimmsnarl),Grimmsnarl,Dark,Fairy,Prankster,Ghost,Careful,510,95,120,65,95,75,60
+439,14,Regulation Set B,soul (Arcanine),Arcanine,Fire,,Intimidate,Grass,Adamant,555,90,110,80,100,80,95
+440,14,Regulation Set B,trap (Iron Hands),Iron Hands,Fighting,Electric,Quark Drive,Grass,Adamant,570,154,140,108,50,68,50
+441,14,Regulation Set B,blues (Gastrodon-East),Gastrodon,Water,Ground,Storm Drain,Fire,Modest,475,111,83,68,92,82,39
+442,14,Regulation Set B,ambient (Sylveon),Sylveon,Fairy,,Pixilate,Fire,Modest,525,95,65,65,110,130,60
+443,14,Regulation Set B,grunge (Corviknight),Corviknight,Flying,Steel,Mirror Armor,Dragon,Adamant,495,98,87,105,53,85,67
+450,28,Regulation Set B,8rut3 80nn3t (Amoonguss),Amoonguss,Grass,Poison,Regenerator,Water,Sassy,464,114,85,70,85,80,30
+451,28,Regulation Set B,D0nph4n (Great Tusk),Great Tusk,Ground,Fighting,Protosynthesis,Ground,Adamant,570,115,131,131,53,53,87
+452,28,Regulation Set B,M15dr34vu5 (Flutter Mane),Flutter Mane,Ghost,Fairy,Protosynthesis,Steel,Timid,570,55,55,55,135,135,135
+453,28,Regulation Set B,D3l1b1rd (Iron Bundle),Iron Bundle,Ice,Water,Quark Drive,Ice,Timid,570,56,80,114,124,60,136
+454,28,Regulation Set B,1r0n Th0rn5 (Tyranitar),Tyranitar,Rock,Dark,Sand Stream,Flying,Adamant,600,100,134,110,95,100,61
+455,28,Regulation Set B,G4l3 W1ng5 (Talonflame),Talonflame,Fire,Flying,Gale Wings,Grass,Jolly,499,78,81,71,74,69,126
+456,29,Regulation Set B,Palafin,Palafin (Hero Form),Water,,Zero to Hero,Water,Adamant,650,100,160,97,106,87,100
+457,29,Regulation Set B,Iron Hands,Iron Hands,Fighting,Electric,Quark Drive,Grass,Adamant,570,154,140,108,50,68,50
+458,29,Regulation Set B,Amoonguss,Amoonguss,Grass,Poison,Regenerator,Dark,Sassy,464,114,85,70,85,80,30
+459,29,Regulation Set B,Dragonite,Dragonite,Dragon,Flying,Multiscale,Flying,Adamant,600,91,134,95,100,100,80
+460,29,Regulation Set B,Flutter Mane,Flutter Mane,Ghost,Fairy,Protosynthesis,Fairy,Modest,570,55,55,55,135,135,135
+461,29,Regulation Set B,Ceruledge,Ceruledge,Fire,Ghost,Flash Fire,Steel,Adamant,525,75,125,80,60,100,85
+462,30,Regulation Set B,Midway (Amoonguss),Amoonguss,Grass,Poison,Regenerator,Water,Relaxed,464,114,85,70,85,80,30
+463,30,Regulation Set B,IntoTheFire (Armarouge),Armarouge,Fire,Psychic,Flash Fire,Grass,Modest,525,85,60,100,125,80,75
+464,30,Regulation Set B,Bismarck (Gyarados),Gyarados,Water,Flying,Intimidate,Flying,Jolly,540,95,125,79,60,100,81
+465,30,Regulation Set B,Gott Mit Uns (Hydreigon),Hydreigon,Dark,Dragon,Levitate,Ghost,Modest,600,92,105,90,125,90,98
+466,30,Regulation Set B,Shiroyama (Iron Hands),Iron Hands,Fighting,Electric,Quark Drive,Grass,Adamant,570,154,140,108,50,68,50
+467,30,Regulation Set B,Panzerkampf (Iron Treads),Iron Treads,Ground,Steel,Quark Drive,Steel,Jolly,570,90,112,120,72,70,106
+468,31,Regulation Set B,Iron Hands,Iron Hands,Fighting,Electric,Quark Drive,Steel,Adamant,570,154,140,108,50,68,50
+469,31,Regulation Set B,Hatterene,Hatterene,Psychic,Fairy,Magic Bounce,Fairy,Quiet,510,57,90,95,136,103,29
+470,31,Regulation Set B,Torkoal,Torkoal,Fire,,Drought,Grass,Quiet,470,70,85,140,85,70,20
+471,31,Regulation Set B,Flutter Mane,Flutter Mane,Ghost,Fairy,Protosynthesis,Water,Modest,570,55,55,55,135,135,135
+472,31,Regulation Set B,Arcanine,Arcanine,Fire,,Intimidate,Dark,Jolly,555,90,110,80,100,80,95
+473,31,Regulation Set B,Bombirdier,Bombirdier,Flying,Dark,Rocky Payload,Rock,Brave,485,70,103,85,60,85,82
+474,32,Regulation Set B,Indeedee-F,Indeedee (Female),Psychic,Normal,Psychic Surge,Fairy,Calm,475,70,55,65,95,105,85
+475,32,Regulation Set B,Armarouge,Armarouge,Fire,Psychic,Flash Fire,Grass,Modest,525,85,60,100,125,80,75
+476,32,Regulation Set B,Maushold-Four,Maushold (Family of Four),Normal,,Friend Guard,Ghost,Careful,470,74,75,70,65,75,111
+477,32,Regulation Set B,Brute Bonnet,Brute Bonnet,Grass,Dark,Protosynthesis,Water,Adamant,570,111,127,99,79,99,55
+478,32,Regulation Set B,Iron Hands,Iron Hands,Fighting,Electric,Quark Drive,Grass,Brave,570,154,140,108,50,68,50
+479,32,Regulation Set B,Baxcalibur,Baxcalibur,Dragon,Ice,Thermal Exchange,Water,Adamant,600,115,145,92,75,86,87
+480,33,Regulation Set B,Kingambit,Kingambit,Dark,Steel,Defiant,Fire,Adamant,550,100,135,120,60,85,50
+481,33,Regulation Set B,Sylveon,Sylveon,Fairy,,Pixilate,Water,Modest,525,95,65,65,110,130,60
+482,33,Regulation Set B,Roaring Moon,Roaring Moon,Dragon,Dark,Protosynthesis,Flying,Jolly,590,105,139,71,55,101,119
+483,33,Regulation Set B,Maushold-Four,Maushold (Family of Four),Normal,,Friend Guard,Ghost,Careful,470,74,75,70,65,75,111
+484,33,Regulation Set B,Arcanine,Arcanine,Fire,,Intimidate,Dark,Jolly,555,90,110,80,100,80,95
+485,33,Regulation Set B,Sandy Shocks,Sandy Shocks,Electric,Ground,Protosynthesis,Bug,Timid,570,85,81,97,121,85,101
+486,37,Regulation Set B,GMA (Palafin),Palafin (Hero Form),Water,,Zero to Hero,Water,Adamant,650,100,160,97,106,87,100
+487,37,Regulation Set B,Summer (Gholdengo),Gholdengo,Steel,Ghost,Good as Gold,Steel,Timid,550,87,60,95,133,91,84
+488,37,Regulation Set B,Pl00ch (Iron Hands),Iron Hands,Fighting,Electric,Quark Drive,Grass,Adamant,570,154,140,108,50,68,50
+489,37,Regulation Set B,Mermis (Amoonguss),Amoonguss,Grass,Poison,Regenerator,Dark,Calm,464,114,85,70,85,80,30
+490,37,Regulation Set B,Sandy (Dragonite),Dragonite,Dragon,Flying,Multiscale,Flying,Adamant,600,91,134,95,100,100,80
+491,37,Regulation Set B,Emforbes (Pelipper),Pelipper,Water,Flying,Drizzle,Flying,Modest,440,60,50,100,95,70,65
+492,38,Regulation Set B,Gholdengo,Gholdengo,Steel,Ghost,Good as Gold,Water,Timid,550,87,60,95,133,91,84
+493,38,Regulation Set B,Iron Bundle,Iron Bundle,Ice,Water,Quark Drive,Ghost,Timid,570,56,80,114,124,60,136
+494,38,Regulation Set B,Mimikyu,Mimikyu,Ghost,Fairy,Disguise,Ghost,Adamant,476,55,90,80,50,105,96
+495,38,Regulation Set B,Tauros-Paldea-Blaze,Tauros (Blaze Breed),Fighting,Fire,Intimidate,Water,Jolly,490,75,110,105,30,70,100
+496,38,Regulation Set B,Maushold,Maushold (Family of Three),Normal,,Friend Guard,Ghost,Jolly,470,74,75,70,65,75,111
+497,38,Regulation Set B,Dragonite,Dragonite,Dragon,Flying,Inner Focus,Flying,Adamant,600,91,134,95,100,100,80
+498,40,Regulation Set B,Dondozo,Dondozo,Water,,Unaware,Steel,Adamant,530,150,100,115,65,65,35
+499,40,Regulation Set B,Tatsugiri-Stretchy,Tatsugiri (Stretchy Form),Dragon,Water,Commander,Water,Timid,475,68,50,60,120,95,82
+500,40,Regulation Set B,Dragonite,Dragonite,Dragon,Flying,Multiscale,Flying,Adamant,600,91,134,95,100,100,80
+501,40,Regulation Set B,Arcanine,Arcanine,Fire,,Intimidate,Normal,Adamant,555,90,110,80,100,80,95
+502,40,Regulation Set B,Iron Moth,Iron Moth,Fire,Poison,Quark Drive,Ghost,Timid,570,80,70,60,140,110,110
+503,40,Regulation Set B,Flutter Mane,Flutter Mane,Ghost,Fairy,Protosynthesis,Water,Modest,570,55,55,55,135,135,135
+504,41,Regulation Set B,Arcanine,Arcanine,Fire,,Intimidate,Grass,Careful,555,90,110,80,100,80,95
+505,41,Regulation Set B,Bellibolt,Bellibolt,Electric,,Electromorphosis,Water,Quiet,495,109,64,91,103,83,45
+506,41,Regulation Set B,Flutter Mane,Flutter Mane,Ghost,Fairy,Protosynthesis,Fairy,Timid,570,55,55,55,135,135,135
+507,41,Regulation Set B,Torkoal,Torkoal,Fire,,Drought,Flying,Calm,470,70,85,140,85,70,20
+508,41,Regulation Set B,Roaring Moon,Roaring Moon,Dragon,Dark,Protosynthesis,Fire,Jolly,590,105,139,71,55,101,119
+509,41,Regulation Set B,Great Tusk,Great Tusk,Ground,Fighting,Protosynthesis,Grass,Jolly,570,115,131,131,53,53,87
+510,43,Regulation Set B,Arcanine (M),Arcanine,Fire,,Intimidate,Grass,Jolly,555,90,110,80,100,80,95
+511,43,Regulation Set B,Iron Hands,Iron Hands,Fighting,Electric,Quark Drive,Grass,Adamant,570,154,140,108,50,68,50
+512,43,Regulation Set B,Gholdengo,Gholdengo,Steel,Ghost,Good as Gold,Water,Timid,550,87,60,95,133,91,84
+513,43,Regulation Set B,Iron Bundle,Iron Bundle,Ice,Water,Quark Drive,Ghost,Timid,570,56,80,114,124,60,136
+514,43,Regulation Set B,Roaring Moon,Roaring Moon,Dragon,Dark,Protosynthesis,Flying,Jolly,590,105,139,71,55,101,119
+515,43,Regulation Set B,Amoonguss (M),Amoonguss,Grass,Poison,Regenerator,Water,Relaxed,464,114,85,70,85,80,30
+516,44,Regulation Set B,Dondozo,Dondozo,Water,,Unaware,Steel,Adamant,530,150,100,115,65,65,35
+518,44,Regulation Set B,Flutter Mane,Flutter Mane,Ghost,Fairy,Protosynthesis,Fairy,Timid,570,55,55,55,135,135,135
+519,44,Regulation Set B,Iron Bundle,Iron Bundle,Ice,Water,Quark Drive,Water,Timid,570,56,80,114,124,60,136
+520,44,Regulation Set B,Arcanine,Arcanine,Fire,,Intimidate,Grass,Jolly,555,90,110,80,100,80,95
+521,44,Regulation Set B,Tyranitar,Tyranitar,Rock,Dark,Sand Stream,Grass,Adamant,600,100,134,110,95,100,61
+522,45,Regulation Set B,Talonflame,Talonflame,Fire,Flying,Gale Wings,Ghost,Jolly,499,78,81,71,74,69,126
+523,45,Regulation Set B,Gholdengo,Gholdengo,Steel,Ghost,Good as Gold,Steel,Modest,550,87,60,95,133,91,84
+525,45,Regulation Set B,Dondozo,Dondozo,Water,,Unaware,Steel,Adamant,530,150,100,115,65,65,35
+526,45,Regulation Set B,Arcanine,Arcanine,Fire,,Intimidate,Dark,Jolly,555,90,110,80,100,80,95
+527,45,Regulation Set B,Pawmot,Pawmot,Electric,Fighting,Natural Cure,Electric,Jolly,490,70,115,70,70,60,105
+528,46,Regulation Set B,Grimmsnarl,Grimmsnarl,Dark,Fairy,Prankster,Ghost,Careful,510,95,120,65,95,75,60
+529,46,Regulation Set B,Arcanine,Arcanine,Fire,,Intimidate,Fire,Adamant,555,90,110,80,100,80,95
+530,46,Regulation Set B,Iron Hands,Iron Hands,Fighting,Electric,Quark Drive,Grass,Adamant,570,154,140,108,50,68,50
+531,46,Regulation Set B,Gastrodon,Gastrodon,Water,Ground,Storm Drain,Fire,Quiet,475,111,83,68,92,82,39
+532,46,Regulation Set B,Flutter Mane,Flutter Mane,Ghost,Fairy,Protosynthesis,Rock,Modest,570,55,55,55,135,135,135
+533,46,Regulation Set B,Talonflame,Talonflame,Fire,Flying,Gale Wings,Ghost,Jolly,499,78,81,71,74,69,126
+534,47,Regulation Set B,Gholdengo,Gholdengo,Steel,Ghost,Good as Gold,Steel,Modest,550,87,60,95,133,91,84
+535,47,Regulation Set B,Meowscarada,Meowscarada,Grass,Dark,Overgrow,Grass,Adamant,530,76,110,70,81,70,123
+536,47,Regulation Set B,Ceruledge,Ceruledge,Fire,Ghost,Flash Fire,Grass,Adamant,525,75,125,80,60,100,85
+537,47,Regulation Set B,Dragapult,Dragapult,Dragon,Ghost,Clear Body,Dragon,Jolly,600,88,120,75,100,75,142
+538,47,Regulation Set B,Iron Bundle,Iron Bundle,Ice,Water,Quark Drive,Ghost,Timid,570,56,80,114,124,60,136
+539,47,Regulation Set B,Grimmsnarl,Grimmsnarl,Dark,Fairy,Prankster,Ghost,Careful,510,95,120,65,95,75,60
+540,48,Regulation Set B,Mermaid Man (Dondozo),Dondozo,Water,,Unaware,Steel,Adamant,530,150,100,115,65,65,35
+542,48,Regulation Set B,Bubble Bass (Iron Hands),Iron Hands,Fighting,Electric,Quark Drive,Grass,Adamant,570,154,140,108,50,68,50
+543,48,Regulation Set B,Man Ray (Armarouge),Armarouge,Fire,Psychic,Flash Fire,Dark,Quiet,525,85,60,100,125,80,75
+544,48,Regulation Set B,Mindy (Indeedee-F),Indeedee (Female),Psychic,Normal,Psychic Surge,Fairy,Bold,475,70,55,65,95,105,85
+545,48,Regulation Set B,Kevin (Brute Bonnet),Brute Bonnet,Grass,Dark,Protosynthesis,Fairy,Adamant,570,111,127,99,79,99,55
+546,49,Regulation Set B,Flutter Mane,Flutter Mane,Ghost,Fairy,Protosynthesis,Ghost,Timid,570,55,55,55,135,135,135
+547,49,Regulation Set B,Amoonguss,Amoonguss,Grass,Poison,Regenerator,Water,Calm,464,114,85,70,85,80,30
+548,49,Regulation Set B,Arcanine,Arcanine,Fire,,Intimidate,Dark,Jolly,555,90,110,80,100,80,95
+549,49,Regulation Set B,Iron Hands,Iron Hands,Fighting,Electric,Quark Drive,Fire,Adamant,570,154,140,108,50,68,50
+550,49,Regulation Set B,Gothitelle,Gothitelle,Psychic,,Shadow Tag,Steel,Calm,490,70,55,95,95,110,65
+551,49,Regulation Set B,Iron Bundle,Iron Bundle,Ice,Water,Quark Drive,Water,Timid,570,56,80,114,124,60,136
+552,50,Regulation Set B,Robot Rock (Iron Hands),Iron Hands,Fighting,Electric,Quark Drive,Grass,Brave,570,154,140,108,50,68,50
+553,50,Regulation Set B,Rockstar Made (Brute Bonnet),Brute Bonnet,Grass,Dark,Protosynthesis,Fairy,Adamant,570,111,127,99,79,99,55
+554,50,Regulation Set B,I Am A Rock (Stonjourner),Stonjourner,Rock,,Power Spot,Rock,Adamant,470,100,125,135,20,20,70
+555,50,Regulation Set B,Rock Parade (Flutter Mane),Flutter Mane,Ghost,Fairy,Protosynthesis,Fairy,Timid,570,55,55,55,135,135,135
+556,50,Regulation Set B,Afro Rock (Armarouge),Armarouge,Fire,Psychic,Flash Fire,Grass,Quiet,525,85,60,100,125,80,75
+557,50,Regulation Set B,Za Rokku (Indeedee-F),Indeedee (Female),Psychic,Normal,Psychic Surge,Fairy,Bold,475,70,55,65,95,105,85
+558,51,Regulation Set B,forever (Maushold-Four),Maushold (Family of Four),Normal,,Friend Guard,Ghost,Jolly,470,74,75,70,65,75,111
+559,51,Regulation Set B,pink diamond (Gholdengo),Gholdengo,Steel,Ghost,Good as Gold,Steel,Timid,550,87,60,95,133,91,84
+560,51,Regulation Set B,visions (Iron Bundle),Iron Bundle,Ice,Water,Quark Drive,Ghost,Timid,570,56,80,114,124,60,136
+561,51,Regulation Set B,claws (Dragonite),Dragonite,Dragon,Flying,Inner Focus,Flying,Adamant,600,91,134,95,100,100,80
+562,51,Regulation Set B,detonate (Great Tusk),Great Tusk,Ground,Fighting,Protosynthesis,Ground,Jolly,570,115,131,131,53,53,87
+563,51,Regulation Set B,anthems (Volcarona),Volcarona,Bug,Fire,Flame Body,Water,Timid,550,85,60,65,135,105,100
+565,52,Regulation Set B,BOM DIA (Dondozo) (F),Dondozo,Water,,Unaware,Steel,Adamant,530,150,100,115,65,65,35
+566,52,Regulation Set B,Hortensia (Volcarona) (F),Volcarona,Bug,Fire,Flame Body,Water,Timid,550,85,60,65,135,105,100
+567,52,Regulation Set B,Dawnspear (Annihilape) (M),Annihilape,Fighting,Ghost,Defiant,Fire,Adamant,535,110,115,80,50,90,90
+568,52,Regulation Set B,1899 (Flutter Mane),Flutter Mane,Ghost,Fairy,Protosynthesis,Fairy,Timid,570,55,55,55,135,135,135
+569,52,Regulation Set B,Jee mains (Maushold),Maushold (Family of Three),Normal,,Friend Guard,Ghost,Jolly,470,74,75,70,65,75,111
+571,53,Regulation Set B,Dondozo,Dondozo,Water,,Unaware,Steel,Adamant,530,150,100,115,65,65,35
+572,53,Regulation Set B,Volcarona,Volcarona,Bug,Fire,Flame Body,Water,Modest,550,85,60,65,135,105,100
+573,53,Regulation Set B,Flutter Mane,Flutter Mane,Ghost,Fairy,Protosynthesis,Fairy,Timid,570,55,55,55,135,135,135
+574,53,Regulation Set B,Kingambit,Kingambit,Dark,Steel,Defiant,Fairy,Adamant,550,100,135,120,60,85,50
+575,53,Regulation Set B,Brute Bonnet,Brute Bonnet,Grass,Dark,Protosynthesis,Poison,Adamant,570,111,127,99,79,99,55
+576,54,Regulation Set B,Petunia (Iron Hands),Iron Hands,Fighting,Electric,Quark Drive,Grass,Brave,570,154,140,108,50,68,50
+577,54,Regulation Set B,Gort (Sandy Shocks),Sandy Shocks,Electric,Ground,Protosynthesis,Grass,Timid,570,85,81,97,121,85,101
+578,54,Regulation Set B,Queen (Flutter Mane),Flutter Mane,Ghost,Fairy,Protosynthesis,Fairy,Timid,570,55,55,55,135,135,135
+579,54,Regulation Set B,Kevin (Espathra),Espathra,Psychic,,Speed Boost,Ghost,Timid,481,95,60,60,101,60,105
+580,54,Regulation Set B,Big Ounce (Amoonguss),Amoonguss,Grass,Poison,Regenerator,Dark,Sassy,464,114,85,70,85,80,30
+581,54,Regulation Set B,Pobbers (Arcanine),Arcanine,Fire,,Intimidate,Grass,Careful,555,90,110,80,100,80,95
+582,55,Regulation Set B,Armarouge,Armarouge,Fire,Psychic,Flash Fire,Grass,Modest,525,85,60,100,125,80,75
+583,55,Regulation Set B,Indeedee-F,Indeedee (Female),Psychic,Normal,Psychic Surge,Fairy,Bold,475,70,55,65,95,105,85
+584,55,Regulation Set B,Annihilape,Annihilape,Fighting,Ghost,Defiant,Fire,Adamant,535,110,115,80,50,90,90
+585,55,Regulation Set B,Torkoal,Torkoal,Fire,,Drought,Fire,Quiet,470,70,85,140,85,70,20
+586,55,Regulation Set B,Roaring Moon,Roaring Moon,Dragon,Dark,Protosynthesis,Flying,Jolly,590,105,139,71,55,101,119
+587,55,Regulation Set B,Hatterene,Hatterene,Psychic,Fairy,Magic Bounce,Water,Quiet,510,57,90,95,136,103,29
+588,56,Regulation Set B,Amoonguss,Amoonguss,Grass,Poison,Regenerator,Water,Sassy,464,114,85,70,85,80,30
+589,56,Regulation Set B,Roaring Moon,Roaring Moon,Dragon,Dark,Protosynthesis,Flying,Jolly,590,105,139,71,55,101,119
+590,56,Regulation Set B,Gholdengo,Gholdengo,Steel,Ghost,Good as Gold,Steel,Modest,550,87,60,95,133,91,84
+591,56,Regulation Set B,Palafin,Palafin (Hero Form),Water,,Zero to Hero,Water,Adamant,650,100,160,97,106,87,100
+592,56,Regulation Set B,Arcanine,Arcanine,Fire,,Intimidate,Dark,Jolly,555,90,110,80,100,80,95
+593,56,Regulation Set B,Iron Hands,Iron Hands,Fighting,Electric,Quark Drive,Grass,Adamant,570,154,140,108,50,68,50
+594,57,Regulation Set B,Alisnarl (Grimmsnarl),Grimmsnarl,Dark,Fairy,Prankster,Ghost,Careful,510,95,120,65,95,75,60
+595,57,Regulation Set B,Draxcanine (Arcanine),Arcanine,Fire,,Intimidate,Water,Adamant,555,90,110,80,100,80,95
+596,57,Regulation Set B,Apollos (Iron Hands),Iron Hands,Fighting,Electric,Quark Drive,Grass,Adamant,570,154,140,108,50,68,50
+597,57,Regulation Set B,Perthquake (Gastrodon),Gastrodon,Water,Ground,Storm Drain,Fire,Modest,475,111,83,68,92,82,39
+598,57,Regulation Set B,Dragonite,Dragonite,Dragon,Flying,Multiscale,Flying,Adamant,600,91,134,95,100,100,80
+599,57,Regulation Set B,Talonflame,Talonflame,Fire,Flying,Gale Wings,Ghost,Jolly,499,78,81,71,74,69,126
+600,58,Regulation Set B,Psyed Chick (Armarouge),Armarouge,Fire,Psychic,Flash Fire,Grass,Modest,525,85,60,100,125,80,75
+601,58,Regulation Set B,EXTRA THICC (Indeedee-F),Indeedee (Female),Psychic,Normal,Psychic Surge,Fairy,Bold,475,70,55,65,95,105,85
+602,58,Regulation Set B,Moonveil (Roaring Moon),Roaring Moon,Dragon,Dark,Protosynthesis,Flying,Jolly,590,105,139,71,55,101,119
+603,58,Regulation Set B,Chrismagius (Flutter Mane),Flutter Mane,Ghost,Fairy,Protosynthesis,Fairy,Timid,570,55,55,55,135,135,135
+604,58,Regulation Set B,Catch Deez (Iron Hands),Iron Hands,Fighting,Electric,Quark Drive,Steel,Brave,570,154,140,108,50,68,50
+605,58,Regulation Set B,FunGuySis (Amoonguss),Amoonguss,Grass,Poison,Regenerator,Water,Relaxed,464,114,85,70,85,80,30
+642,68,Regulation Set B,Kim (Iron Hands),Iron Hands,Fighting,Electric,Quark Drive,Grass,Brave,570,154,140,108,50,68,50
+643,68,Regulation Set B,Osimhen (Roaring Moon),Roaring Moon,Dragon,Dark,Protosynthesis,Flying,Adamant,590,105,139,71,55,101,119
+644,68,Regulation Set B,Di Lorenzo (Arcanine) (M),Arcanine,Fire,,Intimidate,Water,Jolly,555,90,110,80,100,80,95
+645,68,Regulation Set B,Kvara 77 (Iron Bundle),Iron Bundle,Ice,Water,Quark Drive,Ghost,Timid,570,56,80,114,124,60,136
+646,68,Regulation Set B,Meret (Amoonguss) (F),Amoonguss,Grass,Poison,Regenerator,Water,Sassy,464,114,85,70,85,80,30
+647,68,Regulation Set B,Raspadori (Flutter Mane),Flutter Mane,Ghost,Fairy,Protosynthesis,Ground,Timid,570,55,55,55,135,135,135
+648,69,Regulation Set B,Cemento (Grimmsnarl),Grimmsnarl,Dark,Fairy,Prankster,Ghost,Impish,510,95,120,65,95,75,60
+649,69,Regulation Set B,macaco (Annihilape),Annihilape,Fighting,Ghost,Defiant,Fire,Adamant,535,110,115,80,50,90,90
+650,69,Regulation Set B,mario (Gastrodon-East),Gastrodon,Water,Ground,Storm Drain,Fire,Bold,475,111,83,68,92,82,39
+651,69,Regulation Set B,Puro (Arcanine),Arcanine,Fire,,Intimidate,Grass,Jolly,555,90,110,80,100,80,95
+652,69,Regulation Set B,MASSA (Flutter Mane),Flutter Mane,Ghost,Fairy,Protosynthesis,Fairy,Timid,570,55,55,55,135,135,135
+653,69,Regulation Set B,sporini (Amoonguss),Amoonguss,Grass,Poison,Regenerator,Water,Bold,464,114,85,70,85,80,30
+654,70,Regulation Set B,Orthworm (F),Orthworm,Steel,,Earth Eater,Ghost,Brave,480,70,85,145,60,55,65
+655,70,Regulation Set B,Indeedee-F,Indeedee (Female),Psychic,Normal,Psychic Surge,Fairy,Bold,475,70,55,65,95,105,85
+656,70,Regulation Set B,Armarouge (M),Armarouge,Fire,Psychic,Flash Fire,Grass,Modest,525,85,60,100,125,80,75
+657,70,Regulation Set B,Iron Hands,Iron Hands,Fighting,Electric,Quark Drive,Steel,Adamant,570,154,140,108,50,68,50
+658,70,Regulation Set B,Iron Bundle,Iron Bundle,Ice,Water,Quark Drive,Water,Timid,570,56,80,114,124,60,136
+659,70,Regulation Set B,Roaring Moon,Roaring Moon,Dragon,Dark,Protosynthesis,Flying,Adamant,590,105,139,71,55,101,119
+660,71,Regulation Set B,Iron Bundle,Iron Bundle,Ice,Water,Quark Drive,Ghost,Timid,570,56,80,114,124,60,136
+661,71,Regulation Set B,Iron Hands,Iron Hands,Fighting,Electric,Quark Drive,Grass,Adamant,570,154,140,108,50,68,50
+662,71,Regulation Set B,Roaring Moon,Roaring Moon,Dragon,Dark,Protosynthesis,Flying,Adamant,590,105,139,71,55,101,119
+663,71,Regulation Set B,Amoonguss,Amoonguss,Grass,Poison,Regenerator,Dark,Sassy,464,114,85,70,85,80,30
+664,71,Regulation Set B,Arcanine,Arcanine,Fire,,Intimidate,Water,Careful,555,90,110,80,100,80,95
+665,71,Regulation Set B,Gholdengo,Gholdengo,Steel,Ghost,Good as Gold,Water,Timid,550,87,60,95,133,91,84
+666,72,Regulation Set B,Roaring Moon,Roaring Moon,Dragon,Dark,Protosynthesis,Flying,Adamant,590,105,139,71,55,101,119
+667,72,Regulation Set B,Iron Bundle,Iron Bundle,Ice,Water,Quark Drive,Ghost,Timid,570,56,80,114,124,60,136
+668,72,Regulation Set B,Amoonguss,Amoonguss,Grass,Poison,Regenerator,Water,Relaxed,464,114,85,70,85,80,30
+669,72,Regulation Set B,Arcanine,Arcanine,Fire,,Intimidate,Dark,Careful,555,90,110,80,100,80,95
+670,72,Regulation Set B,Garganacl,Garganacl,Rock,,Purifying Salt,Ghost,Careful,500,100,100,130,45,90,35
+671,72,Regulation Set B,Iron Hands,Iron Hands,Fighting,Electric,Quark Drive,Grass,Adamant,570,154,140,108,50,68,50
+673,73,Regulation Set B,Iron Hands,Iron Hands,Fighting,Electric,Quark Drive,Grass,Adamant,570,154,140,108,50,68,50
+674,73,Regulation Set B,Iron Moth,Iron Moth,Fire,Poison,Quark Drive,Ghost,Timid,570,80,70,60,140,110,110
+675,73,Regulation Set B,Kingambit,Kingambit,Dark,Steel,Defiant,Flying,Adamant,550,100,135,120,60,85,50
+676,73,Regulation Set B,Flutter Mane,Flutter Mane,Ghost,Fairy,Protosynthesis,Ghost,Modest,570,55,55,55,135,135,135
+677,73,Regulation Set B,Dondozo,Dondozo,Water,,Unaware,Fairy,Careful,530,150,100,115,65,65,35
+678,74,Regulation Set B,Tatsugiri-Stretchy,Tatsugiri (Stretchy Form),Dragon,Water,Commander,Dragon,Timid,475,68,50,60,120,95,82
+679,74,Regulation Set B,Dondozo,Dondozo,Water,,Unaware,Water,Adamant,530,150,100,115,65,65,35
+680,74,Regulation Set B,Dragonite,Dragonite,Dragon,Flying,Multiscale,Normal,Adamant,600,91,134,95,100,100,80
+681,74,Regulation Set B,Flutter Mane,Flutter Mane,Ghost,Fairy,Protosynthesis,Fairy,Timid,570,55,55,55,135,135,135
+682,74,Regulation Set B,Iron Moth,Iron Moth,Fire,Poison,Quark Drive,Ghost,Timid,570,80,70,60,140,110,110
+683,74,Regulation Set B,Baxcalibur,Baxcalibur,Dragon,Ice,Thermal Exchange,Ground,Jolly,600,115,145,92,75,86,87
+684,75,Regulation Set B,Roaring Moon,Roaring Moon,Dragon,Dark,Protosynthesis,Flying,Jolly,590,105,139,71,55,101,119
+685,75,Regulation Set B,Palafin,Palafin (Hero Form),Water,,Zero to Hero,Water,Jolly,650,100,160,97,106,87,100
+686,75,Regulation Set B,Pelipper,Pelipper,Water,Flying,Keen Eye,Water,Timid,440,60,50,100,95,70,65
+687,75,Regulation Set B,Gholdengo,Gholdengo,Steel,Ghost,Good as Gold,Normal,Timid,550,87,60,95,133,91,84
+688,75,Regulation Set B,Great Tusk,Great Tusk,Ground,Fighting,Protosynthesis,Ground,Jolly,570,115,131,131,53,53,87
+689,75,Regulation Set B,Kingambit,Kingambit,Dark,Steel,Defiant,Fairy,Adamant,550,100,135,120,60,85,50
+690,76,Regulation Set B,Tyranitar,Tyranitar,Rock,Dark,Sand Stream,Dark,Adamant,600,100,134,110,95,100,61
+692,76,Regulation Set B,Indeedee-F,Indeedee (Female),Psychic,Normal,Psychic Surge,Fairy,Bold,475,70,55,65,95,105,85
+693,76,Regulation Set B,Armarouge,Armarouge,Fire,Psychic,Weak Armor,Grass,Modest,525,85,60,100,125,80,75
+694,76,Regulation Set B,Flutter Mane,Flutter Mane,Ghost,Fairy,Protosynthesis,Fairy,Timid,570,55,55,55,135,135,135
+695,76,Regulation Set B,Iron Moth,Iron Moth,Fire,Poison,Quark Drive,Grass,Modest,570,80,70,60,140,110,110
+696,77,Regulation Set B,Flutter Mane,Flutter Mane,Ghost,Fairy,Protosynthesis,Fairy,Timid,570,55,55,55,135,135,135
+697,77,Regulation Set B,Gholdengo,Gholdengo,Steel,Ghost,Good as Gold,Steel,Timid,550,87,60,95,133,91,84
+698,77,Regulation Set B,Dragonite,Dragonite,Dragon,Flying,Multiscale,Flying,Adamant,600,91,134,95,100,100,80
+699,77,Regulation Set B,Murkrow,Murkrow,Dark,Flying,Prankster,Dark,Calm,405,60,85,42,85,42,91
+700,77,Regulation Set B,Dondozo,Dondozo,Water,,Unaware,Grass,Careful,530,150,100,115,65,65,35
+701,77,Regulation Set B,Amoonguss,Amoonguss,Grass,Poison,Regenerator,Dark,Calm,464,114,85,70,85,80,30
+702,78,Regulation Set B,Vivillon-Fancy,Vivillon,Bug,Flying,Friend Guard,Ghost,Timid,411,80,52,50,90,50,89
+703,78,Regulation Set B,Flutter Mane,Flutter Mane,Ghost,Fairy,Protosynthesis,Ghost,Timid,570,55,55,55,135,135,135
+704,78,Regulation Set B,Iron Bundle,Iron Bundle,Ice,Water,Quark Drive,Grass,Timid,570,56,80,114,124,60,136
+705,78,Regulation Set B,Iron Hands,Iron Hands,Fighting,Electric,Quark Drive,Grass,Brave,570,154,140,108,50,68,50
+706,78,Regulation Set B,Ceruledge,Ceruledge,Fire,Ghost,Flash Fire,Steel,Adamant,525,75,125,80,60,100,85
+707,78,Regulation Set B,Maushold,Maushold (Family of Three),Normal,,Friend Guard,Ghost,Bold,470,74,75,70,65,75,111
+708,79,Regulation Set B,Flutter Mane,Flutter Mane,Ghost,Fairy,Protosynthesis,Fairy,Timid,570,55,55,55,135,135,135
+709,79,Regulation Set B,Iron Hands,Iron Hands,Fighting,Electric,Quark Drive,Grass,Adamant,570,154,140,108,50,68,50
+710,79,Regulation Set B,Iron Bundle,Iron Bundle,Ice,Water,Quark Drive,Ghost,Timid,570,56,80,114,124,60,136
+711,79,Regulation Set B,Amoonguss,Amoonguss,Grass,Poison,Regenerator,Dark,Relaxed,464,114,85,70,85,80,30
+712,79,Regulation Set B,Arcanine,Arcanine,Fire,,Intimidate,Water,Jolly,555,90,110,80,100,80,95
+713,79,Regulation Set B,Garchomp,Garchomp,Dragon,Ground,Rough Skin,Ground,Jolly,600,108,130,95,80,85,102
+714,80,Regulation Set B,Iron Hands,Iron Hands,Fighting,Electric,Quark Drive,Fire,Adamant,570,154,140,108,50,68,50
+715,80,Regulation Set B,Kingambit,Kingambit,Dark,Steel,Defiant,Grass,Adamant,550,100,135,120,60,85,50
+716,80,Regulation Set B,Amoonguss,Amoonguss,Grass,Poison,Regenerator,Water,Calm,464,114,85,70,85,80,30
+717,80,Regulation Set B,Flutter Mane,Flutter Mane,Ghost,Fairy,Protosynthesis,Ground,Timid,570,55,55,55,135,135,135
+718,80,Regulation Set B,Iron Bundle,Iron Bundle,Ice,Water,Quark Drive,Water,Timid,570,56,80,114,124,60,136
+719,80,Regulation Set B,Arcanine,Arcanine,Fire,,Intimidate,Dark,Jolly,555,90,110,80,100,80,95
+720,81,Regulation Set B,Sandy Shocks,Sandy Shocks,Electric,Ground,Protosynthesis,Ghost,Timid,570,85,81,97,121,85,101
+721,81,Regulation Set B,Iron Bundle,Iron Bundle,Ice,Water,Quark Drive,Ice,Timid,570,56,80,114,124,60,136
+722,81,Regulation Set B,Amoonguss,Amoonguss,Grass,Poison,Regenerator,Dark,Relaxed,464,114,85,70,85,80,30
+723,81,Regulation Set B,Hydreigon,Hydreigon,Dark,Dragon,Levitate,Fire,Modest,600,92,105,90,125,90,98
+724,81,Regulation Set B,Espathra,Espathra,Psychic,,Speed Boost,Fairy,Timid,481,95,60,60,101,60,105
+725,81,Regulation Set B,Gholdengo,Gholdengo,Steel,Ghost,Good as Gold,Steel,Modest,550,87,60,95,133,91,84
+726,82,Regulation Set B,Flutter Mane,Flutter Mane,Ghost,Fairy,Protosynthesis,Fairy,Timid,570,55,55,55,135,135,135
+727,82,Regulation Set B,Gothitelle,Gothitelle,Psychic,,Shadow Tag,Steel,Careful,490,70,55,95,95,110,65
+728,82,Regulation Set B,Iron Hands,Iron Hands,Fighting,Electric,Quark Drive,Grass,Adamant,570,154,140,108,50,68,50
+729,82,Regulation Set B,Arcanine,Arcanine,Fire,,Intimidate,Dark,Jolly,555,90,110,80,100,80,95
+730,82,Regulation Set B,Iron Bundle,Iron Bundle,Ice,Water,Quark Drive,Ghost,Timid,570,56,80,114,124,60,136
+731,82,Regulation Set B,Ceruledge,Ceruledge,Fire,Ghost,Flash Fire,Grass,Adamant,525,75,125,80,60,100,85
+733,83,Regulation Set B,Hippowdon,Hippowdon,Ground,,Sand Stream,Grass,Adamant,525,108,112,118,68,72,47
+734,83,Regulation Set B,Hydreigon,Hydreigon,Dark,Dragon,Levitate,Fire,Timid,600,92,105,90,125,90,98
+735,83,Regulation Set B,Iron Bundle,Iron Bundle,Ice,Water,Quark Drive,Ghost,Timid,570,56,80,114,124,60,136
+736,83,Regulation Set B,Flutter Mane,Flutter Mane,Ghost,Fairy,Protosynthesis,Fairy,Timid,570,55,55,55,135,135,135
+737,83,Regulation Set B,Iron Hands,Iron Hands,Fighting,Electric,Quark Drive,Grass,Adamant,570,154,140,108,50,68,50
+738,84,Regulation Set B,Floatzel,Floatzel,Water,,Swift Swim,Water,Jolly,495,85,105,55,85,50,115
+739,84,Regulation Set B,Pelipper,Pelipper,Water,Flying,Drizzle,Ground,Calm,440,60,50,100,95,70,65
+740,84,Regulation Set B,Kingambit,Kingambit,Dark,Steel,Defiant,Fairy,Brave,550,100,135,120,60,85,50
+741,84,Regulation Set B,Great Tusk,Great Tusk,Ground,Fighting,Protosynthesis,Steel,Adamant,570,115,131,131,53,53,87
+742,84,Regulation Set B,Arcanine,Arcanine,Fire,,Intimidate,Normal,Jolly,555,90,110,80,100,80,95
+743,84,Regulation Set B,Rotom-Mow,Rotom (Mow Rotom),Electric,Grass,Levitate,Electric,Timid,520,50,65,107,105,107,86
+744,85,Regulation Set B,Dragapult,Dragapult,Dragon,Ghost,Clear Body,Steel,Jolly,600,88,120,75,100,75,142
+745,85,Regulation Set B,Coalossal,Coalossal,Rock,Fire,Steam Engine,Rock,Adamant,510,110,80,120,80,90,30
+746,85,Regulation Set B,Tauros-Paldea-Aqua,Tauros (Aqua Breed),Fighting,Water,Intimidate,Water,Jolly,490,75,110,105,30,70,100
+747,85,Regulation Set B,Hydreigon (F),Hydreigon,Dark,Dragon,Levitate,Steel,Timid,600,92,105,90,125,90,98
+748,85,Regulation Set B,Brute Bonnet,Brute Bonnet,Grass,Dark,Protosynthesis,Water,Adamant,570,111,127,99,79,99,55
+749,85,Regulation Set B,Iron Hands,Iron Hands,Fighting,Electric,Quark Drive,Grass,Adamant,570,154,140,108,50,68,50
+750,86,Regulation Set B,Indeedee-F,Indeedee (Female),Psychic,Normal,Psychic Surge,Fairy,Relaxed,475,70,55,65,95,105,85
+751,86,Regulation Set B,Torkoal,Torkoal,Fire,,Drought,Fire,Quiet,470,70,85,140,85,70,20
+752,86,Regulation Set B,Hatterene,Hatterene,Psychic,Fairy,Magic Bounce,Grass,Quiet,510,57,90,95,136,103,29
+753,86,Regulation Set B,Arboliva,Arboliva,Grass,Normal,Seed Sower,Water,Quiet,510,78,69,90,125,109,39
+754,86,Regulation Set B,Great Tusk,Great Tusk,Ground,Fighting,Protosynthesis,Steel,Hardy,570,115,131,131,53,53,87
+755,86,Regulation Set B,Oranguru,Oranguru,Normal,Psychic,Inner Focus,Dark,Sassy,490,90,60,80,90,110,60
+756,87,Regulation Set B,Roaring Moon,Roaring Moon,Dragon,Dark,Protosynthesis,Flying,Jolly,590,105,139,71,55,101,119
+757,87,Regulation Set B,Iron Bundle,Iron Bundle,Ice,Water,Quark Drive,Water,Timid,570,56,80,114,124,60,136
+758,87,Regulation Set B,Tauros-Paldea-Blaze,Tauros (Blaze Breed),Fighting,Fire,Intimidate,Grass,Adamant,490,75,110,105,30,70,100
+759,87,Regulation Set B,Kingambit,Kingambit,Dark,Steel,Defiant,Flying,Adamant,550,100,135,120,60,85,50
+760,87,Regulation Set B,Sylveon,Sylveon,Fairy,,Pixilate,Ground,Modest,525,95,65,65,110,130,60
+761,87,Regulation Set B,Sandy Shocks,Sandy Shocks,Electric,Ground,Protosynthesis,Grass,Modest,570,85,81,97,121,85,101
+762,88,Regulation Set B,Iron Moth,Iron Moth,Fire,Poison,Quark Drive,Grass,Timid,570,80,70,60,140,110,110
+763,88,Regulation Set B,Flutter Mane,Flutter Mane,Ghost,Fairy,Protosynthesis,Steel,Timid,570,55,55,55,135,135,135
+764,88,Regulation Set B,Dondozo,Dondozo,Water,,Unaware,Dragon,Jolly,530,150,100,115,65,65,35
+766,88,Regulation Set B,Gholdengo,Gholdengo,Steel,Ghost,Good as Gold,Steel,Modest,550,87,60,95,133,91,84
+767,88,Regulation Set B,Kingambit,Kingambit,Dark,Steel,Defiant,Flying,Adamant,550,100,135,120,60,85,50
+768,89,Regulation Set B,Spiritomb (M),Spiritomb,Ghost,Dark,Infiltrator,Steel,Sassy,485,50,92,108,92,108,35
+769,89,Regulation Set B,Iron Hands,Iron Hands,Fighting,Electric,Quark Drive,Fighting,Adamant,570,154,140,108,50,68,50
+770,89,Regulation Set B,Scizor (M),Scizor,Bug,Steel,Technician,Fire,Adamant,500,70,130,100,55,80,65
+771,89,Regulation Set B,Pelipper (F),Pelipper,Water,Flying,Drizzle,Flying,Modest,440,60,50,100,95,70,65
+772,89,Regulation Set B,Farigiraf (F),Farigiraf,Normal,Psychic,Armor Tail,Poison,Quiet,520,120,90,70,110,70,60
+773,89,Regulation Set B,Pincurchin (F),Pincurchin,Electric,,Electric Surge,Electric,Quiet,435,48,101,95,91,85,15
+774,90,Regulation Set B,Flutter Mane,Flutter Mane,Ghost,Fairy,Protosynthesis,Fairy,Timid,570,55,55,55,135,135,135
+775,90,Regulation Set B,Sandy Shocks,Sandy Shocks,Electric,Ground,Protosynthesis,Electric,Timid,570,85,81,97,121,85,101
+776,90,Regulation Set B,Brute Bonnet,Brute Bonnet,Grass,Dark,Protosynthesis,Fire,Adamant,570,111,127,99,79,99,55
+777,90,Regulation Set B,Tauros-Paldea-Blaze,Tauros (Blaze Breed),Fighting,Fire,Intimidate,Grass,Jolly,490,75,110,105,30,70,100
+778,90,Regulation Set B,Scizor (M),Scizor,Bug,Steel,Technician,Dragon,Adamant,500,70,130,100,55,80,65
+779,90,Regulation Set B,Murkrow (M),Murkrow,Dark,Flying,Prankster,Ghost,Impish,405,60,85,42,85,42,91
+780,1,Regulation Set C,Dondozo (M),Dondozo,Water,,Oblivious,Grass,Adamant,530,150,100,115,65,65,35
+782,1,Regulation Set C,Chi-Yu,Chi-Yu,Dark,Fire,Beads of Ruin,Ghost,Timid,570,55,80,80,135,120,100
+783,1,Regulation Set C,Iron Bundle,Iron Bundle,Ice,Water,Quark Drive,Ice,Timid,570,56,80,114,124,60,136
+784,1,Regulation Set C,Flutter Mane,Flutter Mane,Ghost,Fairy,Protosynthesis,Fairy,Modest,570,55,55,55,135,135,135
+785,1,Regulation Set C,Glimmora (M),Glimmora,Rock,Poison,Toxic Debris,Grass,Bold,525,83,55,90,130,81,86
+786,2,Regulation Set C,Dozo (Palafin-Hero),Palafin (Hero Form),Water,,Zero to Hero,Water,Adamant,650,100,160,97,106,87,100
+787,2,Regulation Set C,Bundle (Chien-Pao),Chien-Pao,Dark,Ice,Sword of Ruin,Ghost,Jolly,570,80,120,80,90,65,135
+788,2,Regulation Set C,Dnite (Dragapult),Dragapult,Dragon,Ghost,Clear Body,Steel,Jolly,600,88,120,75,100,75,142
+789,2,Regulation Set C,WoChien (Amoonguss),Amoonguss,Grass,Poison,Regenerator,Water,Relaxed,464,114,85,70,85,80,30
+790,2,Regulation Set C,ChiYu (Arcanine),Arcanine,Fire,,Intimidate,Flying,Jolly,555,90,110,80,100,80,95
+791,2,Regulation Set C,Mimi (Flutter Mane),Flutter Mane,Ghost,Fairy,Protosynthesis,Fairy,Modest,570,55,55,55,135,135,135
+792,3,Regulation Set C,Gothitelle (F),Gothitelle,Psychic,,Shadow Tag,Water,Calm,490,70,55,95,95,110,65
+793,3,Regulation Set C,Iron Hands,Iron Hands,Fighting,Electric,Quark Drive,Fire,Adamant,570,154,140,108,50,68,50
+794,3,Regulation Set C,Flutter Mane,Flutter Mane,Ghost,Fairy,Protosynthesis,Fairy,Timid,570,55,55,55,135,135,135
+795,3,Regulation Set C,Chien-Pao,Chien-Pao,Dark,Ice,Sword of Ruin,Dark,Jolly,570,80,120,80,90,65,135
+796,3,Regulation Set C,Palafin,Palafin (Hero Form),Water,,Zero to Hero,Water,Adamant,650,100,160,97,106,87,100
+797,3,Regulation Set C,Amoonguss,Amoonguss,Grass,Poison,Regenerator,Water,Sassy,464,114,85,70,85,80,30
+810,12,Regulation Set C,Flutter Mane,Flutter Mane,Ghost,Fairy,Protosynthesis,Fairy,Timid,570,55,55,55,135,135,135
+811,12,Regulation Set C,Great Tusk,Great Tusk,Ground,Fighting,Protosynthesis,Steel,Jolly,570,115,131,131,53,53,87
+812,12,Regulation Set C,Iron Bundle,Iron Bundle,Ice,Water,Quark Drive,Ice,Timid,570,56,80,114,124,60,136
+813,12,Regulation Set C,Dragonite,Dragonite,Dragon,Flying,Multiscale,Normal,Jolly,600,91,134,95,100,100,80
+814,12,Regulation Set C,Kingambit,Kingambit,Dark,Steel,Defiant,Fire,Adamant,550,100,135,120,60,85,50
+815,12,Regulation Set C,Abomasnow,Abomasnow,Grass,Ice,Snow Warning,Water,Modest,494,90,92,75,92,85,60
+816,13,Regulation Set C,Scream Tail,Scream Tail,Fairy,Psychic,Protosynthesis,Grass,Timid,570,115,65,99,65,115,111
+817,13,Regulation Set C,Iron Bundle,Iron Bundle,Ice,Water,Quark Drive,Ghost,Timid,570,56,80,114,124,60,136
+818,13,Regulation Set C,Flutter Mane,Flutter Mane,Ghost,Fairy,Protosynthesis,Fairy,Modest,570,55,55,55,135,135,135
+819,13,Regulation Set C,Annihilape (F),Annihilape,Fighting,Ghost,Defiant,Fire,Adamant,535,110,115,80,50,90,90
+820,13,Regulation Set C,Chi-Yu,Chi-Yu,Dark,Fire,Beads of Ruin,Ghost,Modest,570,55,80,80,135,120,100
+821,13,Regulation Set C,Amoonguss (F),Amoonguss,Grass,Poison,Regenerator,Water,Bold,464,114,85,70,85,80,30
+822,15,Regulation Set C,b e e g (Dondozo),Dondozo,Water,,Oblivious,Steel,Adamant,530,150,100,115,65,65,35
+823,15,Regulation Set C,d o d g e (Tatsugiri-Droopy),Tatsugiri (Droopy Form),Dragon,Water,Commander,Steel,Modest,475,68,50,60,120,95,82
+824,15,Regulation Set C,h e l p (Amoonguss),Amoonguss,Grass,Poison,Regenerator,Fairy,Bold,464,114,85,70,85,80,30
+825,15,Regulation Set C,b o t h e r (Arcanine),Arcanine,Fire,,Intimidate,Water,Jolly,555,90,110,80,100,80,95
+826,15,Regulation Set C,s t i c k (Baxcalibur),Baxcalibur,Dragon,Ice,Thermal Exchange,Poison,Adamant,600,115,145,92,75,86,87
+827,15,Regulation Set C,s l a y (Flutter Mane),Flutter Mane,Ghost,Fairy,Protosynthesis,Fairy,Timid,570,55,55,55,135,135,135
+828,17,Regulation Set C,C. Falcon (Hawlucha) (M),Hawlucha,Fighting,Flying,Unburden,Steel,Adamant,500,78,92,75,74,63,118
+829,17,Regulation Set C,Isabelle (Indeedee-F),Indeedee (Female),Psychic,Normal,Psychic Surge,Fairy,Bold,475,70,55,65,95,105,85
+830,17,Regulation Set C,Mega Man (Armarouge) (M),Armarouge,Fire,Psychic,Flash Fire,Grass,Modest,525,85,60,100,125,80,75
+831,17,Regulation Set C,Corrin (Palafin) (F),Palafin (Hero Form),Water,,Zero to Hero,Water,Adamant,650,100,160,97,106,87,100
+832,17,Regulation Set C,R.O.B. (Sandy Shocks),Sandy Shocks,Electric,Ground,Protosynthesis,Grass,Timid,570,85,81,97,121,85,101
+833,17,Regulation Set C,Marth (Chien-Pao),Chien-Pao,Dark,Ice,Sword of Ruin,Dark,Jolly,570,80,120,80,90,65,135
+834,18,Regulation Set C,Chien-Pao,Chien-Pao,Dark,Ice,Sword of Ruin,Flying,Jolly,570,80,120,80,90,65,135
+835,18,Regulation Set C,Great Tusk,Great Tusk,Ground,Fighting,Protosynthesis,Fire,Adamant,570,115,131,131,53,53,87
+836,18,Regulation Set C,Flutter Mane,Flutter Mane,Ghost,Fairy,Protosynthesis,Water,Modest,570,55,55,55,135,135,135
+837,18,Regulation Set C,Arcanine,Arcanine,Fire,,Intimidate,Flying,Jolly,555,90,110,80,100,80,95
+838,18,Regulation Set C,Iron Bundle,Iron Bundle,Ice,Water,Quark Drive,Ghost,Timid,570,56,80,114,124,60,136
+839,18,Regulation Set C,Amoonguss,Amoonguss,Grass,Poison,Regenerator,Water,Bold,464,114,85,70,85,80,30
+840,19,Regulation Set C,JWNaldo (Ting-Lu),Ting-Lu,Dark,Ground,Vessel of Ruin,Water,Adamant,570,155,110,125,55,80,45
+841,19,Regulation Set C,Kaiorf (Ceruledge),Ceruledge,Fire,Ghost,Flash Fire,Grass,Adamant,525,75,125,80,60,100,85
+842,19,Regulation Set C,Sschneider (Flutter Mane),Flutter Mane,Ghost,Fairy,Protosynthesis,Fairy,Modest,570,55,55,55,135,135,135
+843,19,Regulation Set C,MysticChanse (Amoonguss),Amoonguss,Grass,Poison,Regenerator,Steel,Bold,464,114,85,70,85,80,30
+844,19,Regulation Set C,PachoBlues (Gyarados),Gyarados,Water,Flying,Intimidate,Steel,Careful,540,95,125,79,60,100,81
+845,19,Regulation Set C,Nathzinhax (Iron Bundle),Iron Bundle,Ice,Water,Quark Drive,Ghost,Timid,570,56,80,114,124,60,136
+846,21,Regulation Set C,Orthworm,Orthworm,Steel,,Earth Eater,Fire,Impish,480,70,85,145,60,55,65
+847,21,Regulation Set C,Ting-Lu,Ting-Lu,Dark,Ground,Vessel of Ruin,Water,Adamant,570,155,110,125,55,80,45
+848,21,Regulation Set C,Dragonite,Dragonite,Dragon,Flying,Multiscale,Flying,Jolly,600,91,134,95,100,100,80
+849,21,Regulation Set C,Arcanine (M),Arcanine,Fire,,Intimidate,Grass,Jolly,555,90,110,80,100,80,95
+850,21,Regulation Set C,Iron Bundle,Iron Bundle,Ice,Water,Quark Drive,Ghost,Timid,570,56,80,114,124,60,136
+851,21,Regulation Set C,Flutter Mane,Flutter Mane,Ghost,Fairy,Protosynthesis,Fairy,Timid,570,55,55,55,135,135,135
+852,23,Regulation Set C,Glimmora (M),Glimmora,Rock,Poison,Toxic Debris,Grass,Bold,525,83,55,90,130,81,86
+853,23,Regulation Set C,Dragonite (M),Dragonite,Dragon,Flying,Multiscale,Normal,Adamant,600,91,134,95,100,100,80
+854,23,Regulation Set C,Dondozo (M),Dondozo,Water,,Oblivious,Grass,Adamant,530,150,100,115,65,65,35
+856,23,Regulation Set C,Chi-Yu,Chi-Yu,Dark,Fire,Beads of Ruin,Ghost,Timid,570,55,80,80,135,120,100
+857,23,Regulation Set C,Iron Bundle,Iron Bundle,Ice,Water,Quark Drive,Ice,Timid,570,56,80,114,124,60,136
+858,25,Regulation Set C,Dondozo,Dondozo,Water,,Unaware,Water,Hasty,530,150,100,115,65,65,35
+859,25,Regulation Set C,Tatsugiri-Droopy,Tatsugiri (Droopy Form),Dragon,Water,Commander,Steel,Timid,475,68,50,60,120,95,82
+860,25,Regulation Set C,Pelipper,Pelipper,Water,Flying,Drizzle,Steel,Modest,440,60,50,100,95,70,65
+861,25,Regulation Set C,Drednaw,Drednaw,Water,Rock,Swift Swim,Grass,Adamant,485,90,115,90,48,68,74
+862,25,Regulation Set C,Dragonite,Dragonite,Dragon,Flying,Inner Focus,Normal,Adamant,600,91,134,95,100,100,80
+863,25,Regulation Set C,Chien-Pao,Chien-Pao,Dark,Ice,Sword of Ruin,Ice,Jolly,570,80,120,80,90,65,135
+894,1,Regulation Set D,Amoonguss (F),Amoonguss,Grass,Poison,Regenerator,Water,Bold,464,114,85,70,85,80,30
+895,1,Regulation Set D,Flutter Mane,Flutter Mane,Ghost,Fairy,Protosynthesis,Water,Timid,570,55,55,55,135,135,135
+896,1,Regulation Set D,Heatran,Heatran,Fire,Steel,Flash Fire,Grass,Modest,600,91,90,106,130,106,77
+897,1,Regulation Set D,Urshifu-Rapid-Strike,Urshifu (Rapid Strike Style),Fighting,Water,Unseen Fist,Water,Adamant,550,100,130,100,63,60,97
+898,1,Regulation Set D,Chien-Pao,Chien-Pao,Dark,Ice,Sword of Ruin,Ghost,Jolly,570,80,120,80,90,65,135
+899,1,Regulation Set D,Landorus-Therian,Landorus (Therian Forme),Ground,Flying,Intimidate,Flying,Adamant,600,89,145,90,105,80,91
+900,2,Regulation Set D,Iron Hands,Iron Hands,Fighting,Electric,Quark Drive,Grass,Brave,570,154,140,108,50,68,50
+901,2,Regulation Set D,Urshifu-Rapid-Strike,Urshifu (Rapid Strike Style),Fighting,Water,Unseen Fist,Water,Adamant,550,100,130,100,63,60,97
+902,2,Regulation Set D,Heatran,Heatran,Fire,Steel,Flash Fire,Grass,Modest,600,91,90,106,130,106,77
+903,2,Regulation Set D,Chien-Pao,Chien-Pao,Dark,Ice,Sword of Ruin,Ghost,Adamant,570,80,120,80,90,65,135
+904,2,Regulation Set D,Cresselia,Cresselia,Psychic,,Levitate,Electric,Relaxed,580,120,70,110,75,120,85
+905,2,Regulation Set D,Amoonguss,Amoonguss,Grass,Poison,Regenerator,Water,Bold,464,114,85,70,85,80,30
+906,3,Regulation Set D,Landorus-Therian,Landorus (Therian Forme),Ground,Flying,Intimidate,Flying,Adamant,600,89,145,90,105,80,91
+907,3,Regulation Set D,Urshifu-Rapid-Strike,Urshifu (Rapid Strike Style),Fighting,Water,Unseen Fist,Water,Adamant,550,100,130,100,63,60,97
+908,3,Regulation Set D,Flutter Mane,Flutter Mane,Ghost,Fairy,Protosynthesis,Grass,Timid,570,55,55,55,135,135,135
+909,3,Regulation Set D,Chien-Pao,Chien-Pao,Dark,Ice,Sword of Ruin,Ghost,Adamant,570,80,120,80,90,65,135
+910,3,Regulation Set D,Amoonguss,Amoonguss,Grass,Poison,Regenerator,Water,Bold,464,114,85,70,85,80,30
+911,3,Regulation Set D,Iron Hands,Iron Hands,Fighting,Electric,Quark Drive,Water,Adamant,570,154,140,108,50,68,50
+912,4,Regulation Set D,Chien-Pao,Chien-Pao,Dark,Ice,Sword of Ruin,Dark,Adamant,570,80,120,80,90,65,135
+913,4,Regulation Set D,Dragapult,Dragapult,Dragon,Ghost,Clear Body,Ghost,Jolly,600,88,120,75,100,75,142
+914,4,Regulation Set D,Heatran,Heatran,Fire,Steel,Flash Fire,Grass,Modest,600,91,90,106,130,106,77
+915,4,Regulation Set D,Farigiraf,Farigiraf,Normal,Psychic,Armor Tail,Fairy,Modest,520,120,90,70,110,70,60
+916,4,Regulation Set D,Rillaboom,Rillaboom,Grass,,Grassy Surge,Poison,Adamant,530,100,125,90,60,70,85
+917,4,Regulation Set D,Urshifu-Rapid-Strike,Urshifu (Rapid Strike Style),Fighting,Water,Unseen Fist,Water,Adamant,550,100,130,100,63,60,97
+918,5,Regulation Set D,Ursaluna,Ursaluna,Ground,Normal,Guts,Ghost,Brave,550,130,140,105,45,80,50
+919,5,Regulation Set D,Cresselia,Cresselia,Psychic,,Levitate,Water,Bold,580,120,70,110,75,120,85
+920,5,Regulation Set D,Iron Hands,Iron Hands,Fighting,Electric,Quark Drive,Water,Adamant,570,154,140,108,50,68,50
+921,5,Regulation Set D,Dragonite,Dragonite,Dragon,Flying,Inner Focus,Flying,Jolly,600,91,134,95,100,100,80
+922,5,Regulation Set D,Flutter Mane,Flutter Mane,Ghost,Fairy,Protosynthesis,Fairy,Timid,570,55,55,55,135,135,135
+924,6,Regulation Set D,Pit-A-Pat (Pelipper) (F),Pelipper,Water,Flying,Drizzle,Steel,Timid,440,60,50,100,95,70,65
+925,6,Regulation Set D,The End (Urshifu-Rapid-Strike) (F),Urshifu (Rapid Strike Style),Fighting,Water,Unseen Fist,Grass,Jolly,550,100,130,100,63,60,97
+926,6,Regulation Set D,Impala (Iron Hands),Iron Hands,Fighting,Electric,Quark Drive,Grass,Adamant,570,154,140,108,50,68,50
+927,6,Regulation Set D,Mr. Rager (Amoonguss) (F),Amoonguss,Grass,Poison,Regenerator,Water,Bold,464,114,85,70,85,80,30
+928,6,Regulation Set D,Check (Gholdengo),Gholdengo,Steel,Ghost,Good as Gold,Flying,Timid,550,87,60,95,133,91,84
+929,6,Regulation Set D,FE!N-PAO (Chien-Pao),Chien-Pao,Dark,Ice,Sword of Ruin,Ghost,Adamant,570,80,120,80,90,65,135
+930,7,Regulation Set D,Iron Hands,Iron Hands,Fighting,Electric,Quark Drive,Water,Adamant,570,154,140,108,50,68,50
+931,7,Regulation Set D,Flutter Mane,Flutter Mane,Ghost,Fairy,Protosynthesis,Fairy,Timid,570,55,55,55,135,135,135
+932,7,Regulation Set D,Cresselia,Cresselia,Psychic,,Levitate,Dark,Calm,580,120,70,110,75,120,85
+933,7,Regulation Set D,Ursaluna,Ursaluna,Ground,Normal,Guts,Ghost,Brave,550,130,140,105,45,80,50
+935,7,Regulation Set D,Dragonite,Dragonite,Dragon,Flying,Inner Focus,Flying,Jolly,600,91,134,95,100,100,80
+937,8,Regulation Set D,Urshifu-Rapid-Strike (F),Urshifu (Rapid Strike Style),Fighting,Water,Unseen Fist,Water,Adamant,550,100,130,100,63,60,97
+938,8,Regulation Set D,Rillaboom (F),Rillaboom,Grass,,Grassy Surge,Fairy,Adamant,530,100,125,90,60,70,85
+939,8,Regulation Set D,Landorus-Therian,Landorus (Therian Forme),Ground,Flying,Intimidate,Water,Adamant,600,89,145,90,105,80,91
+940,8,Regulation Set D,Gholdengo,Gholdengo,Steel,Ghost,Good as Gold,Water,Bold,550,87,60,95,133,91,84
+941,8,Regulation Set D,Flutter Mane,Flutter Mane,Ghost,Fairy,Protosynthesis,Fairy,Timid,570,55,55,55,135,135,135
+942,9,Regulation Set D,Gholdengo,Gholdengo,Steel,Ghost,Good as Gold,Steel,Modest,550,87,60,95,133,91,84
+943,9,Regulation Set D,Chien-Pao,Chien-Pao,Dark,Ice,Sword of Ruin,Ghost,Adamant,570,80,120,80,90,65,135
+944,9,Regulation Set D,Iron Hands,Iron Hands,Fighting,Electric,Quark Drive,Grass,Adamant,570,154,140,108,50,68,50
+945,9,Regulation Set D,Urshifu-Rapid-Strike,Urshifu (Rapid Strike Style),Fighting,Water,Unseen Fist,Water,Adamant,550,100,130,100,63,60,97
+946,9,Regulation Set D,Pelipper,Pelipper,Water,Flying,Drizzle,Ghost,Calm,440,60,50,100,95,70,65
+947,9,Regulation Set D,Amoonguss,Amoonguss,Grass,Poison,Regenerator,Water,Bold,464,114,85,70,85,80,30
+948,10,Regulation Set D,Cresselia,Cresselia,Psychic,,Levitate,Fairy,Relaxed,580,120,70,110,75,120,85
+949,10,Regulation Set D,Torkoal,Torkoal,Fire,,Drought,Grass,Quiet,470,70,85,140,85,70,20
+950,10,Regulation Set D,ゴッドハンド (Iron Hands),Iron Hands,Fighting,Electric,Quark Drive,Fairy,Brave,570,154,140,108,50,68,50
+951,10,Regulation Set D,Amoonguss,Amoonguss,Grass,Poison,Regenerator,Water,Quiet,464,114,85,70,85,80,30
+952,10,Regulation Set D,Ursaluna,Ursaluna,Ground,Normal,Guts,Ghost,Brave,550,130,140,105,45,80,50
+953,10,Regulation Set D,Pフシギバナ (Flutter Mane),Flutter Mane,Ghost,Fairy,Protosynthesis,Fairy,Timid,570,55,55,55,135,135,135
+954,11,Regulation Set D,discode (Flutter Mane),Flutter Mane,Ghost,Fairy,Protosynthesis,Fairy,Modest,570,55,55,55,135,135,135
+956,11,Regulation Set D,ACTIVE PAIN (Chi-Yu),Chi-Yu,Dark,Fire,Beads of Ruin,Ghost,Timid,570,55,80,80,135,120,100
+957,11,Regulation Set D,nighteyes (Brambleghast),Brambleghast,Grass,Ghost,Wind Rider,Ghost,Adamant,480,55,115,70,80,70,90
+958,11,Regulation Set D,golden sneer (Gholdengo),Gholdengo,Steel,Ghost,Good as Gold,Steel,Modest,550,87,60,95,133,91,84
+959,11,Regulation Set D,prison STRIP (Urshifu-Rapid-Strike),Urshifu (Rapid Strike Style),Fighting,Water,Unseen Fist,Water,Adamant,550,100,130,100,63,60,97
+960,12,Regulation Set D,Chien-Pao,Chien-Pao,Dark,Ice,Sword of Ruin,Dark,Adamant,570,80,120,80,90,65,135
+961,12,Regulation Set D,Urshifu-Rapid-Strike,Urshifu (Rapid Strike Style),Fighting,Water,Unseen Fist,Water,Adamant,550,100,130,100,63,60,97
+962,12,Regulation Set D,Arcanine-Hisui,Arcanine (Hisuian Arcanine),Fire,Rock,Intimidate,Normal,Adamant,555,95,115,80,95,80,90
+964,12,Regulation Set D,Flutter Mane,Flutter Mane,Ghost,Fairy,Protosynthesis,Grass,Timid,570,55,55,55,135,135,135
+965,12,Regulation Set D,Rillaboom,Rillaboom,Grass,,Grassy Surge,Water,Adamant,530,100,125,90,60,70,85
+966,13,Regulation Set D,Urshifu-Rapid-Strike,Urshifu (Rapid Strike Style),Fighting,Water,Unseen Fist,Ghost,Jolly,550,100,130,100,63,60,97
+967,13,Regulation Set D,Baxcalibur,Baxcalibur,Dragon,Ice,Thermal Exchange,Fairy,Adamant,600,115,145,92,75,86,87
+968,13,Regulation Set D,Gholdengo,Gholdengo,Steel,Ghost,Good as Gold,Steel,Timid,550,87,60,95,133,91,84
+969,13,Regulation Set D,Heatran,Heatran,Fire,Steel,Flash Fire,Grass,Modest,600,91,90,106,130,106,77
+970,13,Regulation Set D,Amoonguss,Amoonguss,Grass,Poison,Regenerator,Water,Bold,464,114,85,70,85,80,30
+971,13,Regulation Set D,Zapdos,Zapdos,Electric,Flying,Static,Fairy,Bold,580,90,90,85,125,90,100
+972,14,Regulation Set D,Flutter Man (Flutter Mane),Flutter Mane,Ghost,Fairy,Protosynthesis,Fairy,Timid,570,55,55,55,135,135,135
+974,14,Regulation Set D,Landorus-Therian,Landorus (Therian Forme),Ground,Flying,Intimidate,Flying,Adamant,600,89,145,90,105,80,91
+975,14,Regulation Set D,Wo-Champion (Wo-Chien),Wo-Chien,Dark,Grass,Tablets of Ruin,Poison,Bold,570,85,85,100,95,135,70
+976,14,Regulation Set D,Urshifu-Rapid-Strike,Urshifu (Rapid Strike Style),Fighting,Water,Unseen Fist,Water,Adamant,550,100,130,100,63,60,97
+977,14,Regulation Set D,Hot Frog (Heatran),Heatran,Fire,Steel,Flash Fire,Fairy,Modest,600,91,90,106,130,106,77
+978,15,Regulation Set D,Farigiraf,Farigiraf,Normal,Psychic,Armor Tail,Fairy,Bold,520,120,90,70,110,70,60
+979,15,Regulation Set D,Winnie (Ursaluna),Ursaluna,Ground,Normal,Guts,Ghost,Impish,550,130,140,105,45,80,50
+980,15,Regulation Set D,Flutter Mane,Flutter Mane,Ghost,Fairy,Protosynthesis,Fairy,Modest,570,55,55,55,135,135,135
+981,15,Regulation Set D,Heatran,Heatran,Fire,Steel,Flash Fire,Fairy,Modest,600,91,90,106,130,106,77
+985,16,Regulation Set D,ウインディ (Arcanine-Hisui),Arcanine (Hisuian Arcanine),Fire,Rock,Intimidate,Normal,Adamant,555,95,115,80,95,80,90
+986,16,Regulation Set D,ウーラオス (Urshifu-Rapid-Strike),Urshifu (Rapid Strike Style),Fighting,Water,Unseen Fist,Water,Adamant,550,100,130,100,63,60,97
+987,16,Regulation Set D,ハバタクカミ (Flutter Mane),Flutter Mane,Ghost,Fairy,Protosynthesis,Grass,Timid,570,55,55,55,135,135,135
+988,16,Regulation Set D,ゴリランダー (Rillaboom),Rillaboom,Grass,,Grassy Surge,Steel,Adamant,530,100,125,90,60,70,85
+989,16,Regulation Set D,パオジアン (Chien-Pao),Chien-Pao,Dark,Ice,Sword of Ruin,Poison,Adamant,570,80,120,80,90,65,135
+990,17,Regulation Set D,クレセリア (Cresselia),Cresselia,Psychic,,Levitate,Fairy,Bold,580,120,70,110,75,120,85
+991,17,Regulation Set D,ウルガモス (Volcarona),Volcarona,Bug,Fire,Flame Body,Water,Timid,550,85,60,65,135,105,100
+992,17,Regulation Set D,ゴリランダー (Rillaboom),Rillaboom,Grass,,Grassy Surge,Fire,Adamant,530,100,125,90,60,70,85
+993,17,Regulation Set D,オーロンゲ (Grimmsnarl),Grimmsnarl,Dark,Fairy,Prankster,Ghost,Careful,510,95,120,65,95,75,60
+994,17,Regulation Set D,ヘイラッシャ (Dondozo),Dondozo,Water,,Unaware,Steel,Careful,530,150,100,115,65,65,35
+995,17,Regulation Set D,ウインディ (Arcanine-Hisui),Arcanine (Hisuian Arcanine),Fire,Rock,Intimidate,Grass,Adamant,555,95,115,80,95,80,90
+997,19,Regulation Set D,ウインディ (Arcanine-Hisui),Arcanine (Hisuian Arcanine),Fire,Rock,Intimidate,Normal,Adamant,555,95,115,80,95,80,90
+998,19,Regulation Set D,ウーラオス (Urshifu-Rapid-Strike),Urshifu (Rapid Strike Style),Fighting,Water,Unseen Fist,Water,Adamant,550,100,130,100,63,60,97
+999,19,Regulation Set D,ハバタクカミ (Flutter Mane),Flutter Mane,Ghost,Fairy,Protosynthesis,Grass,Timid,570,55,55,55,135,135,135
+1000,19,Regulation Set D,ゴリランダー (Rillaboom),Rillaboom,Grass,,Grassy Surge,Steel,Adamant,530,100,125,90,60,70,85
+1001,19,Regulation Set D,パオジアン (Chien-Pao),Chien-Pao,Dark,Ice,Sword of Ruin,Poison,Adamant,570,80,120,80,90,65,135
+1002,20,Regulation Set D,Landorus-Therian,Landorus (Therian Forme),Ground,Flying,Intimidate,Flying,Adamant,600,89,145,90,105,80,91
+1003,20,Regulation Set D,Urshifu-Rapid-Strike,Urshifu (Rapid Strike Style),Fighting,Water,Unseen Fist,Water,Adamant,550,100,130,100,63,60,97
+1004,20,Regulation Set D,Flutter Mane,Flutter Mane,Ghost,Fairy,Protosynthesis,Grass,Timid,570,55,55,55,135,135,135
+1005,20,Regulation Set D,Chien-Pao,Chien-Pao,Dark,Ice,Sword of Ruin,Ghost,Adamant,570,80,120,80,90,65,135
+1006,20,Regulation Set D,Amoonguss,Amoonguss,Grass,Poison,Regenerator,Water,Bold,464,114,85,70,85,80,30
+1007,20,Regulation Set D,Iron Hands,Iron Hands,Fighting,Electric,Quark Drive,Water,Adamant,570,154,140,108,50,68,50
+1008,21,Regulation Set D,Flutter Mane,Flutter Mane,Ghost,Fairy,Protosynthesis,Fairy,Timid,570,55,55,55,135,135,135
+1011,21,Regulation Set D,Gholdengo,Gholdengo,Steel,Ghost,Good as Gold,Steel,Modest,550,87,60,95,133,91,84
+1012,21,Regulation Set D,Landorus-Therian,Landorus (Therian Forme),Ground,Flying,Intimidate,Water,Adamant,600,89,145,90,105,80,91
+1013,21,Regulation Set D,Arcanine-Hisui,Arcanine (Hisuian Arcanine),Fire,Rock,Intimidate,Water,Adamant,555,95,115,80,95,80,90
+1015,22,Regulation Set D,ウインディ (Arcanine-Hisui),Arcanine (Hisuian Arcanine),Fire,Rock,Intimidate,Normal,Adamant,555,95,115,80,95,80,90
+1016,22,Regulation Set D,ウーラオス (Urshifu-Rapid-Strike),Urshifu (Rapid Strike Style),Fighting,Water,Unseen Fist,Water,Adamant,550,100,130,100,63,60,97
+1017,22,Regulation Set D,ハバタクカミ (Flutter Mane),Flutter Mane,Ghost,Fairy,Protosynthesis,Grass,Timid,570,55,55,55,135,135,135
+1018,22,Regulation Set D,ゴリランダー (Rillaboom),Rillaboom,Grass,,Grassy Surge,Steel,Adamant,530,100,125,90,60,70,85
+1019,22,Regulation Set D,パオジアン (Chien-Pao),Chien-Pao,Dark,Ice,Sword of Ruin,Poison,Adamant,570,80,120,80,90,65,135
+1020,23,Regulation Set D,Flutter Mane,Flutter Mane,Ghost,Fairy,Protosynthesis,Water,Timid,570,55,55,55,135,135,135
+1021,23,Regulation Set D,Heatran,Heatran,Fire,Steel,Flash Fire,Grass,Modest,600,91,90,106,130,106,77
+1022,23,Regulation Set D,Urshifu-Rapid-Strike,Urshifu (Rapid Strike Style),Fighting,Water,Unseen Fist,Grass,Jolly,550,100,130,100,63,60,97
+1023,23,Regulation Set D,Ursaluna,Ursaluna,Ground,Normal,Guts,Water,Adamant,550,130,140,105,45,80,50
+1024,23,Regulation Set D,Cresselia,Cresselia,Psychic,,Levitate,Fairy,Bold,580,120,70,110,75,120,85
+1025,23,Regulation Set D,Iron Hands,Iron Hands,Fighting,Electric,Quark Drive,Grass,Adamant,570,154,140,108,50,68,50
+1026,35,Regulation Set D,Gothitelle,Gothitelle,Psychic,,Shadow Tag,Fairy,Calm,490,70,55,95,95,110,65
+1027,35,Regulation Set D,Urshifu-Rapid-Strike,Urshifu (Rapid Strike Style),Fighting,Water,Unseen Fist,Water,Adamant,550,100,130,100,63,60,97
+1028,35,Regulation Set D,Volcarona,Volcarona,Bug,Fire,Flame Body,Water,Modest,550,85,60,65,135,105,100
+1029,35,Regulation Set D,Iron Hands,Iron Hands,Fighting,Electric,Quark Drive,Water,Adamant,570,154,140,108,50,68,50
+1030,35,Regulation Set D,Landorus-Therian,Landorus (Therian Forme),Ground,Flying,Intimidate,Water,Adamant,600,89,145,90,105,80,91
+1031,35,Regulation Set D,Scream Tail,Scream Tail,Fairy,Psychic,Protosynthesis,Grass,Timid,570,115,65,99,65,115,111
+1032,36,Regulation Set D,Indeedee-F,Indeedee (Female),Psychic,Normal,Psychic Surge,Fire,Relaxed,475,70,55,65,95,105,85
+1033,36,Regulation Set D,Armarouge (M),Armarouge,Fire,Psychic,Flash Fire,Grass,Modest,525,85,60,100,125,80,75
+1034,36,Regulation Set D,Kingambit,Kingambit,Dark,Steel,Defiant,Fire,Brave,550,100,135,120,60,85,50
+1035,36,Regulation Set D,Torkoal,Torkoal,Fire,,Drought,Fire,Quiet,470,70,85,140,85,70,20
+1036,36,Regulation Set D,Enamorus-Therian,Enamorus (Therian Forme),Fairy,Flying,Overcoat,Fairy,Quiet,580,74,115,110,135,100,46
+1037,36,Regulation Set D,Lilligant-Hisui,Lilligant (Hisuian Lilligant),Grass,Fighting,Chlorophyll,Ghost,Jolly,480,70,105,75,50,75,105
+1038,37,Regulation Set D,4 (Amoonguss),Amoonguss,Grass,Poison,Regenerator,Water,Bold,464,114,85,70,85,80,30
+1039,37,Regulation Set D,MDL (Chi-Yu),Chi-Yu,Dark,Fire,Beads of Ruin,Fire,Modest,570,55,80,80,135,120,100
+1040,37,Regulation Set D,Orange Cat (Dondozo),Dondozo,Water,,Oblivious,Grass,Adamant,530,150,100,115,65,65,35
+1041,37,Regulation Set D,LASANG (Tatsugiri-Stretchy),Tatsugiri (Stretchy Form),Dragon,Water,Commander,Steel,Modest,475,68,50,60,120,95,82
+1042,37,Regulation Set D,Agency Hands (Iron Hands),Iron Hands,Fighting,Electric,Quark Drive,Water,Adamant,570,154,140,108,50,68,50
+1043,37,Regulation Set D,MioPadreMeme (Landorus-Therian),Landorus (Therian Forme),Ground,Flying,Intimidate,Flying,Jolly,600,89,145,90,105,80,91
+1044,40,Regulation Set D,Glimmora (F),Glimmora,Rock,Poison,Toxic Debris,Grass,Modest,525,83,55,90,130,81,86
+1045,40,Regulation Set D,Chi-Yu,Chi-Yu,Dark,Fire,Beads of Ruin,Ghost,Timid,570,55,80,80,135,120,100
+1046,40,Regulation Set D,Dondozo (F),Dondozo,Water,,Oblivious,Flying,Adamant,530,150,100,115,65,65,35
+1047,40,Regulation Set D,Tatsugiri-Droopy (F),Tatsugiri (Droopy Form),Dragon,Water,Commander,Steel,Timid,475,68,50,60,120,95,82
+1048,40,Regulation Set D,Scream Tail,Scream Tail,Fairy,Psychic,Protosynthesis,Grass,Timid,570,115,65,99,65,115,111
+1050,41,Regulation Set D,Heatran,Heatran,Fire,Steel,Flash Fire,Grass,Modest,600,91,90,106,130,106,77
+1052,41,Regulation Set D,Rillaboom,Rillaboom,Grass,,Grassy Surge,Poison,Adamant,530,100,125,90,60,70,85
+1053,41,Regulation Set D,Flutter Mane,Flutter Mane,Ghost,Fairy,Protosynthesis,Water,Modest,570,55,55,55,135,135,135
+1054,41,Regulation Set D,Urshifu-Rapid-Strike,Urshifu (Rapid Strike Style),Fighting,Water,Unseen Fist,Grass,Adamant,550,100,130,100,63,60,97
+1055,41,Regulation Set D,Chien-Pao,Chien-Pao,Dark,Ice,Sword of Ruin,Ghost,Jolly,570,80,120,80,90,65,135
+1056,42,Regulation Set D,Dondozo,Dondozo,Water,,Unaware,Grass,Adamant,530,150,100,115,65,65,35
+1058,42,Regulation Set D,Glimmora,Glimmora,Rock,Poison,Toxic Debris,Grass,Modest,525,83,55,90,130,81,86
+1059,42,Regulation Set D,Chi-Yu,Chi-Yu,Dark,Fire,Beads of Ruin,Ghost,Timid,570,55,80,80,135,120,100
+1062,44,Regulation Set D,Flutter Mane,Flutter Mane,Ghost,Fairy,Protosynthesis,Grass,Timid,570,55,55,55,135,135,135
+1063,44,Regulation Set D,Chien-Pao,Chien-Pao,Dark,Ice,Sword of Ruin,Ghost,Adamant,570,80,120,80,90,65,135
+1064,44,Regulation Set D,Amoonguss,Amoonguss,Grass,Poison,Regenerator,Water,Relaxed,464,114,85,70,85,80,30
+1065,44,Regulation Set D,Rillaboom,Rillaboom,Grass,,Grassy Surge,Water,Adamant,530,100,125,90,60,70,85
+1066,44,Regulation Set D,Iron Hands,Iron Hands,Fighting,Electric,Quark Drive,Water,Adamant,570,154,140,108,50,68,50
+1067,44,Regulation Set D,Urshifu-Rapid-Strike,Urshifu (Rapid Strike Style),Fighting,Water,Unseen Fist,Water,Adamant,550,100,130,100,63,60,97
+1068,45,Regulation Set D,Heatran,Heatran,Fire,Steel,Flash Fire,Fairy,Modest,600,91,90,106,130,106,77
+1069,45,Regulation Set D,Landorus-Therian,Landorus (Therian Forme),Ground,Flying,Intimidate,Flying,Adamant,600,89,145,90,105,80,91
+1070,45,Regulation Set D,Rillaboom,Rillaboom,Grass,,Grassy Surge,Water,Adamant,530,100,125,90,60,70,85
+1071,45,Regulation Set D,Iron Hands,Iron Hands,Fighting,Electric,Quark Drive,Water,Adamant,570,154,140,108,50,68,50
+1072,45,Regulation Set D,Iron Bundle,Iron Bundle,Ice,Water,Quark Drive,Ghost,Timid,570,56,80,114,124,60,136
+1073,45,Regulation Set D,Arcanine-Hisui,Arcanine (Hisuian Arcanine),Fire,Rock,Intimidate,Water,Jolly,555,95,115,80,95,80,90
+1074,46,Regulation Set D,The (Chi-Yu),Chi-Yu,Dark,Fire,Beads of Ruin,Ghost,Timid,570,55,80,80,135,120,100
+1075,46,Regulation Set D,Assistant (Flutter Mane),Flutter Mane,Ghost,Fairy,Protosynthesis,Fairy,Timid,570,55,55,55,135,135,135
+1076,46,Regulation Set D,Wouldn’t (Rillaboom),Rillaboom,Grass,,Grassy Surge,Fire,Adamant,530,100,125,90,60,70,85
+1078,46,Regulation Set D,A (Iron Hands),Iron Hands,Fighting,Electric,Quark Drive,Water,Adamant,570,154,140,108,50,68,50
+1079,46,Regulation Set D,Chance (Landorus-Therian),Landorus (Therian Forme),Ground,Flying,Intimidate,Water,Adamant,600,89,145,90,105,80,91
+1081,47,Regulation Set D,Diego (Chien-Pao),Chien-Pao,Dark,Ice,Sword of Ruin,Ghost,Jolly,570,80,120,80,90,65,135
+1082,47,Regulation Set D,Semiramis (Flutter Mane),Flutter Mane,Ghost,Fairy,Protosynthesis,Water,Timid,570,55,55,55,135,135,135
+1083,47,Regulation Set D,Harold (Heatran),Heatran,Fire,Steel,Flash Fire,Grass,Modest,600,91,90,106,130,106,77
+1084,47,Regulation Set D,Greg (Urshifu-Rapid-Strike),Urshifu (Rapid Strike Style),Fighting,Water,Unseen Fist,Grass,Adamant,550,100,130,100,63,60,97
+1085,47,Regulation Set D,Boom-Boom (Rillaboom),Rillaboom,Grass,,Grassy Surge,Fire,Adamant,530,100,125,90,60,70,85
+1086,50,Regulation Set D,Chien-Pao,Chien-Pao,Dark,Ice,Sword of Ruin,Dark,Adamant,570,80,120,80,90,65,135
+1087,50,Regulation Set D,Urshifu-Rapid-Strike,Urshifu (Rapid Strike Style),Fighting,Water,Unseen Fist,Water,Adamant,550,100,130,100,63,60,97
+1088,50,Regulation Set D,Gholdengo,Gholdengo,Steel,Ghost,Good as Gold,Dragon,Modest,550,87,60,95,133,91,84
+1089,50,Regulation Set D,Amoonguss,Amoonguss,Grass,Poison,Regenerator,Water,Bold,464,114,85,70,85,80,30
+1090,50,Regulation Set D,Landorus-Therian,Landorus (Therian Forme),Ground,Flying,Intimidate,Flying,Adamant,600,89,145,90,105,80,91
+1091,50,Regulation Set D,Iron Hands,Iron Hands,Fighting,Electric,Quark Drive,Water,Adamant,570,154,140,108,50,68,50
+1092,51,Regulation Set D,Flutter Mane,Flutter Mane,Ghost,Fairy,Protosynthesis,Fairy,Modest,570,55,55,55,135,135,135
+1093,51,Regulation Set D,Iron Hands,Iron Hands,Fighting,Electric,Quark Drive,Water,Adamant,570,154,140,108,50,68,50
+1095,51,Regulation Set D,Dondozo,Dondozo,Water,,Oblivious,Grass,Adamant,530,150,100,115,65,65,35
+1096,51,Regulation Set D,Landorus-Therian,Landorus (Therian Forme),Ground,Flying,Intimidate,Water,Adamant,600,89,145,90,105,80,91
+1097,51,Regulation Set D,Chien-Pao,Chien-Pao,Dark,Ice,Sword of Ruin,Grass,Adamant,570,80,120,80,90,65,135
+1099,52,Regulation Set D,Arcanine-Hisui,Arcanine (Hisuian Arcanine),Fire,Rock,Intimidate,Normal,Adamant,555,95,115,80,95,80,90
+1100,52,Regulation Set D,Urshifu-Rapid-Strike,Urshifu (Rapid Strike Style),Fighting,Water,Unseen Fist,Water,Adamant,550,100,130,100,63,60,97
+1101,52,Regulation Set D,Flutter Mane,Flutter Mane,Ghost,Fairy,Protosynthesis,Fairy,Modest,570,55,55,55,135,135,135
+1102,52,Regulation Set D,Rillaboom,Rillaboom,Grass,,Grassy Surge,Water,Adamant,530,100,125,90,60,70,85
+1103,52,Regulation Set D,Chien-Pao,Chien-Pao,Dark,Ice,Sword of Ruin,Grass,Jolly,570,80,120,80,90,65,135
+1104,53,Regulation Set D,Flutter Mane,Flutter Mane,Ghost,Fairy,Protosynthesis,Fairy,Timid,570,55,55,55,135,135,135
+1106,53,Regulation Set D,Gholdengo,Gholdengo,Steel,Ghost,Good as Gold,Steel,Modest,550,87,60,95,133,91,84
+1108,53,Regulation Set D,Landorus-Therian,Landorus (Therian Forme),Ground,Flying,Intimidate,Water,Adamant,600,89,145,90,105,80,91
+1109,53,Regulation Set D,Arcanine-Hisui,Arcanine (Hisuian Arcanine),Fire,Rock,Intimidate,Fairy,Adamant,555,95,115,80,95,80,90
+1110,54,Regulation Set D,Iron Hands,Iron Hands,Fighting,Electric,Quark Drive,Grass,Adamant,570,154,140,108,50,68,50
+1111,54,Regulation Set D,Chien-Pao,Chien-Pao,Dark,Ice,Sword of Ruin,Ghost,Adamant,570,80,120,80,90,65,135
+1112,54,Regulation Set D,Gholdengo,Gholdengo,Steel,Ghost,Good as Gold,Steel,Modest,550,87,60,95,133,91,84
+1113,54,Regulation Set D,Pelipper,Pelipper,Water,Flying,Drizzle,Grass,Calm,440,60,50,100,95,70,65
+1114,54,Regulation Set D,Urshifu-Rapid-Strike,Urshifu (Rapid Strike Style),Fighting,Water,Unseen Fist,Water,Adamant,550,100,130,100,63,60,97
+1115,54,Regulation Set D,Amoonguss,Amoonguss,Grass,Poison,Regenerator,Water,Bold,464,114,85,70,85,80,30
+1116,55,Regulation Set D,ElCapi (Moltres-Galar),Moltres (Galarian Moltres),Dark,Flying,Berserk,Poison,Modest,580,90,85,90,100,125,90
+1117,55,Regulation Set D,Lu (Flutter Mane),Flutter Mane,Ghost,Fairy,Protosynthesis,Fairy,Timid,570,55,55,55,135,135,135
+1118,55,Regulation Set D,GarraCrema (Landorus-Therian),Landorus (Therian Forme),Ground,Flying,Intimidate,Flying,Adamant,600,89,145,90,105,80,91
+1119,55,Regulation Set D,Doc (Iron Hands),Iron Hands,Fighting,Electric,Quark Drive,Water,Adamant,570,154,140,108,50,68,50
+1120,55,Regulation Set D,Gato-T (Urshifu-Rapid-Strike),Urshifu (Rapid Strike Style),Fighting,Water,Unseen Fist,Water,Adamant,550,100,130,100,63,60,97
+1121,55,Regulation Set D,1UP (Amoonguss),Amoonguss,Grass,Poison,Regenerator,Water,Bold,464,114,85,70,85,80,30
+1122,56,Regulation Set D,Chien-Pao,Chien-Pao,Dark,Ice,Sword of Ruin,Grass,Adamant,570,80,120,80,90,65,135
+1124,56,Regulation Set D,Dragapult,Dragapult,Dragon,Ghost,Clear Body,Fairy,Jolly,600,88,120,75,100,75,142
+1125,56,Regulation Set D,ペリッパー (Pelipper),Pelipper,Water,Flying,Drizzle,Steel,Bold,440,60,50,100,95,70,65
+1127,56,Regulation Set D,セグレイブ (Baxcalibur),Baxcalibur,Dragon,Ice,Thermal Exchange,Ground,Adamant,600,115,145,92,75,86,87
+1128,57,Regulation Set D,Arcanine-Hisui,Arcanine (Hisuian Arcanine),Fire,Rock,Intimidate,Normal,Adamant,555,95,115,80,95,80,90
+1130,57,Regulation Set D,Breloom,Breloom,Grass,Fighting,Technician,Ghost,Jolly,460,60,130,80,60,60,70
+1131,57,Regulation Set D,Chien-Pao,Chien-Pao,Dark,Ice,Sword of Ruin,Electric,Jolly,570,80,120,80,90,65,135
+1132,57,Regulation Set D,Gholdengo,Gholdengo,Steel,Ghost,Good as Gold,Steel,Modest,550,87,60,95,133,91,84
+1133,57,Regulation Set D,Roaring Moon,Roaring Moon,Dragon,Dark,Protosynthesis,Flying,Jolly,590,105,139,71,55,101,119
+1134,58,Regulation Set D,ハバタクカミ (Flutter Mane),Flutter Mane,Ghost,Fairy,Protosynthesis,Water,Timid,570,55,55,55,135,135,135
+1136,58,Regulation Set D,パオジアン (Chien-Pao),Chien-Pao,Dark,Ice,Sword of Ruin,Grass,Adamant,570,80,120,80,90,65,135
+1137,58,Regulation Set D,ゴリランダー (Rillaboom),Rillaboom,Grass,,Grassy Surge,Fire,Adamant,530,100,125,90,60,70,85
+1138,58,Regulation Set D,Urshifu (Urshifu-Rapid-Strike),Urshifu (Rapid Strike Style),Fighting,Water,Unseen Fist,Water,Adamant,550,100,130,100,63,60,97
+1139,58,Regulation Set D,ヒードラン (Heatran),Heatran,Fire,Steel,Flash Fire,Fairy,Modest,600,91,90,106,130,106,77
+1140,59,Regulation Set D,Amargo (Armarouge),Armarouge,Fire,Psychic,Flash Fire,Grass,Quiet,525,85,60,100,125,80,75
+1141,59,Regulation Set D,Torkoal,Torkoal,Fire,,Drought,Fire,Quiet,470,70,85,140,85,70,20
+1142,59,Regulation Set D,Ursaluna,Ursaluna,Ground,Normal,Guts,Normal,Brave,550,130,140,105,45,80,50
+1143,59,Regulation Set D,Jejedeedee (Indeedee-F),Indeedee (Female),Psychic,Normal,Psychic Surge,Grass,Relaxed,475,70,55,65,95,105,85
+1144,59,Regulation Set D,Jejegant (Lilligant-Hisui),Lilligant (Hisuian Lilligant),Grass,Fighting,Chlorophyll,Ghost,Jolly,480,70,105,75,50,75,105
+1145,59,Regulation Set D,Jejerene (Hatterene),Hatterene,Psychic,Fairy,Magic Bounce,Water,Quiet,510,57,90,95,136,103,29
+1146,60,Regulation Set D,Chien-Pao,Chien-Pao,Dark,Ice,Sword of Ruin,Grass,Adamant,570,80,120,80,90,65,135
+1147,60,Regulation Set D,Rillaboom,Rillaboom,Grass,,Grassy Surge,Poison,Careful,530,100,125,90,60,70,85
+1149,60,Regulation Set D,Flutter Mane,Flutter Mane,Ghost,Fairy,Protosynthesis,Fairy,Timid,570,55,55,55,135,135,135
+1150,60,Regulation Set D,Arcanine-Hisui,Arcanine (Hisuian Arcanine),Fire,Rock,Intimidate,Normal,Adamant,555,95,115,80,95,80,90
+1151,60,Regulation Set D,Urshifu-Rapid-Strike,Urshifu (Rapid Strike Style),Fighting,Water,Unseen Fist,Water,Adamant,550,100,130,100,63,60,97
+1153,61,Regulation Set D,リキキリン (Farigiraf),Farigiraf,Normal,Psychic,Armor Tail,Fire,Modest,520,120,90,70,110,70,60
+1155,61,Regulation Set D,コータス (Torkoal),Torkoal,Fire,,Drought,Fire,Quiet,470,70,85,140,85,70,20
+1156,61,Regulation Set D,ハバタクカミ (Flutter Mane),Flutter Mane,Ghost,Fairy,Protosynthesis,Fairy,Timid,570,55,55,55,135,135,135
+1157,61,Regulation Set D,ウインディ (Arcanine-Hisui),Arcanine (Hisuian Arcanine),Fire,Rock,Intimidate,Water,Brave,555,95,115,80,95,80,90
+1158,62,Regulation Set D,Mimikyu,Mimikyu,Ghost,Fairy,Disguise,Grass,Adamant,476,55,90,80,50,105,96
+1159,62,Regulation Set D,Urshifu-Rapid-Strike,Urshifu (Rapid Strike Style),Fighting,Water,Unseen Fist,Water,Adamant,550,100,130,100,63,60,97
+1160,62,Regulation Set D,冰劍牙豹  (Chien-Pao),Chien-Pao,Dark,Ice,Sword of Ruin,Ghost,Adamant,570,80,120,80,90,65,135
+1161,62,Regulation Set D,Zapdos,Zapdos,Electric,Flying,Static,Water,Modest,580,90,90,85,125,90,100
+1162,62,Regulation Set D,Dragonite,Dragonite,Dragon,Flying,Inner Focus,Normal,Adamant,600,91,134,95,100,100,80
+1163,62,Regulation Set D,Heatran,Heatran,Fire,Steel,Flash Fire,Grass,Modest,600,91,90,106,130,106,77
+1164,63,Regulation Set D,Urshifu-Rapid-Strike,Urshifu (Rapid Strike Style),Fighting,Water,Unseen Fist,Water,Adamant,550,100,130,100,63,60,97
+1165,63,Regulation Set D,Rillaboom,Rillaboom,Grass,,Grassy Surge,Fire,Adamant,530,100,125,90,60,70,85
+1167,63,Regulation Set D,Gholdengo,Gholdengo,Steel,Ghost,Good as Gold,Steel,Modest,550,87,60,95,133,91,84
+1168,63,Regulation Set D,Mimikyu,Mimikyu,Ghost,Fairy,Disguise,Grass,Adamant,476,55,90,80,50,105,96
+1169,63,Regulation Set D,Regidrago,Regidrago,Dragon,,Dragon's Maw,Steel,Modest,580,200,100,50,100,50,80
+1171,64,Regulation Set D,水ウーラオス (Urshifu-Rapid-Strike),Urshifu (Rapid Strike Style),Fighting,Water,Unseen Fist,Water,Adamant,550,100,130,100,63,60,97
+1172,64,Regulation Set D,サーフゴー (Gholdengo),Gholdengo,Steel,Ghost,Good as Gold,Steel,Modest,550,87,60,95,133,91,84
+1173,64,Regulation Set D,Rillaboom,Rillaboom,Grass,,Grassy Surge,Fire,Adamant,530,100,125,90,60,70,85
+1174,64,Regulation Set D,レジドラゴ (Regidrago),Regidrago,Dragon,,Dragon's Maw,Steel,Modest,580,200,100,50,100,50,80
+1175,64,Regulation Set D,ミミッキュ (Mimikyu),Mimikyu,Ghost,Fairy,Disguise,Grass,Adamant,476,55,90,80,50,105,96
+1176,65,Regulation Set D,Abomasnow,Abomasnow,Grass,Ice,Snow Warning,Water,Modest,494,90,92,75,92,85,60
+1177,65,Regulation Set D,Iron Hands,Iron Hands,Fighting,Electric,Quark Drive,Grass,Adamant,570,154,140,108,50,68,50
+1178,65,Regulation Set D,Farigiraf,Farigiraf,Normal,Psychic,Armor Tail,Water,Quiet,520,120,90,70,110,70,60
+1179,65,Regulation Set D,Heatran,Heatran,Fire,Steel,Flash Fire,Grass,Modest,600,91,90,106,130,106,77
+1180,65,Regulation Set D,Ting-Lu,Ting-Lu,Dark,Ground,Vessel of Ruin,Poison,Brave,570,155,110,125,55,80,45
+1181,65,Regulation Set D,Articuno,Articuno,Ice,Flying,Snow Cloak,Poison,Modest,580,90,85,100,95,125,85
+1182,66,Regulation Set D,Chien-Pao,Chien-Pao,Dark,Ice,Sword of Ruin,Ghost,Jolly,570,80,120,80,90,65,135
+1183,66,Regulation Set D,Heatran,Heatran,Fire,Steel,Flash Fire,Grass,Modest,600,91,90,106,130,106,77
+1184,66,Regulation Set D,Flutter Mane,Flutter Mane,Ghost,Fairy,Protosynthesis,Fairy,Modest,570,55,55,55,135,135,135
+1185,66,Regulation Set D,Annihilape,Annihilape,Fighting,Ghost,Defiant,Fairy,Adamant,535,110,115,80,50,90,90
+1187,66,Regulation Set D,Rillaboom,Rillaboom,Grass,,Grassy Surge,Fire,Adamant,530,100,125,90,60,70,85
+1188,67,Regulation Set D,Ursaluna,Ursaluna,Ground,Normal,Guts,Ghost,Brave,550,130,140,105,45,80,50
+1189,67,Regulation Set D,Cresselia,Cresselia,Psychic,,Levitate,Fairy,Calm,580,120,70,110,75,120,85
+1191,67,Regulation Set D,Flutter Mane,Flutter Mane,Ghost,Fairy,Protosynthesis,Water,Modest,570,55,55,55,135,135,135
+1192,67,Regulation Set D,Heatran,Heatran,Fire,Steel,Flash Fire,Fairy,Modest,600,91,90,106,130,106,77
+1195,68,Regulation Set D,Chien-Pao,Chien-Pao,Dark,Ice,Sword of Ruin,Ghost,Jolly,570,80,120,80,90,65,135
+1196,68,Regulation Set D,Heatran,Heatran,Fire,Steel,Flash Fire,Grass,Modest,600,91,90,106,130,106,77
+1197,68,Regulation Set D,Amoonguss,Amoonguss,Grass,Poison,Regenerator,Water,Bold,464,114,85,70,85,80,30
+1198,68,Regulation Set D,Dragonite,Dragonite,Dragon,Flying,Inner Focus,Normal,Adamant,600,91,134,95,100,100,80
+1199,68,Regulation Set D,Flutter Mane,Flutter Mane,Ghost,Fairy,Protosynthesis,Fairy,Modest,570,55,55,55,135,135,135
+1230,75,Regulation Set D,Freddy Fazbr (Ursaluna) (M),Ursaluna,Ground,Normal,Guts,Ghost,Brave,550,130,140,105,45,80,50
+1231,75,Regulation Set D,Phasmophobia (Flutter Mane),Flutter Mane,Ghost,Fairy,Protosynthesis,Fairy,Modest,570,55,55,55,135,135,135
+1232,75,Regulation Set D,AndroidYamaX (Iron Hands),Iron Hands,Fighting,Electric,Quark Drive,Grass,Adamant,570,154,140,108,50,68,50
+1233,75,Regulation Set D,Olivia (Lilligant-Hisui),Lilligant (Hisuian Lilligant),Grass,Fighting,Chlorophyll,Ghost,Adamant,480,70,105,75,50,75,105
+1234,75,Regulation Set D,Carbono (Torkoal) (M),Torkoal,Fire,,Drought,Fire,Quiet,470,70,85,140,85,70,20
+1235,75,Regulation Set D,Moonshine (Cresselia),Cresselia,Psychic,,Levitate,Fairy,Sassy,580,120,70,110,75,120,85
+1242,79,Regulation Set D,Flutter Mane,Flutter Mane,Ghost,Fairy,Protosynthesis,Water,Modest,570,55,55,55,135,135,135
+1243,79,Regulation Set D,Heatran,Heatran,Fire,Steel,Flash Fire,Grass,Modest,600,91,90,106,130,106,77
+1245,79,Regulation Set D,Urshifu-Rapid-Strike,Urshifu (Rapid Strike Style),Fighting,Water,Unseen Fist,Water,Adamant,550,100,130,100,63,60,97
+1246,79,Regulation Set D,Iron Hands,Iron Hands,Fighting,Electric,Quark Drive,Grass,Adamant,570,154,140,108,50,68,50
+1247,79,Regulation Set D,Amoonguss,Amoonguss,Grass,Poison,Regenerator,Water,Relaxed,464,114,85,70,85,80,30
+1248,83,Regulation Set D,Flutter Mane,Flutter Mane,Ghost,Fairy,Protosynthesis,Ghost,Modest,570,55,55,55,135,135,135
+1249,83,Regulation Set D,Chi-Yu,Chi-Yu,Dark,Fire,Beads of Ruin,Ghost,Timid,570,55,80,80,135,120,100
+1251,83,Regulation Set D,Glimmora,Glimmora,Rock,Poison,Toxic Debris,Water,Modest,525,83,55,90,130,81,86
+1252,83,Regulation Set D,Dondozo,Dondozo,Water,,Unaware,Grass,Adamant,530,150,100,115,65,65,35
+1254,84,Regulation Set D,OhMyGawd! (Torkoal) (M),Torkoal,Fire,,Drought,Fire,Quiet,470,70,85,140,85,70,20
+1255,84,Regulation Set D,P-p-p-Perfect! (Lilligant-Hisui),Lilligant (Hisuian Lilligant),Grass,Fighting,Chlorophyll,Fighting,Adamant,480,70,105,75,50,75,105
+1256,84,Regulation Set D,Indeedee-F,Indeedee (Female),Psychic,Normal,Psychic Surge,Water,Relaxed,475,70,55,65,95,105,85
+1257,84,Regulation Set D,Armarouge (M),Armarouge,Fire,Psychic,Flash Fire,Grass,Modest,525,85,60,100,125,80,75
+1258,84,Regulation Set D,Flutter Mane,Flutter Mane,Ghost,Fairy,Protosynthesis,Fairy,Timid,570,55,55,55,135,135,135
+1259,84,Regulation Set D,Charizard (M),Charizard,Fire,Flying,Solar Power,Fire,Timid,534,78,84,78,109,85,100
+1260,85,Regulation Set D,Dondozo,Dondozo,Water,,Unaware,Grass,Adamant,530,150,100,115,65,65,35
+1264,85,Regulation Set D,Flutter Mane,Flutter Mane,Ghost,Fairy,Protosynthesis,Water,Modest,570,55,55,55,135,135,135
+1265,85,Regulation Set D,Glimmora,Glimmora,Rock,Poison,Toxic Debris,Fairy,Timid,525,83,55,90,130,81,86
+1266,86,Regulation Set D,WhenDovesCry (Pelipper),Pelipper,Water,Flying,Drizzle,Ghost,Modest,440,60,50,100,95,70,65
+1268,86,Regulation Set D,LetsGoCrazy (Thundurus-Therian),Thundurus (Therian Forme),Electric,Flying,Volt Absorb,Flying,Timid,580,79,105,70,145,80,101
+1269,86,Regulation Set D,Cream (Amoonguss),Amoonguss,Grass,Poison,Regenerator,Steel,Bold,464,114,85,70,85,80,30
+1270,86,Regulation Set D,Dmond&Pearls (Goodra-Hisui) (F),Goodra (Hisuian Goodra),Steel,Dragon,Sap Sipper,Fairy,Impish,600,80,100,100,110,150,60
+1271,86,Regulation Set D,Ki$$ (Flutter Mane),Flutter Mane,Ghost,Fairy,Protosynthesis,Fairy,Timid,570,55,55,55,135,135,135
+1272,87,Regulation Set D,Flutter Mane,Flutter Mane,Ghost,Fairy,Protosynthesis,Water,Timid,570,55,55,55,135,135,135
+1273,87,Regulation Set D,Chien-Pao,Chien-Pao,Dark,Ice,Sword of Ruin,Ghost,Jolly,570,80,120,80,90,65,135
+1274,87,Regulation Set D,Dragonite,Dragonite,Dragon,Flying,Multiscale,Normal,Adamant,600,91,134,95,100,100,80
+1275,87,Regulation Set D,Heatran,Heatran,Fire,Steel,Flash Fire,Grass,Modest,600,91,90,106,130,106,77
+1276,87,Regulation Set D,Cresselia,Cresselia,Psychic,,Levitate,Fairy,Bold,580,120,70,110,75,120,85
+1277,87,Regulation Set D,Ursaluna,Ursaluna,Ground,Normal,Guts,Ghost,Adamant,550,130,140,105,45,80,50
+1296,91,Regulation Set D,Goodra-Hisui,Goodra (Hisuian Goodra),Steel,Dragon,Shell Armor,Fairy,Careful,600,80,100,100,110,150,60
+1297,91,Regulation Set D,Grimmsnarl,Grimmsnarl,Dark,Fairy,Prankster,Ghost,Careful,510,95,120,65,95,75,60
+1298,91,Regulation Set D,Landorus-Therian,Landorus (Therian Forme),Ground,Flying,Intimidate,Flying,Adamant,600,89,145,90,105,80,91
+1299,91,Regulation Set D,Rillaboom,Rillaboom,Grass,,Grassy Surge,Fire,Adamant,530,100,125,90,60,70,85
+1300,91,Regulation Set D,Urshifu-Rapid-Strike,Urshifu (Rapid Strike Style),Fighting,Water,Unseen Fist,Water,Jolly,550,100,130,100,63,60,97
+1301,91,Regulation Set D,Heatran,Heatran,Fire,Steel,Flash Fire,Grass,Modest,600,91,90,106,130,106,77
+1302,92,Regulation Set D,Amoonguss,Amoonguss,Grass,Poison,Regenerator,Water,Bold,464,114,85,70,85,80,30
+1303,92,Regulation Set D,Urshifu-Rapid-Strike,Urshifu (Rapid Strike Style),Fighting,Water,Unseen Fist,Water,Adamant,550,100,130,100,63,60,97
+1304,92,Regulation Set D,Flutter Mane,Flutter Mane,Ghost,Fairy,Protosynthesis,Fairy,Modest,570,55,55,55,135,135,135
+1305,92,Regulation Set D,Cresselia,Cresselia,Psychic,,Levitate,Grass,Calm,580,120,70,110,75,120,85
+1306,92,Regulation Set D,Dragonite,Dragonite,Dragon,Flying,Multiscale,Normal,Adamant,600,91,134,95,100,100,80
+1307,92,Regulation Set D,Ursaluna,Ursaluna,Ground,Normal,Guts,Water,Adamant,550,130,140,105,45,80,50
+1308,93,Regulation Set D,Regisculo (Regieleki),Regieleki,Electric,,Transistor,Ice,Timid,580,80,100,50,100,50,200
+1309,93,Regulation Set D,Soldato (Iron Bundle),Iron Bundle,Ice,Water,Quark Drive,Ghost,Timid,570,56,80,114,124,60,136
+1311,93,Regulation Set D,Octoroom (Toedscruel) (M),Toedscruel,Ground,Grass,Mycelium Might,Water,Bold,515,80,70,65,80,120,100
+1312,93,Regulation Set D,Lava (Heatran) (F),Heatran,Fire,Steel,Flash Fire,Grass,Modest,600,91,90,106,130,106,77
+1313,93,Regulation Set D,Moxa (Cresselia),Cresselia,Psychic,,Levitate,Fairy,Modest,580,120,70,110,75,120,85
+1315,94,Regulation Set D,Urshifu-Rapid-Strike,Urshifu (Rapid Strike Style),Fighting,Water,Unseen Fist,Water,Jolly,550,100,130,100,63,60,97
+1316,94,Regulation Set D,Chien-Pao,Chien-Pao,Dark,Ice,Sword of Ruin,Ghost,Adamant,570,80,120,80,90,65,135
+1317,94,Regulation Set D,Dragonite,Dragonite,Dragon,Flying,Inner Focus,Normal,Adamant,600,91,134,95,100,100,80
+1318,94,Regulation Set D,Iron Hands,Iron Hands,Fighting,Electric,Quark Drive,Grass,Adamant,570,154,140,108,50,68,50
+1319,94,Regulation Set D,Flutter Mane,Flutter Mane,Ghost,Fairy,Protosynthesis,Water,Modest,570,55,55,55,135,135,135
+1320,95,Regulation Set D,Kleavor (M),Kleavor,Bug,Rock,Sharpness,Water,Adamant,500,70,135,95,45,70,85
+1322,95,Regulation Set D,Dragonite,Dragonite,Dragon,Flying,Multiscale,Normal,Jolly,600,91,134,95,100,100,80
+1323,95,Regulation Set D,Chien-Pao,Chien-Pao,Dark,Ice,Sword of Ruin,Ice,Jolly,570,80,120,80,90,65,135
+1324,95,Regulation Set D,Urshifu-Rapid-Strike (M),Urshifu (Rapid Strike Style),Fighting,Water,Unseen Fist,Water,Adamant,550,100,130,100,63,60,97
+1325,95,Regulation Set D,Flutter Mane,Flutter Mane,Ghost,Fairy,Protosynthesis,Ghost,Modest,570,55,55,55,135,135,135
+1327,96,Regulation Set D,Regidrago,Regidrago,Dragon,,Dragon's Maw,Steel,Modest,580,200,100,50,100,50,80
+1328,96,Regulation Set D,Heatran,Heatran,Fire,Steel,Flash Fire,Grass,Modest,600,91,90,106,130,106,77
+1329,96,Regulation Set D,Flutter Mane,Flutter Mane,Ghost,Fairy,Protosynthesis,Fairy,Modest,570,55,55,55,135,135,135
+1330,96,Regulation Set D,Urshifu-Rapid-Strike,Urshifu (Rapid Strike Style),Fighting,Water,Unseen Fist,Water,Adamant,550,100,130,100,63,60,97
+1331,96,Regulation Set D,Dragonite,Dragonite,Dragon,Flying,Inner Focus,Flying,Adamant,600,91,134,95,100,100,80
+1332,97,Regulation Set D,Zapdos,Zapdos,Electric,Flying,Static,Ghost,Bold,580,90,90,85,125,90,100
+1333,97,Regulation Set D,Urshifu-Rapid-Strike,Urshifu (Rapid Strike Style),Fighting,Water,Unseen Fist,Water,Jolly,550,100,130,100,63,60,97
+1334,97,Regulation Set D,Landorus-Therian,Landorus (Therian Forme),Ground,Flying,Intimidate,Flying,Adamant,600,89,145,90,105,80,91
+1335,97,Regulation Set D,Rillaboom (M),Rillaboom,Grass,,Grassy Surge,Fire,Adamant,530,100,125,90,60,70,85
+1336,97,Regulation Set D,Heatran,Heatran,Fire,Steel,Flash Fire,Grass,Modest,600,91,90,106,130,106,77
+1337,97,Regulation Set D,Flutter Mane,Flutter Mane,Ghost,Fairy,Protosynthesis,Fairy,Timid,570,55,55,55,135,135,135
+1338,98,Regulation Set D,Moltres-Galar,Moltres (Galarian Moltres),Dark,Flying,Berserk,Poison,Modest,580,90,85,90,100,125,90
+1339,98,Regulation Set D,Urshifu-Rapid-Strike,Urshifu (Rapid Strike Style),Fighting,Water,Unseen Fist,Water,Adamant,550,100,130,100,63,60,97
+1340,98,Regulation Set D,Goodra-Hisui,Goodra (Hisuian Goodra),Steel,Dragon,Shell Armor,Fairy,Bold,600,80,100,100,110,150,60
+1342,98,Regulation Set D,Amoonguss,Amoonguss,Grass,Poison,Regenerator,Water,Bold,464,114,85,70,85,80,30
+1343,98,Regulation Set D,Flutter Mane,Flutter Mane,Ghost,Fairy,Protosynthesis,Fairy,Modest,570,55,55,55,135,135,135
+1344,99,Regulation Set D,Goodra-Hisui,Goodra (Hisuian Goodra),Steel,Dragon,Shell Armor,Flying,Careful,600,80,100,100,110,150,60
+1345,99,Regulation Set D,Landorus-Therian,Landorus (Therian Forme),Ground,Flying,Intimidate,Steel,Careful,600,89,145,90,105,80,91
+1346,99,Regulation Set D,Amoonguss,Amoonguss,Grass,Poison,Regenerator,Water,Relaxed,464,114,85,70,85,80,30
+1347,99,Regulation Set D,Cresselia,Cresselia,Psychic,,Levitate,Dark,Relaxed,580,120,70,110,75,120,85
+1348,99,Regulation Set D,Urshifu-Rapid-Strike,Urshifu (Rapid Strike Style),Fighting,Water,Unseen Fist,Water,Jolly,550,100,130,100,63,60,97
+1349,99,Regulation Set D,Flutter Mane,Flutter Mane,Ghost,Fairy,Protosynthesis,Fairy,Modest,570,55,55,55,135,135,135
+1350,100,Regulation Set D,Grizzly (Ursaluna),Ursaluna,Ground,Normal,Guts,Ground,Adamant,550,130,140,105,45,80,50
+1351,100,Regulation Set D,Lunala Jr. (Cresselia),Cresselia,Psychic,,Levitate,Fairy,Relaxed,580,120,70,110,75,120,85
+1352,100,Regulation Set D,Robo Fighter (Iron Hands),Iron Hands,Fighting,Electric,Quark Drive,Grass,Adamant,570,154,140,108,50,68,50
+1353,100,Regulation Set D,Robo Santa (Iron Bundle),Iron Bundle,Ice,Water,Quark Drive,Ice,Timid,570,56,80,114,124,60,136
+1354,100,Regulation Set D,Tachyon (Flutter Mane),Flutter Mane,Ghost,Fairy,Protosynthesis,Fairy,Modest,570,55,55,55,135,135,135
+1355,100,Regulation Set D,Shroom Ball (Amoonguss),Amoonguss,Grass,Poison,Regenerator,Water,Bold,464,114,85,70,85,80,30
+1356,101,Regulation Set D,Annihilape,Annihilape,Fighting,Ghost,Defiant,Steel,Adamant,535,110,115,80,50,90,90
+1357,101,Regulation Set D,Maushold-Four,Maushold (Family of Four),Normal,,Friend Guard,Ghost,Jolly,470,74,75,70,65,75,111
+1358,101,Regulation Set D,Chi-Yu,Chi-Yu,Dark,Fire,Beads of Ruin,Ghost,Timid,570,55,80,80,135,120,100
+1359,101,Regulation Set D,Iron Bundle,Iron Bundle,Ice,Water,Quark Drive,Ghost,Timid,570,56,80,114,124,60,136
+1361,101,Regulation Set D,Landorus-Therian,Landorus (Therian Forme),Ground,Flying,Intimidate,Flying,Jolly,600,89,145,90,105,80,91
+1362,102,Regulation Set D,Iron Bundle,Iron Bundle,Ice,Water,Quark Drive,Ice,Timid,570,56,80,114,124,60,136
+1363,102,Regulation Set D,Dondozo,Dondozo,Water,,Unaware,Grass,Adamant,530,150,100,115,65,65,35
+1364,102,Regulation Set D,Zoroark-Hisui,Zoroark (Hisuian Zoroark),Normal,Ghost,Illusion,Fire,Timid,510,55,100,60,125,60,110
+1367,102,Regulation Set D,Azelf,Azelf,Psychic,,Levitate,Normal,Jolly,580,75,125,70,125,70,115
+1368,103,Regulation Set D,Goodra-Hisui,Goodra (Hisuian Goodra),Steel,Dragon,Shell Armor,Poison,Impish,600,80,100,100,110,150,60
+1369,103,Regulation Set D,Nezuko (Sneasler) (F),Sneasler,Fighting,Poison,Unburden,Flying,Jolly,510,80,130,60,40,80,120
+1370,103,Regulation Set D,Rillaboom,Rillaboom,Grass,,Grassy Surge,Grass,Adamant,530,100,125,90,60,70,85
+1371,103,Regulation Set D,Urshifu-Rapid-Strike,Urshifu (Rapid Strike Style),Fighting,Water,Unseen Fist,Water,Adamant,550,100,130,100,63,60,97
+1372,103,Regulation Set D,Tsukasa (Cresselia),Cresselia,Psychic,,Levitate,Fairy,Sassy,580,120,70,110,75,120,85
+1373,103,Regulation Set D,Glendios (Heatran) (M),Heatran,Fire,Steel,Flash Fire,Grass,Modest,600,91,90,106,130,106,77
+1374,104,Regulation Set D,Regieleki,Regieleki,Electric,,Transistor,Electric,Timid,580,80,100,50,100,50,200
+1375,104,Regulation Set D,Rillaboom,Rillaboom,Grass,,Grassy Surge,Fire,Adamant,530,100,125,90,60,70,85
+1376,104,Regulation Set D,Urshifu-Rapid-Strike,Urshifu (Rapid Strike Style),Fighting,Water,Unseen Fist,Water,Jolly,550,100,130,100,63,60,97
+1377,104,Regulation Set D,Dragapult,Dragapult,Dragon,Ghost,Clear Body,Steel,Jolly,600,88,120,75,100,75,142
+1378,104,Regulation Set D,Chien-Pao,Chien-Pao,Dark,Ice,Sword of Ruin,Dark,Jolly,570,80,120,80,90,65,135
+1379,104,Regulation Set D,Chi-Yu,Chi-Yu,Dark,Fire,Beads of Ruin,Fire,Timid,570,55,80,80,135,120,100
+1382,105,Regulation Set D,Amoonguss (F),Amoonguss,Grass,Poison,Regenerator,Water,Relaxed,464,114,85,70,85,80,30
+1383,105,Regulation Set D,Urshifu-Rapid-Strike (F),Urshifu (Rapid Strike Style),Fighting,Water,Unseen Fist,Grass,Jolly,550,100,130,100,63,60,97
+1384,105,Regulation Set D,Landorus-Therian,Landorus (Therian Forme),Ground,Flying,Intimidate,Flying,Adamant,600,89,145,90,105,80,91
+1385,105,Regulation Set D,Arcanine (F),Arcanine,Fire,,Intimidate,Normal,Jolly,555,90,110,80,100,80,95
+1386,106,Regulation Set D,Overqwil,Overqwil,Dark,Poison,Swift Swim,Normal,Adamant,510,85,115,95,65,65,85
+1387,106,Regulation Set D,Chien-Pao,Chien-Pao,Dark,Ice,Sword of Ruin,Ghost,Jolly,570,80,120,80,90,65,135
+1388,106,Regulation Set D,Dragonite,Dragonite,Dragon,Flying,Multiscale,Normal,Adamant,600,91,134,95,100,100,80
+1390,106,Regulation Set D,Pelipper,Pelipper,Water,Flying,Drizzle,Ghost,Modest,440,60,50,100,95,70,65
+1391,106,Regulation Set D,Urshifu-Rapid-Strike,Urshifu (Rapid Strike Style),Fighting,Water,Unseen Fist,Water,Adamant,550,100,130,100,63,60,97
+1392,107,Regulation Set D,Chien-Pao,Chien-Pao,Dark,Ice,Sword of Ruin,Ghost,Adamant,570,80,120,80,90,65,135
+1393,107,Regulation Set D,Overqwil,Overqwil,Dark,Poison,Swift Swim,Normal,Jolly,510,85,115,95,65,65,85
+1395,107,Regulation Set D,Gholdengo,Gholdengo,Steel,Ghost,Good as Gold,Water,Modest,550,87,60,95,133,91,84
+1396,107,Regulation Set D,Pelipper,Pelipper,Water,Flying,Drizzle,Steel,Bold,440,60,50,100,95,70,65
+1397,107,Regulation Set D,Rillaboom,Rillaboom,Grass,,Grassy Surge,Ghost,Adamant,530,100,125,90,60,70,85
+1398,108,Regulation Set D,Cresselia,Cresselia,Psychic,,Levitate,Electric,Relaxed,580,120,70,110,75,120,85
+1399,108,Regulation Set D,Ursaluna,Ursaluna,Ground,Normal,Guts,Ground,Brave,550,130,140,105,45,80,50
+1400,108,Regulation Set D,Bronzong,Bronzong,Steel,Psychic,Levitate,Fire,Sassy,500,67,89,116,79,116,33
+1401,108,Regulation Set D,Abomasnow,Abomasnow,Grass,Ice,Snow Warning,Water,Quiet,494,90,92,75,92,85,60
+1402,108,Regulation Set D,Glastrier,Glastrier,Ice,,Chilling Neigh,Ice,Brave,580,100,145,130,65,110,30
+1403,108,Regulation Set D,Iron Hands,Iron Hands,Fighting,Electric,Quark Drive,Flying,Brave,570,154,140,108,50,68,50
+1404,109,Regulation Set D,Indeedee-F,Indeedee (Female),Psychic,Normal,Psychic Surge,Grass,Relaxed,475,70,55,65,95,105,85
+1405,109,Regulation Set D,Armarouge,Armarouge,Fire,Psychic,Flash Fire,Grass,Quiet,525,85,60,100,125,80,75
+1406,109,Regulation Set D,Hatterene,Hatterene,Psychic,Fairy,Magic Bounce,Water,Quiet,510,57,90,95,136,103,29
+1407,109,Regulation Set D,Torkoal,Torkoal,Fire,,Drought,Fire,Quiet,470,70,85,140,85,70,20
+1408,109,Regulation Set D,Ursaluna,Ursaluna,Ground,Normal,Guts,Normal,Brave,550,130,140,105,45,80,50
+1409,109,Regulation Set D,Lilligant-Hisui,Lilligant (Hisuian Lilligant),Grass,Fighting,Chlorophyll,Ghost,Jolly,480,70,105,75,50,75,105
+1410,1,Regulation Set E,Kommo-o,Kommo-o,Dragon,Fighting,Bulletproof,Steel,Impish,600,75,110,125,100,105,85
+1411,1,Regulation Set E,Tyranitar,Tyranitar,Rock,Dark,Sand Stream,Psychic,Adamant,600,100,134,110,95,100,61
+1412,1,Regulation Set E,Rillaboom,Rillaboom,Grass,,Grassy Surge,Grass,Adamant,530,100,125,90,60,70,85
+1413,1,Regulation Set E,Flutter Mane,Flutter Mane,Ghost,Fairy,Protosynthesis,Fairy,Timid,570,55,55,55,135,135,135
+1414,1,Regulation Set E,Arcanine-Hisui,Arcanine (Hisuian Arcanine),Fire,Rock,Intimidate,Water,Jolly,555,95,115,80,95,80,90
+1415,1,Regulation Set E,Iron Bundle,Iron Bundle,Ice,Water,Quark Drive,Ghost,Timid,570,56,80,114,124,60,136
+1417,2,Regulation Set E,Arcanine-Hisui,Arcanine (Hisuian Arcanine),Fire,Rock,Intimidate,Fairy,Adamant,555,95,115,80,95,80,90
+1418,2,Regulation Set E,Iron Hands,Iron Hands,Fighting,Electric,Quark Drive,Grass,Adamant,570,154,140,108,50,68,50
+1419,2,Regulation Set E,Gholdengo,Gholdengo,Steel,Ghost,Good as Gold,Dragon,Modest,550,87,60,95,133,91,84
+1420,2,Regulation Set E,Urshifu-Rapid-Strike (M),Urshifu (Rapid Strike Style),Fighting,Water,Unseen Fist,Water,Adamant,550,100,130,100,63,60,97
+1422,17,Regulation Set E,Ursaluna,Ursaluna,Ground,Normal,Guts,Ghost,Brave,550,130,140,105,45,80,50
+1423,17,Regulation Set E,Roaring Moon,Roaring Moon,Dragon,Dark,Protosynthesis,Poison,Jolly,590,105,139,71,55,101,119
+1424,17,Regulation Set E,Armarouge,Armarouge,Fire,Psychic,Weak Armor,Psychic,Modest,525,85,60,100,125,80,75
+1425,17,Regulation Set E,Torkoal,Torkoal,Fire,,Drought,Fire,Quiet,470,70,85,140,85,70,20
+1426,17,Regulation Set E,Indeedee-F,Indeedee (Female),Psychic,Normal,Psychic Surge,Fairy,Relaxed,475,70,55,65,95,105,85
+1427,17,Regulation Set E,Bronzong,Bronzong,Steel,Psychic,Levitate,Fire,Relaxed,500,67,89,116,79,116,33
+1429,20,Regulation Set E,Geiger (Arcanine-Hisui) (M),Arcanine (Hisuian Arcanine),Fire,Rock,Intimidate,Fairy,Adamant,555,95,115,80,95,80,90
+1430,20,Regulation Set E,Andre (Iron Hands),Iron Hands,Fighting,Electric,Quark Drive,Poison,Adamant,570,154,140,108,50,68,50
+1431,20,Regulation Set E,Bill (Urshifu-Rapid-Strike),Urshifu (Rapid Strike Style),Fighting,Water,Unseen Fist,Water,Adamant,550,100,130,100,63,60,97
+1433,20,Regulation Set E,The Weasler (Chien-Pao),Chien-Pao,Dark,Ice,Sword of Ruin,Ghost,Adamant,570,80,120,80,90,65,135
+1434,21,Regulation Set E,Gholdengo,Gholdengo,Steel,Ghost,Good as Gold,Dragon,Modest,550,87,60,95,133,91,84
+1435,21,Regulation Set E,Iron Hands,Iron Hands,Fighting,Electric,Quark Drive,Water,Adamant,570,154,140,108,50,68,50
+1436,21,Regulation Set E,Amoonguss,Amoonguss,Grass,Poison,Regenerator,Water,Bold,464,114,85,70,85,80,30
+1437,21,Regulation Set E,Iron Bundle,Iron Bundle,Ice,Water,Quark Drive,Ghost,Timid,570,56,80,114,124,60,136
+1438,21,Regulation Set E,Pelipper,Pelipper,Water,Flying,Drizzle,Flying,Timid,440,60,50,100,95,70,65
+1439,21,Regulation Set E,Salamence,Salamence,Dragon,Flying,Intimidate,Flying,Timid,600,95,135,80,110,80,100
+1441,22,Regulation Set E,Flutter Mane,Flutter Mane,Ghost,Fairy,Protosynthesis,Water,Modest,570,55,55,55,135,135,135
+1442,22,Regulation Set E,Regidrago,Regidrago,Dragon,,Dragon's Maw,Poison,Modest,580,200,100,50,100,50,80
+1443,22,Regulation Set E,Heatran,Heatran,Fire,Steel,Flash Fire,Fairy,Modest,600,91,90,106,130,106,77
+1445,22,Regulation Set E,Farigiraf,Farigiraf,Normal,Psychic,Armor Tail,Fairy,Modest,520,120,90,70,110,70,60
+1446,23,Regulation Set E,Indeedee-F,Indeedee (Female),Psychic,Normal,Psychic Surge,Fairy,Relaxed,475,70,55,65,95,105,85
+1447,23,Regulation Set E,Armarouge,Armarouge,Fire,Psychic,Flash Fire,Psychic,Modest,525,85,60,100,125,80,75
+1449,23,Regulation Set E,Iron Hands,Iron Hands,Fighting,Electric,Quark Drive,Grass,Adamant,570,154,140,108,50,68,50
+1450,23,Regulation Set E,Ninetales-Alola,Ninetales (Alolan Ninetales),Ice,Fairy,Snow Warning,Water,Timid,505,73,67,75,81,100,109
+1451,23,Regulation Set E,Roaring Moon,Roaring Moon,Dragon,Dark,Protosynthesis,Flying,Jolly,590,105,139,71,55,101,119
+1452,24,Regulation Set E,Landorus-Therian,Landorus (Therian Forme),Ground,Flying,Intimidate,Flying,Adamant,600,89,145,90,105,80,91
+1453,24,Regulation Set E,Flutter Mane,Flutter Mane,Ghost,Fairy,Protosynthesis,Fairy,Timid,570,55,55,55,135,135,135
+1454,24,Regulation Set E,Amoonguss,Amoonguss,Grass,Poison,Regenerator,Water,Bold,464,114,85,70,85,80,30
+1455,24,Regulation Set E,Iron Hands,Iron Hands,Fighting,Electric,Quark Drive,Water,Brave,570,154,140,108,50,68,50
+1456,24,Regulation Set E,Heatran,Heatran,Fire,Steel,Flash Fire,Grass,Modest,600,91,90,106,130,106,77
+1483,37,Regulation Set E,Brujita (Flutter Mane),Flutter Mane,Ghost,Fairy,Protosynthesis,Fairy,Bold,570,55,55,55,135,135,135
+1484,37,Regulation Set E,Rillaboom,Rillaboom,Grass,,Grassy Surge,Water,Adamant,530,100,125,90,60,70,85
+1486,37,Regulation Set E,Chien-Pao,Chien-Pao,Dark,Ice,Sword of Ruin,Ghost,Adamant,570,80,120,80,90,65,135
+1487,37,Regulation Set E,Dragonite,Dragonite,Dragon,Flying,Inner Focus,Normal,Adamant,600,91,134,95,100,100,80
+1489,43,Regulation Set E,Flutter Mane,Flutter Mane,Ghost,Fairy,Protosynthesis,Fairy,Modest,570,55,55,55,135,135,135
+1490,43,Regulation Set E,Landorus-Therian,Landorus (Therian Forme),Ground,Flying,Intimidate,Flying,Adamant,600,89,145,90,105,80,91
+1491,43,Regulation Set E,Rillaboom,Rillaboom,Grass,,Grassy Surge,Fire,Adamant,530,100,125,90,60,70,85
+1493,43,Regulation Set E,Farigiraf,Farigiraf,Normal,Psychic,Armor Tail,Fairy,Bold,520,120,90,70,110,70,60
+1495,44,Regulation Set E,Arcanine-Hisui,Arcanine (Hisuian Arcanine),Fire,Rock,Intimidate,Normal,Adamant,555,95,115,80,95,80,90
+1496,44,Regulation Set E,Rillaboom,Rillaboom,Grass,,Grassy Surge,Fire,Adamant,530,100,125,90,60,70,85
+1497,44,Regulation Set E,Milotic,Milotic,Water,,Competitive,Steel,Modest,540,95,60,79,100,125,81
+1498,44,Regulation Set E,Iron Hands,Iron Hands,Fighting,Electric,Quark Drive,Water,Adamant,570,154,140,108,50,68,50
+1499,44,Regulation Set E,Cresselia,Cresselia,Psychic,,Levitate,Fairy,Bold,580,120,70,110,75,120,85
+1500,46,Regulation Set E,Roaring Moon,Roaring Moon,Dragon,Dark,Protosynthesis,Flying,Adamant,590,105,139,71,55,101,119
+1501,46,Regulation Set E,Ninetales-Alola,Ninetales (Alolan Ninetales),Ice,Fairy,Snow Warning,Ghost,Timid,505,73,67,75,81,100,109
+1502,46,Regulation Set E,Landorus-Therian,Landorus (Therian Forme),Ground,Flying,Intimidate,Flying,Adamant,600,89,145,90,105,80,91
+1503,46,Regulation Set E,Iron Hands,Iron Hands,Fighting,Electric,Quark Drive,Grass,Adamant,570,154,140,108,50,68,50
+1504,46,Regulation Set E,Milotic,Milotic,Water,,Competitive,Grass,Modest,540,95,60,79,100,125,81
+1506,49,Regulation Set E,Ninetales-Alola,Ninetales (Alolan Ninetales),Ice,Fairy,Snow Warning,Ghost,Timid,505,73,67,75,81,100,109
+1507,49,Regulation Set E,Empoleon,Empoleon,Water,Steel,Competitive,Grass,Modest,530,84,86,88,111,101,60
+1508,49,Regulation Set E,Roaring Moon,Roaring Moon,Dragon,Dark,Protosynthesis,Flying,Jolly,590,105,139,71,55,101,119
+1511,49,Regulation Set E,Arcanine-Hisui,Arcanine (Hisuian Arcanine),Fire,Rock,Intimidate,Grass,Adamant,555,95,115,80,95,80,90
+1512,50,Regulation Set E,Empoleon,Empoleon,Water,Steel,Competitive,Grass,Modest,530,84,86,88,111,101,60
+1513,50,Regulation Set E,Landorus-Therian,Landorus (Therian Forme),Ground,Flying,Intimidate,Flying,Adamant,600,89,145,90,105,80,91
+1514,50,Regulation Set E,Heatran (M),Heatran,Fire,Steel,Flash Fire,Grass,Modest,600,91,90,106,130,106,77
+1518,51,Regulation Set E,Kommo-o,Kommo-o,Dragon,Fighting,Overcoat,Steel,Timid,600,75,110,125,100,105,85
+1519,51,Regulation Set E,Clefairy,Clefairy,Fairy,,Friend Guard,Dark,Relaxed,323,70,45,48,60,65,35
+1520,51,Regulation Set E,Arcanine-Hisui,Arcanine (Hisuian Arcanine),Fire,Rock,Intimidate,Grass,Adamant,555,95,115,80,95,80,90
+1523,51,Regulation Set E,E123 Omega (Iron Hands),Iron Hands,Fighting,Electric,Quark Drive,Grass,Adamant,570,154,140,108,50,68,50
+1524,52,Regulation Set E,Roaring Moon,Roaring Moon,Dragon,Dark,Protosynthesis,Flying,Adamant,590,105,139,71,55,101,119
+1525,52,Regulation Set E,Flutter Mane,Flutter Mane,Ghost,Fairy,Protosynthesis,Fairy,Modest,570,55,55,55,135,135,135
+1526,52,Regulation Set E,Milotic,Milotic,Water,,Competitive,Poison,Bold,540,95,60,79,100,125,81
+1527,52,Regulation Set E,Landorus-Therian,Landorus (Therian Forme),Ground,Flying,Intimidate,Flying,Adamant,600,89,145,90,105,80,91
+1528,52,Regulation Set E,Iron Hands,Iron Hands,Fighting,Electric,Quark Drive,Fire,Adamant,570,154,140,108,50,68,50
+1530,53,Regulation Set E,Ninetales-Alola,Ninetales (Alolan Ninetales),Ice,Fairy,Snow Warning,Ghost,Timid,505,73,67,75,81,100,109
+1531,53,Regulation Set E,Arcanine-Hisui,Arcanine (Hisuian Arcanine),Fire,Rock,Intimidate,Fairy,Adamant,555,95,115,80,95,80,90
+1534,53,Regulation Set E,Chien-Pao,Chien-Pao,Dark,Ice,Sword of Ruin,Dark,Adamant,570,80,120,80,90,65,135
+1535,53,Regulation Set E,Iron Bundle,Iron Bundle,Ice,Water,Quark Drive,Ice,Timid,570,56,80,114,124,60,136
+1538,54,Regulation Set E,Flutter Mane,Flutter Mane,Ghost,Fairy,Protosynthesis,Fairy,Modest,570,55,55,55,135,135,135
+1539,54,Regulation Set E,Rillaboom,Rillaboom,Grass,,Grassy Surge,Fire,Adamant,530,100,125,90,60,70,85
+1540,54,Regulation Set E,Iron Bundle,Iron Bundle,Ice,Water,Quark Drive,Poison,Timid,570,56,80,114,124,60,136
+1541,54,Regulation Set E,Chi-Yu,Chi-Yu,Dark,Fire,Beads of Ruin,Ghost,Timid,570,55,80,80,135,120,100
+1542,55,Regulation Set E,Weezing,Weezing,Poison,,Neutralizing Gas,Ghost,Bold,490,65,90,120,85,70,60
+1543,55,Regulation Set E,Slaking,Slaking,Normal,,Truant,Fairy,Adamant,670,150,160,100,95,65,100
+1545,55,Regulation Set E,Dragonite,Dragonite,Dragon,Flying,Multiscale,Normal,Adamant,600,91,134,95,100,100,80
+1546,55,Regulation Set E,Landorus-Therian,Landorus (Therian Forme),Ground,Flying,Intimidate,Flying,Adamant,600,89,145,90,105,80,91
+1547,55,Regulation Set E,Chien-Pao,Chien-Pao,Dark,Ice,Sword of Ruin,Ghost,Adamant,570,80,120,80,90,65,135
+1596,67,Regulation Set E,Iron Bundle,Iron Bundle,Ice,Water,Quark Drive,Ice,Timid,570,56,80,114,124,60,136
+1597,67,Regulation Set E,Iron Hands,Iron Hands,Fighting,Electric,Quark Drive,Grass,Adamant,570,154,140,108,50,68,50
+1598,67,Regulation Set E,Flutter Mane,Flutter Mane,Ghost,Fairy,Protosynthesis,Fairy,Timid,570,55,55,55,135,135,135
+1599,67,Regulation Set E,Baxcalibur,Baxcalibur,Dragon,Ice,Thermal Exchange,Water,Adamant,600,115,145,92,75,86,87
+1600,67,Regulation Set E,Arcanine,Arcanine,Fire,,Intimidate,Dark,Jolly,555,90,110,80,100,80,95
+1601,67,Regulation Set E,Garganacl,Garganacl,Rock,,Purifying Salt,Ghost,Relaxed,500,100,100,130,45,90,35
+1602,68,Regulation Set E,Baxcalibur,Baxcalibur,Dragon,Ice,Thermal Exchange,Water,Adamant,600,115,145,92,75,86,87
+1603,68,Regulation Set E,Tauros-Paldea-Aqua,Tauros (Aqua Breed),Fighting,Water,Intimidate,Steel,Jolly,490,75,110,105,30,70,100
+1604,68,Regulation Set E,Flutter Mane,Flutter Mane,Ghost,Fairy,Protosynthesis,Fairy,Timid,570,55,55,55,135,135,135
+1605,68,Regulation Set E,Skeledirge,Skeledirge,Fire,Ghost,Unaware,Grass,Modest,530,104,75,100,110,75,66
+1606,68,Regulation Set E,Kingambit,Kingambit,Dark,Steel,Defiant,Flying,Adamant,550,100,135,120,60,85,50
+1607,68,Regulation Set E,Amoonguss,Amoonguss,Grass,Poison,Regenerator,Water,Relaxed,464,114,85,70,85,80,30
+1608,69,Regulation Set E,Mercoledì (Flutter Mane),Flutter Mane,Ghost,Fairy,Protosynthesis,Steel,Timid,570,55,55,55,135,135,135
+1609,69,Regulation Set E,Dondozzo (Dondozo) (M),Dondozo,Water,,Unaware,Dragon,Adamant,530,150,100,115,65,65,35
+1610,69,Regulation Set E,Samurai Jack (Kingambit) (M),Kingambit,Dark,Steel,Defiant,Flying,Adamant,550,100,135,120,60,85,50
+1611,69,Regulation Set E,Dragonheart (Dragonite) (M),Dragonite,Dragon,Flying,Inner Focus,Normal,Adamant,600,91,134,95,100,100,80
+1612,69,Regulation Set E,Mothra (Iron Moth),Iron Moth,Fire,Poison,Quark Drive,Grass,Timid,570,80,70,60,140,110,110
+1613,69,Regulation Set E,AllYouCanEat (Tatsugiri-Stretchy) (M),Tatsugiri (Stretchy Form),Dragon,Water,Commander,Water,Modest,475,68,50,60,120,95,82
+1614,70,Regulation Set E,Abomasnow,Abomasnow,Grass,Ice,Snow Warning,Ice,Timid,494,90,92,75,92,85,60
+1615,70,Regulation Set E,Iron Bundle,Iron Bundle,Ice,Water,Quark Drive,Ice,Timid,570,56,80,114,124,60,136
+1616,70,Regulation Set E,Iron Hands,Iron Hands,Fighting,Electric,Quark Drive,Electric,Brave,570,154,140,108,50,68,50
+1617,70,Regulation Set E,Dragalge,Dragalge,Poison,Dragon,Adaptability,Flying,Quiet,494,65,75,90,97,123,44
+1618,70,Regulation Set E,Great Tusk,Great Tusk,Ground,Fighting,Protosynthesis,Ground,Adamant,570,115,131,131,53,53,87
+1619,70,Regulation Set E,Arcanine,Arcanine,Fire,,Intimidate,Grass,Calm,555,90,110,80,100,80,95
+1620,71,Regulation Set E,Flutter Mane,Flutter Mane,Ghost,Fairy,Protosynthesis,Grass,Timid,570,55,55,55,135,135,135
+1621,71,Regulation Set E,Arcanine,Arcanine,Fire,,Intimidate,Normal,Careful,555,90,110,80,100,80,95
+1622,71,Regulation Set E,Gothitelle,Gothitelle,Psychic,,Shadow Tag,Steel,Calm,490,70,55,95,95,110,65
+1623,71,Regulation Set E,Amoonguss,Amoonguss,Grass,Poison,Regenerator,Dark,Calm,464,114,85,70,85,80,30
+1624,71,Regulation Set E,Iron Hands,Iron Hands,Fighting,Electric,Quark Drive,Grass,Adamant,570,154,140,108,50,68,50
+1625,71,Regulation Set E,Palafin,Palafin (Hero Form),Water,,Zero to Hero,Water,Adamant,650,100,160,97,106,87,100
+1626,72,Regulation Set E,Flutter Mane,Flutter Mane,Ghost,Fairy,Protosynthesis,Fairy,Timid,570,55,55,55,135,135,135
+1627,72,Regulation Set E,Maushold,Maushold (Family of Three),Normal,,Friend Guard,Ghost,Jolly,470,74,75,70,65,75,111
+1628,72,Regulation Set E,Sandy Shocks,Sandy Shocks,Electric,Ground,Protosynthesis,Grass,Modest,570,85,81,97,121,85,101
+1629,72,Regulation Set E,Talonflame,Talonflame,Fire,Flying,Gale Wings,Flying,Jolly,499,78,81,71,74,69,126
+1630,72,Regulation Set E,Indeedee-F,Indeedee (Female),Psychic,Normal,Psychic Surge,Grass,Bold,475,70,55,65,95,105,85
+1631,72,Regulation Set E,Tyranitar,Tyranitar,Rock,Dark,Sand Stream,Psychic,Adamant,600,100,134,110,95,100,61
+1632,73,Regulation Set E,Baxcalibur (F),Baxcalibur,Dragon,Ice,Thermal Exchange,Water,Adamant,600,115,145,92,75,86,87
+1633,73,Regulation Set E,Volcarona (F),Volcarona,Bug,Fire,Flame Body,Water,Timid,550,85,60,65,135,105,100
+1634,73,Regulation Set E,Meowscarada (M),Meowscarada,Grass,Dark,Overgrow,Grass,Adamant,530,76,110,70,81,70,123
+1635,73,Regulation Set E,Mimikyu (M),Mimikyu,Ghost,Fairy,Disguise,Fairy,Adamant,476,55,90,80,50,105,96
+1636,73,Regulation Set E,Sandy Shocks,Sandy Shocks,Electric,Ground,Protosynthesis,Grass,Timid,570,85,81,97,121,85,101
+1637,73,Regulation Set E,Garganacl (F),Garganacl,Rock,,Purifying Salt,Poison,Careful,500,100,100,130,45,90,35
+1638,74,Regulation Set E,grime (Grimmsnarl),Grimmsnarl,Dark,Fairy,Prankster,Ghost,Careful,510,95,120,65,95,75,60
+1639,74,Regulation Set E,soul (Arcanine),Arcanine,Fire,,Intimidate,Grass,Adamant,555,90,110,80,100,80,95
+1640,74,Regulation Set E,trap (Iron Hands),Iron Hands,Fighting,Electric,Quark Drive,Grass,Adamant,570,154,140,108,50,68,50
+1641,74,Regulation Set E,blues (Gastrodon-East),Gastrodon,Water,Ground,Storm Drain,Fire,Modest,475,111,83,68,92,82,39
+1642,74,Regulation Set E,ambient (Sylveon),Sylveon,Fairy,,Pixilate,Fire,Modest,525,95,65,65,110,130,60
+1643,74,Regulation Set E,grunge (Corviknight),Corviknight,Flying,Steel,Mirror Armor,Dragon,Adamant,495,98,87,105,53,85,67
+1644,75,Regulation Set E,Pelipper (M),Pelipper,Water,Flying,Drizzle,Water,Timid,440,60,50,100,95,70,65
+1645,75,Regulation Set E,Drednaw (M),Drednaw,Water,Rock,Swift Swim,Water,Adamant,485,90,115,90,48,68,74
+1646,75,Regulation Set E,Gholdengo,Gholdengo,Steel,Ghost,Good as Gold,Steel,Modest,550,87,60,95,133,91,84
+1647,75,Regulation Set E,Amoonguss (M),Amoonguss,Grass,Poison,Regenerator,Water,Sassy,464,114,85,70,85,80,30
+1648,75,Regulation Set E,Iron Valiant,Iron Valiant,Fairy,Fighting,Quark Drive,Fairy,Jolly,590,74,130,90,120,60,116
+1649,75,Regulation Set E,Sableye (F),Sableye,Dark,Ghost,Prankster,Ghost,Careful,380,50,75,75,65,65,50
+1650,76,Regulation Set E,Iron Hands,Iron Hands,Fighting,Electric,Quark Drive,Grass,Adamant,570,154,140,108,50,68,50
+1651,76,Regulation Set E,Arcanine,Arcanine,Fire,,Intimidate,Water,Jolly,555,90,110,80,100,80,95
+1652,76,Regulation Set E,Iron Bundle,Iron Bundle,Ice,Water,Quark Drive,Grass,Timid,570,56,80,114,124,60,136
+1653,76,Regulation Set E,Gholdengo,Gholdengo,Steel,Ghost,Good as Gold,Steel,Modest,550,87,60,95,133,91,84
+1654,76,Regulation Set E,Garganacl,Garganacl,Rock,,Purifying Salt,Ghost,Careful,500,100,100,130,45,90,35
+1655,76,Regulation Set E,Amoonguss,Amoonguss,Grass,Poison,Regenerator,Water,Bold,464,114,85,70,85,80,30
+1656,77,Regulation Set E,Floatzel,Floatzel,Water,,Swift Swim,Water,Jolly,495,85,105,55,85,50,115
+1657,77,Regulation Set E,Pelipper,Pelipper,Water,Flying,Drizzle,Ground,Calm,440,60,50,100,95,70,65
+1658,77,Regulation Set E,Kingambit,Kingambit,Dark,Steel,Defiant,Fairy,Brave,550,100,135,120,60,85,50
+1659,77,Regulation Set E,Great Tusk,Great Tusk,Ground,Fighting,Protosynthesis,Steel,Adamant,570,115,131,131,53,53,87
+1660,77,Regulation Set E,Arcanine,Arcanine,Fire,,Intimidate,Normal,Jolly,555,90,110,80,100,80,95
+1661,77,Regulation Set E,Rotom-Mow,Rotom (Mow Rotom),Electric,Grass,Levitate,Electric,Timid,520,50,65,107,105,107,86
+1662,78,Regulation Set E,Dragapult,Dragapult,Dragon,Ghost,Clear Body,Steel,Jolly,600,88,120,75,100,75,142
+1663,78,Regulation Set E,Coalossal,Coalossal,Rock,Fire,Steam Engine,Rock,Adamant,510,110,80,120,80,90,30
+1664,78,Regulation Set E,Tauros-Paldea-Aqua,Tauros (Aqua Breed),Fighting,Water,Intimidate,Water,Jolly,490,75,110,105,30,70,100
+1665,78,Regulation Set E,Hydreigon (F),Hydreigon,Dark,Dragon,Levitate,Steel,Timid,600,92,105,90,125,90,98
+1666,78,Regulation Set E,Brute Bonnet,Brute Bonnet,Grass,Dark,Protosynthesis,Water,Adamant,570,111,127,99,79,99,55
+1667,78,Regulation Set E,Iron Hands,Iron Hands,Fighting,Electric,Quark Drive,Grass,Adamant,570,154,140,108,50,68,50
+1668,79,Regulation Set E,Indeedee-F,Indeedee (Female),Psychic,Normal,Psychic Surge,Fairy,Relaxed,475,70,55,65,95,105,85
+1669,79,Regulation Set E,Torkoal,Torkoal,Fire,,Drought,Fire,Quiet,470,70,85,140,85,70,20
+1670,79,Regulation Set E,Hatterene,Hatterene,Psychic,Fairy,Magic Bounce,Grass,Quiet,510,57,90,95,136,103,29
+1671,79,Regulation Set E,Arboliva,Arboliva,Grass,Normal,Seed Sower,Water,Quiet,510,78,69,90,125,109,39
+1672,79,Regulation Set E,Great Tusk,Great Tusk,Ground,Fighting,Protosynthesis,Steel,Hardy,570,115,131,131,53,53,87
+1673,79,Regulation Set E,Oranguru,Oranguru,Normal,Psychic,Inner Focus,Dark,Sassy,490,90,60,80,90,110,60
+1674,80,Regulation Set E,Indeedee-F,Indeedee (Female),Psychic,Normal,Psychic Surge,Fairy,Bold,475,70,55,65,95,105,85
+1675,80,Regulation Set E,Armarouge,Armarouge,Fire,Psychic,Flash Fire,Grass,Quiet,525,85,60,100,125,80,75
+1676,80,Regulation Set E,Torkoal,Torkoal,Fire,,Drought,Fire,Quiet,470,70,85,140,85,70,20
+1677,80,Regulation Set E,Great Tusk,Great Tusk,Ground,Fighting,Protosynthesis,Fire,Adamant,570,115,131,131,53,53,87
+1678,80,Regulation Set E,Flutter Mane,Flutter Mane,Ghost,Fairy,Protosynthesis,Fairy,Modest,570,55,55,55,135,135,135
+1679,80,Regulation Set E,Brute Bonnet,Brute Bonnet,Grass,Dark,Protosynthesis,Poison,Careful,570,111,127,99,79,99,55
+1680,81,Regulation Set E,Roaring Moon,Roaring Moon,Dragon,Dark,Protosynthesis,Flying,Jolly,590,105,139,71,55,101,119
+1681,81,Regulation Set E,Iron Bundle,Iron Bundle,Ice,Water,Quark Drive,Water,Timid,570,56,80,114,124,60,136
+1682,81,Regulation Set E,Tauros-Paldea-Blaze,Tauros (Blaze Breed),Fighting,Fire,Intimidate,Grass,Adamant,490,75,110,105,30,70,100
+1683,81,Regulation Set E,Kingambit,Kingambit,Dark,Steel,Defiant,Flying,Adamant,550,100,135,120,60,85,50
+1684,81,Regulation Set E,Sylveon,Sylveon,Fairy,,Pixilate,Ground,Modest,525,95,65,65,110,130,60
+1685,81,Regulation Set E,Sandy Shocks,Sandy Shocks,Electric,Ground,Protosynthesis,Grass,Modest,570,85,81,97,121,85,101
+1686,82,Regulation Set E,Iron Valiant,Iron Valiant,Fairy,Fighting,Quark Drive,Fairy,Naive,590,74,130,90,120,60,116
+1687,82,Regulation Set E,Kingambit,Kingambit,Dark,Steel,Defiant,Flying,Adamant,550,100,135,120,60,85,50
+1688,82,Regulation Set E,Ceruledge,Ceruledge,Fire,Ghost,Flash Fire,Ghost,Adamant,525,75,125,80,60,100,85
+1689,82,Regulation Set E,Rotom-Wash,Rotom (Wash Rotom),Electric,Water,Levitate,Electric,Modest,520,50,65,107,105,107,86
+1690,82,Regulation Set E,Amoonguss,Amoonguss,Grass,Poison,Regenerator,Water,Impish,464,114,85,70,85,80,30
+1691,82,Regulation Set E,Garchomp,Garchomp,Dragon,Ground,Rough Skin,Ground,Jolly,600,108,130,95,80,85,102
+1692,83,Regulation Set E,Iron Moth,Iron Moth,Fire,Poison,Quark Drive,Grass,Timid,570,80,70,60,140,110,110
+1693,83,Regulation Set E,Flutter Mane,Flutter Mane,Ghost,Fairy,Protosynthesis,Steel,Timid,570,55,55,55,135,135,135
+1694,83,Regulation Set E,Dondozo,Dondozo,Water,,Unaware,Dragon,Jolly,530,150,100,115,65,65,35
+1696,83,Regulation Set E,Gholdengo,Gholdengo,Steel,Ghost,Good as Gold,Steel,Modest,550,87,60,95,133,91,84
+1697,83,Regulation Set E,Kingambit,Kingambit,Dark,Steel,Defiant,Flying,Adamant,550,100,135,120,60,85,50
+1698,84,Regulation Set E,Spiritomb (M),Spiritomb,Ghost,Dark,Infiltrator,Steel,Sassy,485,50,92,108,92,108,35
+1699,84,Regulation Set E,Iron Hands,Iron Hands,Fighting,Electric,Quark Drive,Fighting,Adamant,570,154,140,108,50,68,50
+1700,84,Regulation Set E,Scizor (M),Scizor,Bug,Steel,Technician,Fire,Adamant,500,70,130,100,55,80,65
+1701,84,Regulation Set E,Pelipper (F),Pelipper,Water,Flying,Drizzle,Flying,Modest,440,60,50,100,95,70,65
+1702,84,Regulation Set E,Farigiraf (F),Farigiraf,Normal,Psychic,Armor Tail,Poison,Quiet,520,120,90,70,110,70,60
+1703,84,Regulation Set E,Pincurchin (F),Pincurchin,Electric,,Electric Surge,Electric,Quiet,435,48,101,95,91,85,15
+1704,85,Regulation Set E,Flutter Mane,Flutter Mane,Ghost,Fairy,Protosynthesis,Fairy,Timid,570,55,55,55,135,135,135
+1705,85,Regulation Set E,Sandy Shocks,Sandy Shocks,Electric,Ground,Protosynthesis,Electric,Timid,570,85,81,97,121,85,101
+1706,85,Regulation Set E,Brute Bonnet,Brute Bonnet,Grass,Dark,Protosynthesis,Fire,Adamant,570,111,127,99,79,99,55
+1707,85,Regulation Set E,Tauros-Paldea-Blaze,Tauros (Blaze Breed),Fighting,Fire,Intimidate,Grass,Jolly,490,75,110,105,30,70,100
+1708,85,Regulation Set E,Scizor (M),Scizor,Bug,Steel,Technician,Dragon,Adamant,500,70,130,100,55,80,65
+1709,85,Regulation Set E,Murkrow (M),Murkrow,Dark,Flying,Prankster,Ghost,Impish,405,60,85,42,85,42,91
+1710,86,Regulation Set E,Abomasnow (F),Abomasnow,Grass,Ice,Snow Warning,Water,Modest,494,90,92,75,92,85,60
+1711,86,Regulation Set E,Iron Bundle,Iron Bundle,Ice,Water,Quark Drive,Ice,Timid,570,56,80,114,124,60,136
+1712,86,Regulation Set E,Flutter Mane,Flutter Mane,Ghost,Fairy,Protosynthesis,Fairy,Timid,570,55,55,55,135,135,135
+1713,86,Regulation Set E,Iron Moth,Iron Moth,Fire,Poison,Quark Drive,Dark,Timid,570,80,70,60,140,110,110
+1714,86,Regulation Set E,Dragonite (M),Dragonite,Dragon,Flying,Multiscale,Normal,Adamant,600,91,134,95,100,100,80
+1715,86,Regulation Set E,Brute Bonnet,Brute Bonnet,Grass,Dark,Protosynthesis,Dark,Brave,570,111,127,99,79,99,55
+1716,87,Regulation Set E,Brute Bonnet,Brute Bonnet,Grass,Dark,Protosynthesis,Dark,Brave,570,111,127,99,79,99,55
+1717,87,Regulation Set E,Iron Hands,Iron Hands,Fighting,Electric,Quark Drive,Steel,Brave,570,154,140,108,50,68,50
+1718,87,Regulation Set E,Scream Tail,Scream Tail,Fairy,Psychic,Protosynthesis,Grass,Sassy,570,115,65,99,65,115,111
+1719,87,Regulation Set E,Annihilape (M),Annihilape,Fighting,Ghost,Defiant,Fighting,Jolly,535,110,115,80,50,90,90
+1720,87,Regulation Set E,Torkoal (M),Torkoal,Fire,,Drought,Fire,Quiet,470,70,85,140,85,70,20
+1721,87,Regulation Set E,Sylveon (M),Sylveon,Fairy,,Pixilate,Rock,Quiet,525,95,65,65,110,130,60
+1722,88,Regulation Set E,Flutter Mane,Flutter Mane,Ghost,Fairy,Protosynthesis,Fairy,Timid,570,55,55,55,135,135,135
+1723,88,Regulation Set E,Iron Moth,Iron Moth,Fire,Poison,Quark Drive,Dark,Timid,570,80,70,60,140,110,110
+1724,88,Regulation Set E,Dondozo (M),Dondozo,Water,,Unaware,Grass,Adamant,530,150,100,115,65,65,35
+1725,88,Regulation Set E,Tatsugiri-Stretchy (M),Tatsugiri (Stretchy Form),Dragon,Water,Commander,Water,Timid,475,68,50,60,120,95,82
+1726,88,Regulation Set E,Dragonite (F),Dragonite,Dragon,Flying,Multiscale,Flying,Adamant,600,91,134,95,100,100,80
+1727,88,Regulation Set E,Kingambit (M),Kingambit,Dark,Steel,Defiant,Dark,Adamant,550,100,135,120,60,85,50
+1728,89,Regulation Set E,Amoonguss (M),Amoonguss,Grass,Poison,Regenerator,Water,Relaxed,464,114,85,70,85,80,30
+1729,89,Regulation Set E,Arcanine (M),Arcanine,Fire,,Intimidate,Water,Timid,555,90,110,80,100,80,95
+1730,89,Regulation Set E,Sylveon (M),Sylveon,Fairy,,Pixilate,Fire,Modest,525,95,65,65,110,130,60
+1731,89,Regulation Set E,Iron Thorns,Iron Thorns,Rock,Electric,Quark Drive,Grass,Adamant,570,100,134,110,70,84,72
+1732,89,Regulation Set E,Mimikyu (M),Mimikyu,Ghost,Fairy,Disguise,Fairy,Brave,476,55,90,80,50,105,96
+1733,89,Regulation Set E,Roaring Moon,Roaring Moon,Dragon,Dark,Protosynthesis,Flying,Jolly,590,105,139,71,55,101,119

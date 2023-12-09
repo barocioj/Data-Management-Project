@@ -1,0 +1,26 @@
+,Nature,Increase,Decrease
+0,Hardy,—,—
+1,Lonely,Attack,Defense
+2,Brave,Attack,Speed
+3,Adamant,Attack,Sp. Attack
+4,Naughty,Attack,Sp. Defense
+5,Bold,Defense,Attack
+6,Docile,—,—
+7,Relaxed,Defense,Speed
+8,Impish,Defense,Sp. Attack
+9,Lax,Defense,Sp. Defense
+10,Timid,Speed,Attack
+11,Hasty,Speed,Defense
+12,Serious,—,—
+13,Jolly,Speed,Sp. Attack
+14,Naive,Speed,Sp. Defense
+15,Modest,Sp. Attack,Attack
+16,Mild,Sp. Attack,Defense
+17,Quiet,Sp. Attack,Speed
+18,Bashful,—,—
+19,Rash,Sp. Attack,Sp. Defense
+20,Calm,Sp. Defense,Attack
+21,Gentle,Sp. Defense,Defense
+22,Sassy,Sp. Defense,Speed
+23,Careful,Sp. Defense,Sp. Attack
+24,Quirky,—,—
